@@ -1,0 +1,29 @@
+13-3.jpg	0	0	0	-280	1.2
+Across the vast Pacific the atomic sub roared, and for the youngest of its crew, Jonnie Flint, there were numerous distractions...
+Look! An old clipper ship! An' look at those crazy fish! Gee, I'd sure like to go for a dive!	150	30	150	10
+Maybe when we're not hunting big game, Jonnie.	420	10	120	100
+FRAME	-350	-270	1.20
+The target was the merest speck on the floor of the greatest ocean of the world, but finally...
+There it is. Cut the motors!	260	10	120	100
+Its escape hatch is open, Bill. Can't blame the crew for trying to escape, even though it was impossible.	480	10	140	100
+FRAME	-750	-250	1.20
+Within the atomic sub, each of the commandos vied to accompany the commander...
+Please, Bill, take me! I never get to do anything!	310	10	150	100
+Okay, Jonnie! But you must fall back if there appear to be any danger.	540	10	160	100
+FRAME	0	-950	1.2
+It appeared to be a routine task, but at depths which had never been explored before, strange menaces lurked! It was Jonnie who saw it first...
+Bill! Over there!	180	10	120	100
+Great Scott! And all I've got is a dart pistol!	370	10	200	100
+FRAME	-680	-920	1.20
+It called for steady hands and iron nerves, qualities for which Bill Tyler was justly famed. When the monstrous underwater killer was almost upon them...
+Nasty-looking devil, isn't it?	80	10	180	100
+Y-you can say that again! But it's through now!	300	10	100	100
+FRAME	-20	-1560	1.20
+Eagerly, the boy kicked towards the open hatch...
+PLAYMUSIC	BATTLE
+Hey, Jonnie, wait! Let me go in first!	180	10	140	100
+FRAME	-690	-1590	1.20
+Too late! For no sooner had Jonnie's legs dropped into the submerged submarine, when suddenly hands reached up to pull him in!
+What the... Help!	140	10	140	100
+Hold on! I'm coming!	550	10	100	100
+END

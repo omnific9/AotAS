@@ -1,0 +1,15 @@
+ind-jonnie.jpg	0	0	-750	-120	1.2
+$connphrase Jonnie came to look at you playfully.
+Ha... don't mind me, $sirormaam! I just heard about you from so many stories that I have to look at you, and see exactly how special you are. Even though we've been together a while, I still haven't really talked to you much!	120	20	480	100
+What? Oh, I have an old buddy, a far relative of my family. I call him Old O. He was a great inventor an' he invented the telepathor too! Uh...	120	20	480	100
+FRAME	0	-850	1.2
+As Jonnie realized he just admitted to lying before, he blushed.
+P... please don't tell Bill about it, or I'll get kicked out! Well... I didn't invent the telepathor. Old O invented it, and I took it, thinking I could use it to board the atomic sub.	220	5	370	100
+An' I didn't care much about the sub, really. I just wanted to see you. Old O talked about you a lot, about how you were his last hope, and how your energy will lead us to victory.	220	5	370	100
+See, it is true. When you accomplish your missions, I feel better too! An' I know Doc told me he'd invented all his little gadgets when you were doing a good job at your work. Sounds strange, but true!	220	5	370	100
+FRAME	0	-120	1.2
+SETSOUND	success.mp3
+Well, let's get back to work now. Please keep my secret! And tell me more about your stories if you remember them.	200	10	400	100
+Jonnie has revealed more of himself to you. Complete more missions to become closer to Jonnie.
+SET	jonnie-transition	2
+END

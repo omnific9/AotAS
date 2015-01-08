@@ -1,0 +1,13 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	clearmotivation()
+Looks like this Russian officer is telling us everything we need. Soon we should be on our way to avenge Tony and Dr. McDougald. Well, do I know him? Barely. But it appals me that something horrible would happen to an innocent scientist. But perhaps we're not innocent after all.	30	10	340	100
+FUNC	preparehomework()
+FRAME	0	-840	1.2
+SET	curhwid	11
+SET	hwchar	edwin
+Oh, what I was thinking is... a mission will probably do you good. It's been a while, and Bill is busy digging information from the dying captain... 	180	10	340	100
+So let me give you today's mission. Your mission: $hwassign	180	10	340	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

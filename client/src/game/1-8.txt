@@ -1,0 +1,5 @@
+1-7.jpg	0	0	-750	-950	1.2
+Time is running short on the secret team, and they have to set out to their destination soon. 
+FRAME	-750	-1700	1.2
+What are the UFOs that Bill Tyler encountered? What dangers will the commandos of the atomic sub face? The story will continue tomorrow. Great adventures await!
+END

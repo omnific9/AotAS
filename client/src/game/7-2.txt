@@ -1,0 +1,24 @@
+7-2.jpg	0	0	-10	-90	1.2
+SET	connphrase	While Dr. Blake established a plan to upgrade the atomic submarine, 
+Will you look at it... it's blood red!	50	10	140	100
+Funny... looks as if something's coming from it, Bill!	240	10	300	100
+FRAME	-370	-200	1.20
+Yes, something was coming from the Moon! It looked like a shower of meteors headed Earthward...
+FRAME	-750	-260	1.20
+Whatever the objects were, they were burned up, consumed in their journey through space. Only one of them entered the Earth's atmosphere, and it landed in the ocean about thirty miles from the atomic sub. There wasn't any doubt about its nature...
+Holy smoke! It... it's an atomic explosion!	450	20	280	100
+FRAME	-30	-910	1.2
+The atomic commandos brought back this first-hand report to Washington... where, at an emergency meeting of the national defense council...
+There wasn't the slightest doubt in the world! It was an atomic weapon launched from the Moon!	50	10	200	100
+It had to come sooner or later! For ten years, military men have realized the first nation that could gain control over the Moon could use it to dominate the Earth from out in space. And this looks like the first step!	340	10	400	100
+FRAME	-750	-910	1.20
+I see.. what you are driving at is that Russia may have gotten there... and are already conducting experiments on launching attacks against us. Mr. Secretary, this is your province... how do we stand on rockets that can challenge the Soviet's potential beach-head on the Moon?	120	10	360	100
+We've made strides with devices that will outperform any... soon! Trouble is they're not ready yet, and we still can't reach the Moon! We need time... the one thing we haven't got!	530	10	180	100
+FRAME	-30	-1630	1.20
+How to reach the Moon? It was then that Bill Tyler came up with a stunning suggestion...
+This may sound off-beam... but if we could use the atomic submarine to bore the center of the Earth, as we did, can't we go further? The sub's tough. It's capable of limitless power and speed through atomic drive. Can we fit it out as a rocket and take it to the Moon?	50	10	550	100
+FRAME	-710	-1580	1.20
+It was a daring, almost crazy plan, but it caught on like wildfire, gathered momentum...
+It's feasible. I've experimented with a new type of jet propulsion with an atomic motivator. And the sub's metallic coating will allow terrific speeds in space without burning up! Give us a few weeks for the necessary alterations. That's all!	30	10	440	100
+I think we're in agreement. Once again, we trust our fate to the atomic commandos!	550	10	190	100
+END

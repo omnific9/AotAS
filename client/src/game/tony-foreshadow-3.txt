@@ -1,0 +1,12 @@
+ind-tony.jpg	0	0	-750	-40	1.2
+$connphrase Tony screamed so loud that your ears were shocked with humming sounds.
+Am I going to die here? We're all going to die here! Good Heavens, please don't let this happen to me!	120	31	450	100
+FRAME	-40	-100	1.2
+But then, Tony calmed down as his tightened nerves ran loose, and he began smiling again.
+Well, that was really uncalled for... Did I scare you, $getusername? I didn't mean to this time. But I have to say, I'm a bit tired of all this... excitement on our missions.	440	30	220	100
+I'm no fighter, na-ah! Who do I look up to when we're in danger? You, $sirormaam, of course! And what did you do? Oh yeah, I can totally count on this $boyorgirl because $heorshe totally didn't finish $hisorher mission at all!	440	30	220	100
+SETSOUND	fail.mp3
+Look, let's just get on with the mission now. I'm just tired of all this... I escaped all sorts of things. I ran all my life. I'm too tired and old to run now, and I have nowhere to go.	440	30	220	100
+Tony has revealed part of his dark side to you. Complete more missions to help Tony gain the courage and dedication that will prevent him from succumbing to a dark past.
+SET	tony-foreshadow	7
+END

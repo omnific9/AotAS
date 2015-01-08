@@ -1,0 +1,28 @@
+13-2.jpg	0	0	0	-220	1.2
+A short while later aboard an American ship in the area...
+It's an S.O.S., Captain! A Chinese sub seems to have developed engine trouble! They can't surface!	130	10	220	100
+Proceed to their readings. There may be survivors!	390	10	120	100
+FRAME	-350	-220	1.20
+The freighter stood by for hours, but...
+Look, there's an oil slick coming to the surface! The poor devils must've drowned like rats! We'd better report this to the authorities.	250	10	200	100
+FRAME	-750	-220	1.20
+Scant hours later, in the office of FBI's director...
+Just in off the code wire, Chief! What do you think?	210	10	200	100
+Plenty! Get Commander Tyler and the commandos here immediately!	490	10	180	100
+FRAME	-40	-900	1.2
+The mighty gears of the U.S. government ground into action! Once again the atomic commandos were being briefed for a supremely important mission...
+... And that's the dope we've got! We estimate the Chinese sub sunk here... in Four Mile Water, beyond ordinary diving possibilities.	80	10	240	100
+And the atomic sub is the only mechanism in the world that can plunge into that depth!	490	10	180	100
+FRAME	-750	-840	1.20
+Exactly! The papers aboard that sub are invaluable! With them we may be able to round up every red agent in the U.S.!	70	5	300	100
+We all get the picture, Sir.	490	10	150	100
+FRAME	-60	-1590	1.20
+The FBI Chief turned the commandos over to government marine scientists, who put them in diving suits capable of withstanding tremendous pressures...
+Under 20,000 feet of water the pressure is thousands of pounds per square inch! How does the garb feel, Commander?	80	20	250	100
+Snug as a bug in a rug!	520	10	180	100
+FRAME	-750	-1580	1.20
+The dangerous task was heartily welcome to the commandos! 
+Take her down, Doc!	180	20	100	100
+Aye, aye, Bill!	470	20	100	100
+SET	connphrase	As Bill was getting ready to dive into depths of water that no one dared to challenge, 
+END

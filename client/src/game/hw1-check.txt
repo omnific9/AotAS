@@ -1,0 +1,8 @@
+ind-bill.jpg	0	0	0	-100	1.2
+PLAYMUSIC	REGULAR
+$getusername, I hope life as a stowaway wasn't too harsh for you. You got a chance to consider the mission we talked about?	150	20	450	100
+SET	prehwid	1
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

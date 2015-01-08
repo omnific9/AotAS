@@ -1,0 +1,12 @@
+ind-jonnie.jpg	0	0	-750	-120	1.2
+$connphrase Jonnie looked extremely stressed. You decided to find out what was on his mind.
+It's... nothing... just that I've been thinking about the time we spent together. Every time I felt desperate, as soon as you completed your mission, I'd feel like I could take on the world.	120	20	480	100
+FRAME	0	-860	1.2
+Old O told me you're our hope, that you're the opposite of what man has created to destroy ourselves, and that you'd save us all in the end. The funny thing is... I'm starting to believe it.	220	2	370	100
+SETSOUND	success.mp3
+Old O's sent you letters, hasn't he? Oh, he wouldn't forget you, of course. He's always had faith in you. So please keep up with your missions, $getusername, and you'll lead us to victory!	220	2	370	100
+You understand Jonnie much better now. Something inside of you has changed. Next time you complete a mission, a piece of your lost memory may come back to you.
+SET	jonnie-transition	3
+SET	jonnie-foreshadow	3
+FUNC	memoryinc()
+END

@@ -1,0 +1,21 @@
+<data>
+    <file name="hw18-check">
+    </file>
+    <file name="19-1">
+        <req prehw="success"/>
+        <follow>reinforcement</follow>
+    </file>
+    <file name="19-2">
+    </file>
+    <file name="19-3">
+    </file>
+    <file name="19-4">
+    </file>
+    <file name="19-5">
+    </file>
+    <file name="hw19-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="19-6">
+    </file>
+</data>

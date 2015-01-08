@@ -1,0 +1,27 @@
+<data>
+    <file name="hw18-check">
+    </file>
+	<file name="hw18-success">
+        <req prehw="success"/>
+    </file>
+    <file name="19-1">
+    </file>
+    <file name="19-2">
+    </file>
+    <file name="19-3">
+        <change loc="outside" state="rest" tony="unavailable" doc="available" bill="available" champ="available" jonnie="available"/>
+        <follow>transition</follow>
+        <follow>foreshadow</follow>
+    </file>
+    <file name="19-4">
+    </file>
+    <file name="19-5">
+    </file>
+    <file name="hw19-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="19-6">
+    </file>
+    <file name="endofday">
+    </file>
+</data>

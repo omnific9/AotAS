@@ -1,0 +1,14 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+$connphrase Dr. Blake moved closed to you.
+You got to admit, I'm not the best person to be in a military mission. I lose my poise and courage too quickly, rightfully as a scientist at my age.	30	10	340	100
+But I learned a lot from your missions, about what exercise can do for me. I wish I could be more brave and... live longer. You think I could if I do more exercise?	30	10	340	100
+FRAME	0	-840	1.2
+Why, you ask? Who wouldn't want to live longer? But me, I want to see what the future is like. 	180	10	320	100
+Dr. Blake was in a rush, but he vividly recalled some of his memories in a short moment.
+I had a mentor a few years ago, Dr. Oppenheimer, a rather famous scientist. But we had some disagreements. I wish in a few years I'd be proven right. I wish I could live a long time to see this happen.	180	10	320	100
+He thought atomic energy could be used to make humans more powerful, to make us a better species... such a naive idealist, I say! If the President kept listening to him, the atomic sub wouldn't exist, and America would be no more.	180	10	320	100
+SETSOUND	success.mp3
+Edwin is revealing more of himself to you. Complete more missions to become closer to him.
+As he spoke, Dr. Blake walked faster ahead of you, getting back to his work.
+SET	doc-transition	2
+END

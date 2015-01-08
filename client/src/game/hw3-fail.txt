@@ -1,0 +1,10 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+There seems to be a lot of pressure on you these days. Still having those headaches when you try to remember things? Take it easy. If you have any trouble, I'm all ears.	140	20	500	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	140	20	500	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+Well... The important thing is to find solutions to each problem you have. Talk to friends like me certainly helps. Now let's go. We got a class to teach!	140	20	500	100
+END

@@ -1,0 +1,21 @@
+17-1.jpg	0	0	-50	-120	1.2
+PLAYMUSIC	REGULAR
+In the White House, a decision was being made against the Antarctic invasion.
+I'm convinced that atomic shell is our only hope... if we act quickly!	40	10	200	100
+I'll have a top crew get to work immediately, but you know how I feel about all this, Bill.	380	10	300	100
+FRAME	-750	-180	1.20
+An emergency phone call from Bolingfield... blurted out over the roar of anti-aircraft batteries...
+It's a massive attack... and we don't know who they are! Big shining spheres... coming in low...	310	10	300	100
+FRAME	0	-920	1.2
+As the Antarc craft swooped in an inferno of crackling bolts...
+FRAME	-410	-940	1.20
+Unchecked, the spheres landed swiftly... disgorging the first contingent of invaders! The offensive had been planned to the last detail... the fighters trained to the last man... and now they were here!
+... To the white house! Once we capture the President, the country will be demoralized!	220	100	200	100
+FRAME	-750	-930	1.20
+The atomic commandos had already learned what the Antarc pressure guns could do... but the invasion weapons were even heavier models...
+FRAME	-40	-1600	1.20
+As Bill Tyler sped toward Bolingfield, his one desperate thought was... counterattack!
+The raw courage of our troops isn't enough! I'm going to get some weapons we need... and the Antarcs have 'em!	80	20	450	100
+FRAME	-750	-1520	1.20
+Yep, there's what I'm after... one of those Antarc spheres!	600	50	120	100
+END

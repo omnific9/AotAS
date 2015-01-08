@@ -1,0 +1,28 @@
+21-3.jpg	0	0	0	-270	1.2
+Quickly, Jonnie nosed the sub up the river leading to the enemy stronghold! The atomic motors were capable of tremendous speed, but the destination was still a long way off...
+Every second counts... and everything depends on me!	220	60	250	100
+FRAME	-370	-170	1.20
+With the moments ticking away...
+The kid says to escape! But how? And what's the plan?	190	10	170	100
+Jonnie's our only hope, and if he says we've got to bust out, that's just what we're gonna do!	450	10	130	100
+FRAME	-750	-260	1.20
+The thick armor-plated doors of the cell were impregnable, as were the rocky walls... But the awesome strength of Champ had not yet been put to the test...
+Champ, I don't see how you're going to get us out of this!	280	40	130	100
+I... I gotta try!	520	20	100	100
+FRAME	-70	-860	1.2
+With prodigious power, his mighty muscles tore rock after rock away, until...
+There are only a few left! Get set to follow me out... I'm going through!	50	10	240	100
+We'll be right behind you, pal!	540	10	110	100
+FRAME	-680	-840	1.20
+PLAYMUSIC	BATTLE
+With a single superhuman effort...
+C'mon!	190	70	100	100
+Look! They're escaping!	610	350	120	100
+FRAME	-110	-1520	1.20
+With surprise and determination on their side...
+Flying wedge!	300	20	200	100
+FRAME	-750	-1550	1.20
+Making good the escape, the commandos raced for high ground! While death lurked below...
+The kid confused me... Why does he want us to do this?	220	20	130	100
+Who knows? But when the chips are down, Jonnie knows what the scope is! So shut up and climb!	500	10	150	100
+END

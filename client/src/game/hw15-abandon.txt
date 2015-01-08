@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	-640	-800	1.2
+You spend some time and think about your choice, $boyorgirl. One day I won't be here with you any more, like Tony. You gonna be okay then?	120	10	150	100
+Bill turned away from you. Something was on his mind. Something as heavy as to make him obsessed about training you well.
+END

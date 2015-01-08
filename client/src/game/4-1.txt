@@ -1,0 +1,9 @@
+4-1.jpg	0	0	-30	-1550	1.2
+PLAYMUSIC	REGULAR
+In a classroom in Washington, Commander Bill Tyler addressed graduating secret service agents on an important subject.
+-- Presidential security is going to be a big part of your jobs. I'm talking to you as a former secret service agent -- who, in the interests of security, was selected as head of the atomic commandos of America's greatest weapon, the atomic sub!	90	10	260	100
+FRAME	-500	-1550	1.2
+Some folks think a submarine is limited -- but not this one! Remember that there are water-ways everywhere! This baby can dive to any depth -- and it's the fastest water craft ever known! It's almost impenetrable by attacks and it carries the greatest fire-power in history.	200	10	350	100
+FRAME	-730	-1550	1.2
+So remember, every one of you: if you're ever in a fix where presidential or national security seems at stake, and you need help fast, remember the atomic commandos are behind you!	400	10	300	100
+END

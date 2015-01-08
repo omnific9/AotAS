@@ -1,0 +1,12 @@
+<data>
+    <file name="hwnl-hw16-check">
+    </file>
+    <file name="hwnl-hw16-success">
+        <req prehw="success"/>
+    </file>
+    <file name="hwnl-hw17-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-endofday">
+    </file>
+</data>

@@ -1,0 +1,16 @@
+6-9.jpg	0	0	-40	-180	1.2
+It was fanning out of the water now, in a huge and ever-growing mist... drifting ominously towards the mainland... and in every particle, there was... death!
+FRAME	-680	-180	1.20
+PLAYMUSIC	REGULAR
+Here it was, the thing which the giants so dreaded... the one thing before which their huge strength availed them little! Atomic power... breaking down their body cells... touching off internal fire...
+Uh...	60	10	100	100
+Arghh!	400	40	100	100
+Aie-eeeee!	590	40	200	100
+FRAME	-40	-930	1.2
+And so it came to an end, this civilization of titans at the center of the Earth... For now, not a single one was left alive.
+FRAME	-750	-930	1.20
+For the atomic sub, there was the return trip up through the Earth's crust and out of the underwater crater...
+FRAME	-40	-1560	1.20
+A return in triumph... as cheering crowds welcomed the atomic commandos who had saved them, but the hard truth had to be kept from the public, that mankind had sacrificed an entire race for their own survival...
+Thank Heavens that there is a world, and people to cheer...	280	20	300	100
+END

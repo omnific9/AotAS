@@ -1,0 +1,23 @@
+15-6.jpg	0	0	0	-250	1.2
+But for brave Bill Tyler, his mission accomplished, there was still the task of saving himself! His badly riddled plane was on the verge of shattering...
+The wing's starting to buckle, and there's not an inch of open water down there! I'll have to crash land on ice!	120	10	280	100
+FRAME	-410	-200	1.20
+While his friends looked on aghast...
+Great guns, I - I don't think he made it!	230	10	120	100
+C'mon, let's get to him! That crash must've broken every bone!	410	10	140	100
+FRAME	-750	-200	1.20
+PLAYMUSIC	REGULAR
+Bill was unconscious when they arrived, obvious to everything...
+He's hurt... bad! We've got to get him to a hospital fast!	300	20	150	100
+Doc, you better rev up the sub's motors like they've never been revved before!	530	10	150	100
+FRAME	0	-930	1.2
+At full speed the sub blazed back to Washington! Bill, still unconscious, was rushed to the naval hospital, and wheeled into an operation room! The long hours of a grim vigil passed, until...
+You guys can all go get some sleep now... Commander Tyler will be okay! That man's got an iron constitution!	120	20	300	100
+Thank Heavens for that!	530	20	200	100
+FRAME	-750	-840	1.20
+Weeks later...
+The president has asked me the express the gratitude of the entire nation, and to tell you that as soon as Commander Tyler can walk we will express it concretely!	40	20	600	100
+Well, we don't deserve thanks! We were only fixing a problem we caused...	500	100	140	100
+FRAME	-350	-1550	1.20
+-- And so to each of our atomic commandos I award the Congressional Medal of Honor! Commander William Tyler thus becomes the first man in our history to win two of them... the first being for his great exploits in the last war! We congratulate them all!	70	10	650	100
+END

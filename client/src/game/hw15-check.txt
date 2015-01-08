@@ -1,0 +1,9 @@
+ind-bill.jpg	0	0	0	-100	1.2
+PLAYMUSIC	REGULAR
+It was a bright morning. The atomic commandos had already been in the submarine checking the operations of the giant weapon.
+Good morning, $getusername! Well, perhaps it's not morning where you are. You get the idea. You know I'm going to ask about your mission, don't you?	140	20	500	100
+SET	prehwid	15
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

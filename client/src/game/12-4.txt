@@ -1,0 +1,23 @@
+12-4.jpg	0	0	0	-180	1.2
+But meanwhile, Jonnie had been listening to the commandos' thoughts through his telepathor...
+I think it might be safe now. I'll take this flame thrower with me. This should burn the plants...	150	30	220	100
+FRAME	-310	-140	1.20
+Holy smoke! What...	210	10	100	100
+No, Jonnie, no... get back!	400	10	150	100
+FRAME	-750	-180	1.20
+Too late! And Jonnie simply did not imagine the plants would have been created with such agility!
+Huh?	240	30	150	100
+Good Heavens! It's got him!	440	5	100	100
+FRAME	0	-880	1.2
+With all of the mighty power for which he was famed, Champ broke loose!
+Hang on, Jonnie! I'm coming!	140	170	140	100
+FRAME	-750	-850	1.20
+The plant could not withstand the strength which Champ exerted!
+FRAME	-40	-1590	1.20
+It was human strength pitted against the titanic force of a killer-plant! And yet Champ might have won through, if another of the trees of death hadn't taken a hand!
+Two of them now ... can't ... fight 'em off!	120	10	180	100
+I've gotta do something... Here! This flame thrower...	420	10	240	100
+FRAME	-750	-1550	1.20
+Jonnie grabbed the odd device, and cut loose!
+I ... I sure hope this'll work...	200	10	100	100
+END

@@ -1,0 +1,12 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+$connphrase Champ David Ruggles caught you with a serious look.
+Hey $getusername, I gotta tell ya something quick! Doc's told me that what you're doing... the missions that you finish, is having a subtle impact on us, that if you do good, we'll pilot the atomic sub better.	150	20	370	100
+I do feel it I tell ya, in every small way! And I... I feel sorry that I said those things about memories last time... Well, I thought having a bad memory was bad enough, but I never imagined what it would be like to lose all your memories. 	150	20	470	100
+FRAME	-750	-170	1.2
+SETSOUND	success.mp3
+Now, I hope you wouldn't mind. Let's punch some walls open!	130	80	180	100
+You now understand David better. Continue to complete more missions. A lost piece of memory may come back to you next time.
+SET	champ-transition	3
+SET	champ-foreshadow	3
+FUNC	memoryinc()
+END

@@ -1,0 +1,15 @@
+1-6.jpg	0	0	0	-120	1.2
+Uh... uh...	150	100	50	100
+Ben! What's happened to you?	560	100	100	100
+He didn't answer -- and all I saw was that strange stiffening, as if a sudden paralysis had gripped him! Ben, who was as healthy as an ox!
+FRAME	-700	-120	1.2
+ 
+FRAME	0	-880	1.2
+I saw him fall, like a doll without the breath of life -- and I saw something else! Suddenly, miraculously, the damaged flying saucer was intact again -- and Ben a prisoner!
+FRAME	-700	-880	1.2
+Then, next moment --
+FRAME	0	-1620	1.2
+So there it is -- what I know directly about the flying saucers! We suspect they may be Russian secret weapons -- our first step must be to capture one and investigate it! But they're known to dive into the deepest part of the atlantic, where nothing can get at them -- nothing but America's new atomic submarine.	150	40	450	100
+FRAME	-700	-1620	1.2
+That's it. You've been chosen as members of the Atomic Command Corps, the ACC -- secretly commissioned as naval lieutenants serving under Commander Tyler to man the atomic sub. Accept and you'll risk your lives, but you'll have unlimited resources and all of America behind you!	180	30	450	100
+END

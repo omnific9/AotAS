@@ -1,0 +1,8 @@
+7-1.jpg	0	0	-40	-1500	1.2
+PLAYMUSIC	REGULAR
+On the atomic submarine, sub-surface...
+Stand by for a code message coming in on the secret wave length. Must be something important!	400	10	320	100
+FRAME	-710	-1450	1.20
+Well, I'll be... It's from Washington. About the Moon! The color's changing... and they suspect something's happening up there! We're to report back immediately!	100	10	320	100
+Hmmm... the Moon's up by now. Let's surface and see what it's all about.	490	10	220	100
+END

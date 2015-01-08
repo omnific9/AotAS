@@ -1,0 +1,18 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+$connphrase Tony ran over to you.
+This is hardly the time to talk, $getusername, I know, but I have to ask you something!	440	30	230	100
+You've been doing impressive work lately. How do you stand doing all those boring missions? I would not have done it for a single day!	440	30	230	100
+Remember I told you... that I was really scared? Well, the truth is I kept running all my life... The first time was being caught stealing a loaf of bread, because I was really hungry...	440	30	230	100
+When I was working in a circus, and the army came looking for recruits for the war, I ran again. I didn't wanna die. I kept running away from my beatings and difficult things, but then something changed.	440	30	230	100
+FRAME	-730	-880	1.2
+Tony showed you a locket he kept hidden in the deepest pocket of the greatest escape artist of America. In the locket was a picture of a woman.
+I met Jessica, you heard Tony say, and that was when I thought to myself that this escaping was all too much.
+FRAME	-40	-100	1.2
+Tony only showed the picture to you briefly before he took it away in the heat of this mission, carefully pushing it down his inner pocket again.
+When Washington came calling, I was gonna run away again, but I finally decided to come look at what they want me for. All for Jessica.	440	30	230	100
+Oh, looks like I've been talking too much. I always do. And looks like I'm talking myself into something. I think I somehow could understand why you feel so responsible for your missions.	440	30	230	100
+SETSOUND	success.mp3
+And so Tony ran to his position, with a smile on his face.
+Tony has revealed more of himself to you. Complete more missions to become closer to Tony.
+SET	tony-transition	6
+END

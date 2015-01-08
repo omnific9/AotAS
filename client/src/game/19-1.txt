@@ -1,0 +1,13 @@
+19-1.jpg	0	0	0	-1510	1.2
+PLAYMUSIC	REGULAR
+The atomic submarine was at sea when a coded message arrived to report to Washington immediately...
+What I can't understand is the summons coming from secret service. In the past, we've been responsible only to the President.	350	2	160	100
+FRAME	-370	-1490	1.20
+The mystery was soon dispelled...
+Well, I'll be... Oswald Peters! You're behind this!	210	10	220	100
+Right, Commander Tyler. I've just been made head of maritime security, and you've been sailing too close to hostile waters.	455	2	140	100
+FRAME	-750	-1510	1.20
+They'd been secret service operatives together in the old day... Rivals, and had never liked each other...
+Look, Peters, you know darned well that the atomic commandos operate independently! You're just trying to needle me... probably because we know more about security and spies than you do!	370	5	290	100
+Think so?	490	220	100	100
+END

@@ -1,0 +1,7 @@
+6.jpg	0	0	0	-1850	1.3
+We're down more than 50 miles -- and there doesn't seem to be any end of it! I'm beginning to wonder whether the atomic sub will withstand the strain!	80	40	400	100
+FRAME	-500	-1850	1.3
+This is like looking for a needle in a haystack! I don't think we've got a chance!	170	60	320	100
+FRAME	-460	-1310	1.0
+Holy great jumping Jimminy! Look at that -- and tell me if I'm dreaming!	500	60	220	100
+GOTO	0

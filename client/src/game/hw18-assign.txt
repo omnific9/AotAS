@@ -1,0 +1,19 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	clearmotivation()
+As the atomic sub headed back towards Washington, Dr. Blake seemed to be troubled by unsettling thoughts.
+This may concern you, $getusername. You might not know this but the secret service took a sample of your cells and your blood while you were in that slumber before, and they asked me to analyze them...	30	10	340	100
+We understand now that you are capable of absorbing a large amount of atomic energy, and radiation without harming yourself. But if you absorb too much of that energy, your cells will start to collapse and reshape.	30	10	340	100
+FRAME	-650	-840	1.2
+So why have you lost your memory? Perhaps you absorbed a large amount of atomic energy, and it destroyed the part of your brain that held your memory. 	470	10	280	100
+This may have caused you to lose all your memories too, and it explains what happened in Hiroshima, how you survived, and how Bill survived the atomic bomb too.	470	10	280	100
+And that may be why they put you on this training program, because if your body was stronger, you could be used as a "shield" that absorbs atomic energy without... decay...	470	10	280	100
+FRAME	0	-840	1.2
+I'm sorry for suddenly bringing this up. It has been on my mind for a while, and I don't want to keep you in the dark. But all matters have their priority. Let me give you your next mission.	180	10	320	100
+FUNC	preparehomework()
+SET	curhwid	18
+SET	hwchar	edwin
+Your mission: $hwassign	180	10	320	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

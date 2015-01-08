@@ -1,0 +1,24 @@
+5-7.jpg	0	0	0	-250	1.2
+Around them, the water seethed and bubbled, and the submarine's plates hissed at red heat! The atomic commandos had prepared for mid-earth temperatures by installing special refrigeration equipment... but nothing like this had been expected!
+What... what are we going to shoot at... fire?	80	10	150	100
+Can't ... stand it... Burning up...	280	5	180	100
+We can't die like this! We've got to fight!	470	5	180	100
+FRAME	-690	-160	1.20
+They didn't know it then, but other eyes were witnessing the strange combat! A fateful decision was being passed... a decision which changed the shape of human history.
+Good! Let the invaders perish!	50	20	220	100
+Always bloodthirsty, Montilla? Why have them killed by our enemies? Let them learn we mean them no harm, for they know not what they did to us! Quick... save them while we can... and bring them to me!	280	20	450	100
+FRAME	-60	-920	1.2
+Meanwhile, the atomic sub fought bravely... but the cause seemed hopeless! Again and again the defenders fired through the encircling wall of flame... but for every fire creature that was blasted into nothingness, two more swarmed in! The situation was desperate... but at the critical moment, bursting through the opposition...
+It's the giants! Wow! Look at 'em break up that formation!	120	20	400	100
+FRAME	-750	-890	1.2
+Now the flames died down, because these almost human fire-fish knew they could do no good against their huge antagonists! The struggle was brief, and fatal for one side.
+FRAME	-40	-1630	1.2
+PLAYMUSIC	REGULAR
+The battle over, the giants turned their attention to the atomic sub, herding it through the depths... prisoner of a friendly foe!
+What gives? They seem to be taking us somewhere!	50	10	180	100
+Okay... let 'em! They can't be so bad if they saved us! Besides, this is our only chance to find out the score!	300	20	320	100
+FRAME	-690	-1630	1.2
+It wasn't long before they reached shore... a strange shore, on which a strange civilization stood...
+What a place this is! Hey, those bent-over characters in fur... what are they?	40	5	300	100
+The Belotti ... our slaves! No more questions... not until our leader has spoken to you!	380	5	400	100
+END

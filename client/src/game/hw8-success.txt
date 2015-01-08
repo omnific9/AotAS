@@ -1,0 +1,10 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+So you are serious about this! I thought you were just hanging out with us! Now maybe I'll take you to a bar brawl one day! Ha! So what did you do?	150	20	370	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	150	20	370	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+Oh how you remind me of the old days! What you're doing, I've done before! Now let's hop on the sub. We gonna take a flight!	150	20	370	100
+END

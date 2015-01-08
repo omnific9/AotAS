@@ -1,0 +1,11 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+Tell me more! Let me hear it and remember it!	200	2	450	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+FRAME	0	-840	1.2
+SETSOUND	success.mp3
+$hwbenefitsuccess	220	10	380	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+I know you've overcome some great difficulties to come this far. I respect you amongst all atomic commandos, $getusername. Now, let's proceed to our greatest battle!	220	10	380	100
+END

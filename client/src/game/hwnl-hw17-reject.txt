@@ -1,0 +1,7 @@
+white.jpg	0	0	0	0	1.2
+FUNC	preparehomework()
+If you feel uncomfortable with that homework assignment, you can accept a different assignment.	100	20	600	100
+Here's your new homework assignment: $hwassign	100	20	600	100
+MENU	 	1
+I accept.	You have accepted the homework!	curhw	ongoing
+END

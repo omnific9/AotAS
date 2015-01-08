@@ -1,0 +1,5 @@
+20-4.jpg	0	0	-750	-1570	1.2
+But at that moment, high overhead, an American bomber... carrying Doc to his rendezvous point below! A glance told the whole story...
+Great Scott! The sub is under attack!	230	40	150	100
+Pilot to bombardier! Take over! Fast!	550	10	110	100
+END

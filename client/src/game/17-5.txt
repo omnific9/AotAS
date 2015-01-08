@@ -1,0 +1,8 @@
+17-5.jpg	0	0	-40	-60	0.7
+A deafening explosion!
+FRAME	0	-1680	1.20
+As Bill streaked earthward with the free-falling atomic shell, waiting for the most terrible nuclear explosion in history and too sure of death to even open his chute... the miracle happened!
+Great guns... the wave of energy from the crater has caught the bomb in its updraft and it's landing in the snow without setting off its detonator!	410	20	250	100
+FRAME	-690	-1640	1.20
+Was there still time to open his chute? One last, desperate try! He landed with a terrific thud... shaken, but alive!
+END

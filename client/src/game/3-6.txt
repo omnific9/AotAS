@@ -1,0 +1,15 @@
+3-6.jpg	0	0	0	-180	1.2
+A whirring of powerful motors -- and the atomic sub plummeted into the depths at headlong speed, obedient to the insistent radio impulses which guided it!
+FRAME	-400	-180	1.2
+And down below -- just as their lungs reached the bursting point --
+The sub! Thank Gosh!	420	30	100	100
+FRAME	-750	-140	1.2
+Tony almost drowned, but it wasn't hard to pull him inside from underwater.
+FRAME	-30	-800	1.2
+He'll be all right! But we got in here just in time!	90	50	220	100
+It was -- touch and go for a while! I had to -- get out of range of Atlantis' weapons before I summoned the sub -- but we're safe now!	370	40	320	100
+FRAME	-740	-870	1.2
+Safe? There was one thing Dr. Edwin Blake hadn't counted on -- a powerful onset like something out of a nightmare -- as a fleet of special fighting saucers swarmed in for the kill!
+FRAME	-50	-950	0.8
+But this was the mighty atomic submarine with you onboard, the atomic commandos! Spectacularly, you met the attack -- with ultra-modern arms which wrought havoc!
+END

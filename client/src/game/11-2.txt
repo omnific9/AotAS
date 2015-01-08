@@ -1,0 +1,16 @@
+11-2.jpg	0	0	0	-300	1.2
+PLAYMUSIC	BATTLE
+The atomic commandos kept on discussing the attack plan, but you might be too optimistic. The atomic sub has just passed over a spot that looks like any other -- seemingly only a portion of the bottom of the gulf, complete with sand and rocks --
+FRAME	-620	-270	1.20
+But when it has passed, there was a stealthy movement! Slowly it rose, that skilful-camouflaged monster -- the world's largest submarine! It was an underwater battleship -- a mighty creation that dwarfed its intended victim.
+FRAME	0	-880	1.2
+So that's the atomic sub, eh? I wonder how they'd feel if they knew they were trapped -- doomed to destruction!	140	10	140	100
+The fools think they've pierced the iron curtain! Little do they know that they've been lured into a trap, and it was simply by a clue on a dead man's arm!	370	10	180	100
+FRAME	-580	-1050	1.20
+Into the tubes went the strange devices! There was a hissing of compressed air -- and from the huge submersible there burst three torpedoes, each containing a lethal charge of super-explosive -- each piloted by a fanatic who couldn't miss!
+FRAME	0	-1550	1.20
+And at that moment, aboard the atomic sub ...
+Oh, no -- no!	200	10	200	100
+FRAME	-640	-1510	1.20
+Hurtling toward them came doom -- written in the grim faces of the death squadron that piloted the awful engines of terror!
+END

@@ -1,0 +1,20 @@
+memories2.jpg	0	0	0	-100	1.2
+$connphrase a fragment of memory flashed in your head.
+In the last days of the Battle of Sicily, your band struggled to advance, but you were confident of your skills, and lead your fellow soldiers forward recklessly.
+$getusername, we should probably check our surroundings. This place kinda makes me nervous.	60	10	300	100
+I agree. It doesn't hurt to wait a bit, eh?	510	2	190	100
+FRAME	0	-810	1.2
+However, just as you were about to assess the situation further, one of your soldiers fell to a sneak attack.
+Ah... I'm hit!	160	50	170	100
+FRAME	-750	-150	1.20
+What the...	130	40	300	100
+Shoot! We're under attack!	470	20	270	100
+You did not expect to be the next target, but when you came to, bullets penetrated your chest, and you were swallowed by a void darkness...
+FRAME	-750	-810	1.2
+When you woke up again, you were lying in a room with blue walls, and a man wearing a blue suit was standing before you.
+No worries now, $getusername. We have saved your life, but we had to conduct a special operation in order to make you live. The procedure was complicated, and requires explaining, but let's get to that later. Now, you need to sleep.	80	20	650	100
+SETSOUND	success.mp3
+And so, you went back to sleep.
+You have learned the secrets about your past. Continue to complete your missions to unlock more memory pieces.
+FUNC	memoryinc()
+END

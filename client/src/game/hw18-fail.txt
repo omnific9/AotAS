@@ -1,0 +1,12 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Let's talk about that. This might be the last time I'd be diagnosing your difficulties, so don't be shy now.	30	10	340	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+$hwbenefitfailure	30	10	340	100
+Sometimes I feel that with my duties as a commando, I never have time to do my research, to invent weird things, and to even talk to the people dearest to me. But I still try to come up with something once in a while.	30	10	340	100
+SETSOUND	fail.mp3
+No matter how difficult something seems to be, you just got to do what you got to do. Like, who's going to invent a time machine if I don't go about doing it? Ha ha!	30	10	340	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+Well, I hope you'll get over the difficulty you're facing. Let's go check with Bill now. See if he heard anything from Washington.	30	10	340	100
+END

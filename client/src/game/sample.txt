@@ -1,0 +1,18 @@
+3.jpg	0	0	0	-100	1.2
+SORRY, SIR -- BUT YOU CAN UNDERSTAND WE GOTTA BE CAREFUL HERE!	100	100	300	100
+On October 14th, 1951, Naval Installations at New London, Conn., became a veritable no-man's land, closely guarded against all unauthorized personnel! What was happening there was a hush-hush, top priority secret!
+-700	-100	1.2
+I - I CAN'T TAKE THIS OVERTIME, THIS DRIVING! WHY THE BIG RUSH TO FINISH IT AHEAD OF SCHEDULE?	100	80	300	70
+WHAT CAN BE HAPPENING THAT THEY NEED A --	100	175	160	70
+DON'T DISCUSS IT OUTSIDE OF THE YARDS, YA BIG DOPE! YA CAN'T TELL WHO MIGHT BE LISTENIN'!	460	78	300	100
+Those who sensed the mystery wondered! They had greater cause for wonder when, in March, 1953, activity suddenly heightened to fever pitch!
+0	-320	0.62
+Men -- materials -- recklessly expended in a desperate, round-the-clock struggle to rush to completion a mighty secret weapon! Slowly, all too slowly it took shape -- the atomic submarine!
+0	-1700	1.2
+LOOK, MISTER, THEY DON'T TELL ME ANYTHIN'! ALL I KNOW IS THEY'RE DRIVIN' US LIKE SLAVES! SOMETHIN'S UP, AN' THEY NEED THIS THING FINISHED FAST!	70	80	260	300
+You look, marvel -- ask yourself why! Haven't we a modernly equipped navy, an up-to-the-minute air force, dogfaces second to none? Then why the wild need for this giant device -- and all the hush-hush surrounding its construction?
+-700	-1700	1.2
+IS IT SOME NEW TYPE OF NAVAL CRAFT OR ISN'T IT?	80	40	300	70
+AND WHAT'S THE RUSH ABOUT LAUNCHING IT, MR. SECRETARY?	440	40	340	70
+NOTHING FOR PUBLICATION! IF YOU WON'T QUOTE ME, I MIGHT SAY THAT IT'S THE GREATEST SECRET WEAPON AMERICA'S EVER HAD! WE NEED IT NOW -- QUICK -- BECAUSE WE MAY BE FACING THE MOST AWFUL EMERGENCY IN OUR HISTORY!	480	250	300	100
+Secrecy -- whispers -- wild rumors that even you probably heard! For it was impossible to keep all word of this vast project from leaking out!

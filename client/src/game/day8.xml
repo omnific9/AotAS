@@ -1,0 +1,23 @@
+<data>
+    <file name="hw7-check">
+    </file>
+    <file name="8-1">
+        <req prehw="success"/>
+        <follow>reinforcement</follow>
+    </file>
+    <file name="8-2">
+    </file>
+    <file name="8-3">
+    </file>
+    <file name="8-4">
+    </file>
+    <file name="8-5">
+    </file>
+    <file name="8-6">
+    </file>
+    <file name="hw8-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="8-7">
+    </file>
+</data>

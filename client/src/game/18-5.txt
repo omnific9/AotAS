@@ -1,0 +1,19 @@
+18-5.jpg	0	0	0	-150	1.2
+The delayed fuse would give Bill a scant fifteen seconds to reach the open hatch...
+Good thing the sub's got a lead inner hull to protect it from radiation...	220	10	350	100
+FRAME	-690	-190	1.20
+There was a mighty roar as Bill pulled the lanyard! But this was merely the atomic charge that sped the shell on its way... through the massed Antarcs and toward the metropolis beyond them! From that instant...
+FRAME	0	-960	1.2
+Two seconds to drop the lanyard and one to turn... five more to rush across the deck and dive desperately, pantingly, toward that open hatch!
+Eight... nine...	90	60	100	100
+Quick... grab hold!	250	50	120	100
+FRAME	-370	-910	1.20
+Six more seconds to spin the hermetic valves that sealed the sub... and then... a blast that rocked the polar cap!
+FRAME	-750	-900	1.20
+PLAYMUSIC	REGULAR
+The ice roof of Antarctica collapsed in tremendous slabs... the measureless nuclear heat melting the chunks as they fell!
+FRAME	0	-1740	1.20
+This was the doom of the Antarcs... a churning mass of water formed by the upsurging fury of the nuclear cloud... which sent the atomic sub spiralling safely to the surface! Within an hour, the polar ice would freeze again, locking the radioactive ruins of an empire under a white barrier... until the end of time...
+FRAME	-520	-1660	1.20
+And so once again the atomic commandos had risked their lives for mankind and won...
+END

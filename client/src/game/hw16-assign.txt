@@ -1,0 +1,15 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+FUNC	clearmotivation()
+In the atomic sub, Jonnie was constantly monitoring a variety of devices. He was acting like a one-man army of detection.
+I sometimes think maybe the creatures living in the center of the Earth or under the Antarctic were once humans. Maybe they became different than us because of their environment.	200	2	420	100
+FUNC	preparehomework()
+SET	curhwid	16
+SET	hwchar	jonnie
+FRAME	-750	-120	1.2
+You think you have special power because you were raised in a different environment, perhaps?	120	20	480	100
+By the way, while the other guys are discussing their plan of attack, let me give you today's mission. This comic book seems to be running out, so please make good use of this.	120	20	480	100
+Here's your mission: $hwassign	120	20	480	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

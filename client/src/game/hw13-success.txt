@@ -1,0 +1,10 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+You're making progress! It makes me want to study you more closely... Sorry, that was a strange thing to say... Tell me what you did for your mission.	30	10	340	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	30	10	340	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+What kills us can also save us, just like all the energies that humans have mastered. Same goes for your exercise. I'm sure you've turned difficulties around to serve you.	30	10	340	100
+END

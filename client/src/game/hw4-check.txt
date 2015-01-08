@@ -1,0 +1,9 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+PLAYMUSIC	REGULAR
+Tony was walking around, seemingly irritated. As you walked beside him, he scratched his forehead and forced a smile.
+You don't think there'd be any trouble with Bill? Anyway, did you do your work my funny $manorwoman?	440	30	220	100
+SET	prehwid	4
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

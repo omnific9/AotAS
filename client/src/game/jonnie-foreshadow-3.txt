@@ -1,0 +1,12 @@
+ind-jonnie.jpg	0	0	0	-860	1.2
+$connphrase Jonnie looked outside the window of the atomic sub.
+Don't you ever worry, $getusername? I mean don't you worry about Bill and everyone? Don't you worry about America, and what may turn us to dusts over night? I'm worried a lot.	220	2	380	100
+I don't understand why you don't worry. Bill said you were someone completely different. Maybe they got it wrong. You weren't the $guyorgal who saved Bill in Hiroshima. Maybe it was someone else.	220	2	380	100
+FRAME	0	-120	1.2
+Perhaps I shouldn't even have looked forward to your stories to begin with. No offence, $sirormaam. I was just selfish to decide to come here. My parents were angry when they knew I joined the commandos.	200	2	440	100
+I've been causing trouble here anyway. I must be distracting and that gotta be why you couldn't concentrate on your missions. Maybe I should just leave. I hope the President wouldn't be mad...	200	2	450	100
+SETSOUND	fail.mp3
+Jonnie rather recklessly held himself responsible, and it would be worrisome if the boy really regretted joining the atomic commandos.
+Jonnie has revealed part of his sadness to you. Complete more missions to help Jonnie gain the courage and dedication that will help him battle life's hardship.
+SET	jonnie-foreshadow	3
+END

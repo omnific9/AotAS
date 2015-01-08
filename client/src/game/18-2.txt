@@ -1,0 +1,26 @@
+18-2.jpg	0	0	-170	-130	1.2
+When the join chiefs of staff make an emergency flight... the security of the nation hangs in balance! Until now, Bill Tyler had had a free hand... but now...
+We're going to be brief, Commander! What in blazes are you up to?	160	10	150	100
+My plan, Sir, is to have the transport lift the atomic sub twenty thousand feet above the ice cap, and then release it as a huge bomb! The sub's weight and diamond-hard hull will shatter the ice, and then we'll have the supershell where we want it... in the middle of the Antarc empire!	370	10	230	100
+FRAME	-710	-130	1.20
+You're risking the atomic sub... the country's only hope if the Antarcs stage an all-out onslaught!	150	10	200	100
+It's the only plan that has the slightest chance of succeeding! By tomorrow the Antarcs may have landed in the capitals of the world... We've got to go through with it!	480	10	220	100
+FRAME	0	-910	1.2
+When the chips are down... the atomic commandos are responsible to make the fittest decision.
+In that case, our air force technicians will start securing the sub to the transport's hull immediately.	110	10	280	100
+While they're working on that, Champ and I will head out onto the ice and recover the atomic supershell.	440	30	160	100
+FRAME	-690	-900	1.20
+And finally the job was done. The atomic sub freighted with the awful explosive, was raised aloft...
+But won't the shell explode when we hit the ice, Doc?	250	180	120	100
+No, Jonnie! It will be cushioned against a special chamber... until we're ready to fire it! And we'll be suspended in shock-proof, gyroscopic vacuum cradles that'll guard against the terrific impact!	580	200	170	100
+FRAME	0	-1670	1.20
+As the pilot signals, the atomic commandos rushed toward the boarding ladder! Now they wore lead-shielded suits in grim readiness for a fearful nuclear blast...
+That's the takeoff signal, Jonnie. Get moving!	330	30	120	100
+FRAME	-380	-1680	1.20
+Slowly, at first, the mammoth transport lumbers across the ice... its fuselage creaking under the deadweight of the suspended sub! The failure of a single jet would spell untold disaster... and as the chiefs of staff watched tensely...
+They're airborne!	280	70	120	100
+FRAME	-750	-1640	1.20
+Twelve thousand feet... eighteen thousand fee... while the fateful seconds ticked by...
+I only hope the sub's hull is as hard as we think it is!	310	10	200	100
+SET	connphrase	While all commandos were onboard the atomic sub, waiting to be lifted thousands of feet above the earth, 
+END

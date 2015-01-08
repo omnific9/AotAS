@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+The President seems to think your power is linked to how well you've recovered. Keep pushing yourself, $getusername. We're all looking at you.	220	20	340	100
+Also, completing your mission is very important for us. Make sure you report back tomorrow.	220	20	340	100
+END

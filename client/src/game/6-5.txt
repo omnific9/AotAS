@@ -1,0 +1,22 @@
+6-5.jpg	0	0	0	-200	1.2
+It was a daring chance, but the atomic commandos took it! Armed with only polaroid glasses and small electric guns, they crept ashore on the fortress island under cover of darkness. Would they... could they... succeed?
+Okay, pals! Get those packs on your backs and remember to walk bent over, with your faces down! If only we can get past the guards at the gat... we may make it yet!	140	20	560	100
+FRAME	-710	-200	1.20
+The slightest flicker of suspicion, and the brazen plan would come crashing down about their ears! It was a breathless moment...
+We've got to keep our eyes open! Who knows how near they may be?	180	10	400	100
+FRAME	0	-910	1.2
+They were in now... safely! The next step was to locate where the prisoners were being kept. It proved surprisingly easy...
+This is the place! Now follow me!	370	10	300	100
+FRAME	-710	-820	1.2
+Halt! You have no business in here, Belotti!	190	10	320	100
+FRAME	0	-1580	1.2
+It was time now... time to strike swiftly...
+Let's go, commandos!	400	30	250	100
+FRAME	-520	-1640	1.20
+The hostages didn't realize that deliverance was near when the fur-clad, fierce looking creatures ran into their midst...
+Don't be scared, Senator Nolan! Don't you recognize me?	160	10	130	100
+Well, I'll be... it's Commander Bill Tyler!	330	10	180	100
+Round up all the others... we're making a break for it! Hurry!	470	140	150	100
+FRAME	-2050	-3300	2.2
+But now fate intervened with the unexpected! One of the guards blasted by the electric bolt guns had recovered consciousness... and his call for help went out in the form of a summoning rocket!
+END

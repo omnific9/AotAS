@@ -1,0 +1,4 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+Don't thank me when you realize how useful this mission will become for your future success. Just buy me gifts!	440	30	240	100
+Anyway, completing your mission is very important for us. Make sure you report back tomorrow.	440	30	240	100
+END

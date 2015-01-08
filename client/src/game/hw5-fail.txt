@@ -1,0 +1,10 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Now that we're trapped in here, why don't you tell me what prevented me from doing it? I'm sure you have a good reason.	140	20	500	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	140	20	400	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+Maybe over time you'll get used to the missions. Sometimes you just got to forget about all the things that are bothering you and start doing it. You'll do better next time all right!	140	20	400	100
+END

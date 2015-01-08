@@ -1,0 +1,11 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Was there something more pressing that distracted you?	140	20	500	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+$hwbenefitfailure	140	20	500	100
+SETSOUND	fail.mp3
+The exercises were designed to improve your physical condition and awareness of your health, $boyorgirl. These are crucial to your survival if what happened in Japan were to happen again here.	140	20	500	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+Don't think the world will be in peace forever. You have one more chance left. Make good use of your next mission. I wish to see you again after this exciting voyage.	140	20	500	100
+END

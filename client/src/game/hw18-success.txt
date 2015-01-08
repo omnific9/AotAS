@@ -1,0 +1,10 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+I feel that with my duties as a commando, I never have time to do my research, to invent weird things, and to even talk to the people dearest to me. But I look at you doing your work, and I tell myself: if $getusername can do all those things, there's no way I can't! So, tell me what you did this time?	30	10	340	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	30	10	340	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+Very well. Let's go check with Bill now. See if he heard anything from Washington.	30	10	340	100
+END

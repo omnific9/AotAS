@@ -1,0 +1,8 @@
+6.jpg	0	0	0	-160	1.2
+INPUT	Please write a few words about the pros and cons of exercise that you've found. You are limited to 400 words. Press 'Enter' to when you are done.
+FRAME	0	-920	1.2
+So exercising can make my brain work better? That is an interesting thought.	90	50	220	100
+Not just for you Doc. I want the whole team to train together, with the little time we have!	430	45	220	100
+FRAME	-740	-920	1.2
+The atomic sub commandos spent days and nights training. Their methods are far from scientific, but everyone is excited in the new perspective you've brought to the team. 
+GOTO	newitem-helicopter

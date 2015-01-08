@@ -1,0 +1,26 @@
+12-3.jpg	0	0	-80	-220	1.2
+Combat was an old business for the commandos! You gave a good account of yourselves...
+You haven't... got us yet...	100	5	100	100
+Take it away!	450	15	60	100
+FRAME	-710	-220	1.20
+But there was no withstanding the force of numbers...
+Good! We have them now!	500	5	120	100
+FRAME	0	-880	1.2
+One way or the other... Sergiev always wins! You'll die... just as Professor McDougald and all those on Carter Island did before you!	140	10	240	100
+I know that one... He's Dr. Edwin Blake, the noted American scientist!	440	2	140	100
+FRAME	-460	-850	1.20
+That's right... and you're Gregor Andreyski... We've met at international conventions! Since I'm going to die anyway, mind telling me what this is all about?	160	5	500	100
+If you insist on knowing... I had developed a monstrous vampire plant whose root covered huge areas... and there was Professor McDougald's biotic, with the marvelous drying quality that our spies reported!	350	95	300	100
+FRAME	-750	-880	1.20
+With his biotic, we developed a strain whose roots sapped the life out of any soil they touched, producing desert for miles around! And now I've produced a concentrated seed which will turn America into a wasteland!	370	10	250	100
+FRAME	0	-1510	1.20
+So that's it! Exactly what murderers without soul or conscience would come up with!	140	10	110	100
+Say what you want. We selected this area to work in secret because its climate allowed for the best development of our plants! We'll leave now, but you shall remain behind... and it won't be pleasant!	320	10	170	100
+FRAME	-390	-1540	1.20
+It was a cruel, fiendish scheme...
+We'll leave you chained here, just out of reach of the plants! And if you don't starve... if you do manage to get loose... out leafy friends there will take care of you!	170	10	380	100
+You... you devil!	450	170	100	100
+FRAME	-750	-1580	1.2
+The hum of an aireplane marked the departure of the Russians. You were left to your ill fate.
+They... they've got that concentrated seed with them, and they'll scatter it to the winds over America! It looks like curtains, and we're helpless!	270	30	380	100
+END

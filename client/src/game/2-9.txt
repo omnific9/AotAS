@@ -1,0 +1,21 @@
+2-9.jpg	0	0	-30	-150	1.2
+An unobtrusive push of a button -- and the walls soared upward! And surrounding the commandos --
+They've got us!	360	90	120	100
+How wise of you to realize that!	550	430	120	100
+FRAME	-700	-150	1.2
+But for the atomic commandos, surrender was a hated word! 
+Flying wedge, folks! We'll break out of here yet!	200	30	220	100
+Resistor guns ready! Fire!	590	40	100	100
+There was one last, desperate effort --
+FRAME	-30	-890	1.2
+-- Cut short by the hiss of the resistor guns! Then it was as if gravity had ceased to exist for them!
+Huh? Those things fire a charge that lifts us off the floor!	110	30	200	100
+We - we can move our bodies, but we can't get anywhere!	450	30	200	100
+FRAME	-700	-850	1.2
+It would be a pity not to tell you our plan, since you're so anxious to learn it! You see, we're from Mercury -- and intend to conquer your planet. But in order to do so, we first needed a secret base on Earth.	380	10	420	100
+FRAME	-30	-1620	1.2
+It took us centuries to build up Atlantis as a point where our warriors could assemble in hiding and sufficient number to launch a mass assault! The time is now! And as for you -- the execution chamber will send you to death earlier than the rest of your kind!	40	10	450	100
+FRAME	-720	-1600	1.2
+They didn't waste any time getting us into their killing room...	170	10	250	100
+I -- I wonder how it works -- what they do --	500	10	200	100
+END

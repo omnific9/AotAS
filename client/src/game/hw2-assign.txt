@@ -1,0 +1,12 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+FUNC	clearmotivation()
+All right $manorwoman, now we're all stuck here and about to die. I suggest you turn off the game and do something useful. Didn't Bill give you a mission before? How about one of those?	150	20	370	100
+FUNC	preparehomework()
+SET	curhwid	2
+SET	hwchar	champ
+Since you're sitting behind a screen of... this computer thing... you might get some time between now and the time we're crushed into ground meat. So do the following, and when you come back, some miracle might happen.	150	20	370	100
+Your mission: $hwassign	150	20	370	100
+MENU	 	2
+Accept	You have accepted the mission!	curhw	ongoing
+Reject	You have rejected the mission.	curhw	rejected
+END

@@ -1,0 +1,28 @@
+14-7.jpg	0	0	-40	-240	1.2
+It was just the sort of work Champ craved! He put every ounce of sinew and bone behind the charge...
+Head for the woods! It's our best bet!	400	10	440	100
+After them! Shoot, but not to kill!	580	80	180	100
+FRAME	-750	-230	1.20
+Wild shots rang out as the atomic commandos ran like the wind toward the dark woods, leaving their pursuers in the lurch...
+Fools, they're escaping! Get blood hounds, armored cars! Surround the whole area!	530	20	130	100
+FRAME	0	-880	1.2
+Lungs almost bursting, the commandos plunged on...
+But... how can we escape?	150	30	120	100
+The atomic sub is idling up in the stratosphere! The only one who can save us now is Doc!	370	10	180	100
+FRAME	-450	-960	1.20
+There was silence in the woods now, except for the ominous yap of dogs far off, and the clank of tank treads coming closer! Bill called a halt at the edge of an enormous clearing, and there...
+Bill Tyler calling atomic sub! Doc, we're in trouble! Follow this signal down fast!	200	50	180	100
+He'd better come through... or else...	470	50	90	100
+FRAME	-750	-960	1.20
+In the past, Dr. Edwin Blake had proved himself a man one could trust one's life to, and this was no exception. The alert scientist was fairly raring for action when the message came...
+... In trouble! Follow this signal down fast!	340	80	180	100
+Well, well... so I'm finally getting into the act!	570	50	120	100
+FRAME	-40	-1540	1.20
+The commandos had moved into the middle of the clearing, desperately beaming their guide symbol...
+Look! There it is! Doc's on his way!	130	30	170	100
+Yeah, but here come the Chinese!	360	30	150	100
+FRAME	-720	-1560	1.20
+The crucial moment approached! Down roared America's great craft, as the Chinese closed in for the kill...
+He's too late! They're gonna run us down!	150	30	200	100
+Look! What's that?	540	10	110	100
+END

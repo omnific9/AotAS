@@ -1,0 +1,26 @@
+11-4.jpg	0	0	0	-240	1.2
+The first torpedo turned around, smashing squarely into its neighbor!
+FRAME	-610	-40	1.20
+The third torpedo headed for the atomic submarine, but at the last moment it faltered, darted off in a wild circle!
+Attaboy, Doc! We're out of danger now!	30	180	160	100
+Think so? Then where did those babies come from?	540	310	150	100
+FRAME	-610	-380	1.20
+The answer came in a smashing, roaring attack! The first surprise barrage from the gigantic Soviet craft disabled the atomic sub temporarily...
+Look at that monster! She's... she's going to ram us!	450	170	220	100
+FRAME	-40	-850	1.2
+We can't get out of the way, Doc! But that third suicide torpedo they sent at us... it's still running wild! And judging from the way the other two blew up, it contains some sort of super-explosive!	210	10	400	100
+I get it, Bill! If I can only use my radio signals to control the torpedo's steering apparatus...	140	140	240	100
+FRAME	-710	-910	1.20
+Once again, the fateful radio signals flashed forth -- and in the third torpedo --
+No! No!	430	10	100	100
+FRAME	0	-1550	1.20
+And it crashed into the huge monster before it could steer away!
+FRAME	-440	-1600	1.20
+PLAYMUSIC	REGULAR
+The atomic sub surfaced for repairs, where...
+There's a body from the Soviet sub, Bill!	200	10	120	100
+Better pull him aboard... he may still be alive!	400	10	150	100
+FRAME	-750	-1530	1.20
+Judging from the uniform, he's the captain -- and he's going fast! He's delirious, raving...	340	5	200	100
+I've... failed you, Sergiev! Atomic commandos... how I wanted to kill you... the way Sergiev killed Professor McDougald...	500	110	180	100
+END

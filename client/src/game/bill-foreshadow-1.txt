@@ -1,0 +1,12 @@
+ind-bill.jpg	0	0	0	-100	1.2
+$connphrase Bill approached and sat down in front of you.
+I wish we could be away from these missions sometimes, $getusername. I wish we could have more time. We could talk more. 	140	20	500	100
+You weren't doing much homework lately. I'm guessing you haven't got used to here yet. It's been many years, and I don't know how you survived all those years, or where you lived, but it must be hard.	140	20	500	100
+FRAME	-640	-800	1.2
+All those years you were gone, what have you done? I... have done nothing. I was assigned on several missions, but I failed them all. Americans should be thankful I was not sent to Korea...	120	10	150	100
+When I saw you, I was so excited, but it was also so different than I thought. Makes me wonder... what have you been through. Are you still the $manorwoman in Hiroshima?	120	10	150	100
+SETSOUND	fail.mp3
+Bills eyes were full of doubt, as if he had misplaced his trust.
+Bill has revealed some of his dark side to you. Complete more missions to help Bill gain the courage and dedication that will help him battle life's hardship.
+SET	bill-foreshadow	1
+END

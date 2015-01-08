@@ -1,0 +1,494 @@
+<data>
+    <file name="hwnl-hw1-accept">
+        <req curhwid="1" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw1-changemind">
+        <req curhwid="1" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw1-reject">
+        <req curhwid="1" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw2-accept">
+        <req curhwid="2" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw2-changemind">
+        <req curhwid="2" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw2-reject">
+        <req curhwid="2" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw3-accept">
+        <req curhwid="3" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw3-changemind">
+        <req curhwid="3" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw3-reject">
+        <req curhwid="3" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw4-accept">
+        <req curhwid="4" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw4-changemind">
+        <req curhwid="4" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw4-reject">
+        <req curhwid="4" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw5-accept">
+        <req curhwid="5" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw5-changemind">
+        <req curhwid="5" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw5-reject">
+        <req curhwid="5" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw6-accept">
+        <req curhwid="6" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw6-changemind">
+        <req curhwid="6" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw6-reject">
+        <req curhwid="6" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw7-accept">
+        <req curhwid="7" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw7-changemind">
+        <req curhwid="7" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw7-reject">
+        <req curhwid="7" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw8-accept">
+        <req curhwid="8" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw8-changemind">
+        <req curhwid="8" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw8-reject">
+        <req curhwid="8" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw9-accept">
+        <req curhwid="9" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw9-changemind">
+        <req curhwid="9" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw9-reject">
+        <req curhwid="9" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw10-accept">
+        <req curhwid="10" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw10-changemind">
+        <req curhwid="10" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw10-reject">
+        <req curhwid="10" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw11-accept">
+        <req curhwid="11" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw11-changemind">
+        <req curhwid="11" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw11-reject">
+        <req curhwid="11" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw12-accept">
+        <req curhwid="12" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw12-changemind">
+        <req curhwid="12" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw12-reject">
+        <req curhwid="12" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw13-accept">
+        <req curhwid="13" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw13-changemind">
+        <req curhwid="13" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw13-reject">
+        <req curhwid="13" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw14-accept">
+        <req curhwid="14" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw14-changemind">
+        <req curhwid="14" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw14-reject">
+        <req curhwid="14" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw15-accept">
+        <req curhwid="15" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw15-changemind">
+        <req curhwid="15" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw15-reject">
+        <req curhwid="15" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw16-accept">
+        <req curhwid="16" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw16-changemind">
+        <req curhwid="16" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw16-reject">
+        <req curhwid="16" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw17-accept">
+        <req curhwid="17" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw17-changemind">
+        <req curhwid="17" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw17-reject">
+        <req curhwid="17" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw18-accept">
+        <req curhwid="18" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw18-changemind">
+        <req curhwid="18" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw18-reject">
+        <req curhwid="18" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw19-accept">
+        <req curhwid="19" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw19-changemind">
+        <req curhwid="19" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw19-reject">
+        <req curhwid="19" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hwnl-hw20-accept">
+        <req curhwid="20" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hwnl-hw20-changemind">
+        <req curhwid="20" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+        <follow>reject</follow>
+    </file>
+    <file name="hwnl-hw20-reject">
+        <req curhwid="20" curhw="rejected"/>
+        <type cat="reject"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="tony-transition-1">
+        <req prehw="success" state="mission" tony="available" tony-transition="4"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="tony-transition-2">
+        <req prehw="success" state="rest" tony="available" tony-transition="5"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="tony-transition-2-mission">
+        <req prehw="success" state="mission" tony="available" tony-transition="5"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="tony-transition-3">
+        <req prehw="success" state="rest" tony="available" tony-transition="6"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="tony-transition-3-mission">
+        <req prehw="success" state="mission" tony="available" tony-transition="6"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="doc-transition-1">
+        <req prehw="success" loc="sub" state="rest" doc="available" doc-transition="0"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-2">
+        <req prehw="success" state="rest" doc="available" doc-transition="1"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-3">
+        <req prehw="success" loc="sub" state="rest" doc="available" doc-transition="2"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-4">
+        <req prehw="success" state="rest" doc="available" doc-transition="3"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-1-mission">
+        <req prehw="success" loc="sub" state="mission" doc="available" doc-transition="0"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-2-mission">
+        <req prehw="success" state="mission" doc="available" doc-transition="1"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-3-mission">
+        <req prehw="success" loc="sub" state="mission" doc="available" doc-transition="2"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-4-mission">
+        <req prehw="success" state="mission" doc="available" doc-transition="3"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="champ-transition-1">
+        <req prehw="success" state="rest" champ="available" champ-transition="0"/>
+        <type cat="transition" target="champ-transition"></type>
+    </file>
+    <file name="champ-transition-1-mission">
+        <req prehw="success" state="mission" champ="available" champ-transition="0"/>
+        <type cat="transition" target="champ-transition"></type>
+    </file>
+    <file name="champ-transition-2">
+        <req prehw="success" loc="sub" state="rest" champ="available" champ-transition="1"/>
+        <type cat="transition" target="champ-transition"></type>
+    </file>
+    <file name="champ-transition-3">
+        <req prehw="success" state="mission" champ="available" champ-transition="2"/>
+        <type cat="transition" target="champ-transition"></type>
+    </file>
+    <file name="jonnie-transition-1">
+        <req prehw="success" state="rest" jonnie="available" jonnie-transition="0"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="jonnie-transition-2">
+        <req prehw="success" loc="sub" state="rest" jonnie="available" jonnie-transition="1"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="jonnie-transition-3">
+        <req prehw="success" state="rest" jonnie="available" jonnie-transition="2"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="jonnie-transition-1-mission">
+        <req prehw="success" state="mission" jonnie="available" jonnie-transition="0"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="jonnie-transition-2-mission">
+        <req prehw="success" loc="sub" state="mission" jonnie="available" jonnie-transition="1"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="jonnie-transition-3-mission">
+        <req prehw="success" state="mission" jonnie="available" jonnie-transition="2"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="bill-transition-1">
+        <req prehw="success" state="rest" bill="available" bill-transition="0"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="bill-transition-1-mission">
+        <req prehw="success" state="mission" bill="available" bill-transition="0"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="bill-transition-2">
+        <req prehw="success" state="mission" bill="available" bill-transition="1"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="bill-transition-3">
+        <req prehw="success" state="rest" bill="available" bill-transition="2"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="bill-transition-3-mission">
+        <req prehw="success" state="mission" bill="available" bill-transition="2"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="tony-foreshadow-1">
+        <req prehw="failure" state="rest" tony="available" tony-foreshadow="4"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="tony-foreshadow-1-mission">
+        <req prehw="failure" state="mission" tony="available" tony-foreshadow="4"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="tony-foreshadow-2">
+        <req prehw="failure" state="rest" tony="available" tony-foreshadow="5"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="tony-foreshadow-2-mission">
+        <req prehw="failure" state="mission" tony="available" tony-foreshadow="5"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="tony-foreshadow-3">
+        <req prehw="failure" state="mission" tony="available" tony-foreshadow="6"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="champ-foreshadow-1">
+        <req prehw="failure" state="mission" champ="available" champ-foreshadow="0"/>
+        <type cat="foreshadow" target="champ-foreshadow"></type>
+    </file>
+    <file name="champ-foreshadow-2">
+        <req prehw="failure" state="rest" loc="sub" champ="available" champ-foreshadow="1"/>
+        <type cat="foreshadow" target="champ-foreshadow"></type>
+    </file>
+    <file name="champ-foreshadow-3">
+        <req prehw="failure" state="mission" champ="available" champ-foreshadow="2"/>
+        <type cat="foreshadow" target="champ-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-1">
+        <req prehw="failure" state="rest" jonnie="available" jonnie-foreshadow="0"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-2">
+        <req prehw="failure" state="rest" jonnie="available" jonnie-foreshadow="1"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-3">
+        <req prehw="failure" loc="sub" state="rest" jonnie="available" jonnie-foreshadow="2"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-1-mission">
+        <req prehw="failure" state="mission" jonnie="available" jonnie-foreshadow="0"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-2-mission">
+        <req prehw="failure" state="mission" jonnie="available" jonnie-foreshadow="1"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-3-mission">
+        <req prehw="failure" loc="sub" state="mission" jonnie="available" jonnie-foreshadow="2"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-1">
+        <req prehw="failure" loc="sub" state="rest" doc="available" doc-foreshadow="0"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-2">
+        <req prehw="failure" state="rest" doc="available" doc-foreshadow="1"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-3">
+        <req prehw="failure" state="rest" doc="available" doc-foreshadow="2"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-1-mission">
+        <req prehw="failure" loc="sub" state="mission" doc="available" doc-foreshadow="0"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-2-mission">
+        <req prehw="failure" state="mission" doc="available" doc-foreshadow="1"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-3-mission">
+        <req prehw="failure" state="mission" doc="available" doc-foreshadow="2"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+</data>

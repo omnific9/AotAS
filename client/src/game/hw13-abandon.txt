@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+Is this still about Tony and the power you used? I'm concerned about that power of yours too, $getusername. The President seems to think your power is linked to how well you've recovered.	150	20	370	100
+Push yourself harder. We're all looking at you.	150	20	370	100
+END

@@ -1,0 +1,11 @@
+ind-president.jpg	0	0	0	-70	1.2
+PLAYMUSIC	REGULAR
+In the White House, the President was waiting, his hand knocking the desk. He stopped as soon as he saw you.
+Young $manorwoman! I've been waiting for you. Something strange has happened, and I need every atomic commando here immediately. Now that you're here, it helps a lot!	210	10	350	100
+FRAME	-700	-100	1.2
+Before we get into it, tell me, how did you find the job I gave you last we met?	170	20	400	100
+SET	prehwid	6
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

@@ -1,0 +1,27 @@
+14-2.jpg	0	0	0	-190	1.2
+If our plane were seen it would cause the most serious international incident.	180	10	140	100
+I propose to go over their security system, into the stratosphere. Sir, we can do it by fitting the atomic sub with rockets!	360	10	130	100
+FRAME	-350	-190	1.20
+Shall I assume you're not planning to start failing me?	200	10	140	100
+Indeed, Sir! We'll succeed or die trying.	400	10	100	100
+FRAME	-750	-200	1.20
+With feverish haste the rockets were fitted into place! Then...
+We'll have to go about 10 miles up and parachute from there! Are the oxygen tanks aboard?	220	20	180	100
+Everything's ready, Doc! Let's go!	550	10	110	100
+FRAME	-50	-780	1.2
+There was a blast of mighty engines, the frightful roar of millions of tons of energy... and the great craft was airborne, powered by atomic engines!
+I'll take over the telepathor, Doc! You start figuring out the exact spot for bailing out!	460	270	230	100
+FRAME	-50	-1230	1.20
+In a fantastic arc the roaring rocket streaked beyond the atmosphere and leveled off... hurtling around the curve of the Earth at incredible speed... toward a grim rendezvous in China. Seconds passed...
+Okay, cut the motors! We'll be over the spot in 53 seconds!	170	190	370	100
+You'll have to stay behind, Doc! Keep the ship idling, and wish Champ and me luck!	200	280	170	100
+FRAME	-200	-1650	1.20
+The atomic commandos wore oxygen masks for the longest plunge through space in the history of mankind... 10 miles down! The jump hatch opened, Champ, Bill and you stepped fearlessly into the airspace of China.
+Wh-what's wrong? The chute... it's not opening!	250	70	100	100
+We... never tested chutes this high above!	480	60	100	100
+FRAME	-710	-900	1.20
+I... I'm blacking out!	220	100	200	100
+FRAME	-710	-1310	1.20
+We... we're finished!	310	420	130	100
+Frantically you yanked the ripcords, but nothing happened. Falling relentlessly, your bodies accelerated at incredible speed...
+END

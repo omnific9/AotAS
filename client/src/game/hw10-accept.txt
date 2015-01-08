@@ -1,0 +1,4 @@
+ind-president.jpg	0	0	0	-70	1.2
+Very well! While you're at it, I'd like the commandos to put together a plan of investigation!	210	10	350	100
+Anyway, completing your mission is very important for us. Make sure you report back tomorrow.	210	10	350	100
+END

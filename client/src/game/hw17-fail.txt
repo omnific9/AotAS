@@ -1,0 +1,10 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Did you remember what I said? Stop thinking about it, and start doing it! I wonder what went wrong.	150	20	370	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	150	20	370	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+If it helps you get more confident, you should fight me once. Don't be afraid. Fighting is not about physical strength. The one with the stronger will wins. Stick to what you need to do, $manorwoman!	150	20	370	100
+END

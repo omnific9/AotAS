@@ -1,0 +1,14 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	clearmotivation()
+At this moment, Bill Tyler turned to you. You knew it was time for another personal mission.
+$getusername, as we approach the Moon and get ready for landing, why don't we get to your next mission?	140	20	500	100
+FRAME	-700	-100	1.2
+FUNC	preparehomework()
+SET	curhwid	7
+SET	hwchar	bill
+I'm not asking you to tell me what to wear on the Moon, though. You've never been there either, so don't be surprised if I walk outside there and breathe normally. Here's for today:	220	20	320	100
+Your mission: $hwassign	220	20	320	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

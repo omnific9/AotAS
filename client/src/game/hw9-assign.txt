@@ -1,0 +1,14 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+FUNC	clearmotivation()
+When the gang were celebrating another victory, Tony was sitting in the atomic sub alone. He put up a smile when he saw you approaching.
+That little kid is a headache, don't you think, $getusername? Everybody is so... Jonnie's smart, Jonnie's brave! Well, looks like you're my only friend here.	440	30	240	100
+FUNC	preparehomework()
+FRAME	-40	-100	1.2
+SET	curhwid	9
+SET	hwchar	tony
+Ya know... I didn't expect to have company when Bill and everyone was having a good time out there... Hey, let me give you the mission for today. That's the least I can do.	440	30	240	100
+So, your mission: $hwassign	440	30	240	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

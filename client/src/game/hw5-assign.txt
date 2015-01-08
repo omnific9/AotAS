@@ -1,0 +1,14 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	clearmotivation()
+At the same time, in the prison where the atomic commandos were trapped...
+We gotta think of a way to get out of here, otherwise the President's capture is inevitable, and our country will be doomed! Meanwhile, I have another mission for you, $getusername.	140	20	500	100
+FRAME	-700	-100	1.2
+FUNC	preparehomework()
+SET	curhwid	5
+SET	hwchar	bill
+Perhaps one day you'll be as strong as Mr. Ruggles here. And we will have two commandos who can work together to break a tougher wall. So let's get you started on that!	220	20	320	100
+Your mission: $hwassign	220	20	320	100
+MENU	 	2
+Accept	You have accepted the mission!	curhw	ongoing
+Reject	You have rejected the mission.	curhw	rejected
+END

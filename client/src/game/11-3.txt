@@ -1,0 +1,10 @@
+11-3.jpg	0	0	0	-1650	1.2
+Huge motors roared forth their thunder as the atomic sub revved up its speed, tried to outrun, to dodge its fatal pursuers! But relentlessly, they held to the trail, and gained!
+It -- it's no use! We can't shake them off!	120	50	190	100
+The easy way they turn, power-steering by pilot controlled radio impulse! Wait... I've got an idea!	390	20	220	100
+FRAME	-470	-1570	1.20
+If this works, these radio signals may jam their steering mechanisms! And it had better work!	210	5	360	100
+FRAME	-750	-1610	1.20
+Suddenly, in one of the pursuing projectiles...
+It won't answer... the wheel...	430	15	200	100
+END

@@ -1,0 +1,9 @@
+ind-bill.jpg	0	0	0	-100	1.2
+PLAYMUSIC	REGULAR
+As you came to, Bill was in the midst of finding a way to break out of the prison in the center of the Earth.
+$getusername, come and help us think of something. We need to get out of here soon! And while we're at it, how was the mission?	140	20	500	100
+SET	prehwid	5
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

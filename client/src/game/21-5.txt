@@ -1,0 +1,21 @@
+21-5.jpg	0	0	-50	-200	1.2
+With an earth-shattering impact...
+FRAME	-720	-200	1.20
+As billions of tons of pent-up water burst forth...
+No! No! It can't be!	150	20	180	100
+FRAME	-650	-880	1.2
+The mighty wall of water swept forward irresistibly, destroying all in its path!
+FRAME	-120	-880	1.20
+Down the nearby ravine the flood roared, rising higher and higher in its angry course...
+FRAME	0	-1580	1.20
+PLAYMUSIC	REGULAR
+J-Jonnie! He... He blew up the dam!	140	20	100	100
+That's why he wanted us to get onto high ground! It saved our lives! The water won't reach us!	340	30	170	100
+FRAME	-370	-1550	1.20
+As the torrent swept on...
+What a kid! The explosion wiped out the airfield! Not a single saucer got off the ground! We're saved! America is safe! And we've all got Jonnie to thank!	220	10	350	100
+FRAME	-750	-1530	1.20
+It was a happy group later aboard the atomic sub... homeward bound!
+Well, will you take me on your missions now, instead of leaving me with the sub?	300	120	150	100
+So help me, Jonnie... From now on you're a full-fledged atomic commando!	550	90	120	100
+END

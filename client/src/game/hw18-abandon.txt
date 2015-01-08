@@ -1,0 +1,3 @@
+ind-edwin.jpg	0	0	0	-840	1.2
+Take some time to think about your role in all of this, $getusername. Perhaps you think of it as a game. I certainly don't. Just remember you have a duty, and you could be our only hope if worst comes to worst.	180	10	340	100
+END

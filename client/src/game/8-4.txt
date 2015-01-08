@@ -1,0 +1,22 @@
+8-4.jpg	0	0	0	-180	1.2
+In a trice, the atomic sub rocket was encircled by a flaming ring, which moved in... in...
+Oh-oh! What am I gonna do now?	250	10	180	100
+FRAME	-320	-140	1.20
+It... it'd be a cinch if I knew how to take off and get out of this barbecue. But I don't! The commandos could help me... but I can't get to 'em, so I guess it's curtains!	300	10	250	100
+FRAME	-750	-260	1.20
+But the atomic commandos weren't in any position to help anybody just then... they were in plenty of troubles themselves! Transported to a valley ringed by sheer rock walls, they were wondering... worrying...
+Well, there they go, and there's no way we can get out of this place!	160	10	600	100
+Hey, look up there! It's a cave! I wonder...	330	80	150	100
+FRAME	-30	-900	1.2
+There wasn't any time for wondering! In the mouth of the cave, something moved... something out of a nightmare...
+FRAME	-710	-910	1.20
+Something that sensed its prey, slithering swiftly to the attck in all its awful horror!
+FRAME	0	-1530	1.20
+PLAYMUSIC	BATTLE
+H - holy Hannah! T-tell me I'm dreaming!	90	10	140	100
+You're not! That thing's real!	330	10	100	100
+Run, just -- run!	500	10	100	100
+FRAME	-710	-1550	1.20
+But the gigantic reptile could move with terrible speed! It was gaining... gaining... and there was no escape!
+H - help!	40	170	150	100
+END

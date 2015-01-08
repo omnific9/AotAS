@@ -1,0 +1,11 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+You continue to impress me. Tell me with all your pride what you did for this mission.	140	20	500	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	140	20	500	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+The exercises were designed to improve your physical condition and awareness of your health. These are crucial to your survival if what happened in Japan were to happen again here.	140	20	500	100
+Don't think the world will be in peace forever. Make good use of your next mission too, $boyorgirl. I wish to see you again after this exciting voyage.	140	20	500	100
+END

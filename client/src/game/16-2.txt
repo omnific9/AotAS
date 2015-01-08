@@ -1,0 +1,25 @@
+16-2.jpg	0	0	0	-250	1.2
+PLAYMUSIC	BATTLE
+Seconds after the Antarcs were skyborne, the shock waves of the eruption traveled hundreds of miles... slamming like a gigantic hand against the atomic sub as it cruised in shallow water!
+FRAME	-410	-200	1.20
+Only an alloy steel hull could have withstood the shock! As the vessel lurched back to an even keel, Bill Tyler peered at the radar detectors...
+Bill... what was it?	140	10	120	100
+I've picked up blips showing fast-moving aircraft heading in this direction! Champ... we're going up for a look around!	400	30	150	100
+FRAME	-750	-250	1.20
+The instant the sub broke the surface, the atomic commandos knew what they were up against... a foe quick to attack... with weapons unlike any the world had ever known!
+Hey! Those cannon ... they're firing some weird kind of electric bolt!	350	50	150	100
+If they ever hit the engine room...	620	20	100	100
+Our atomic reactors are finished! Quick, let's get this deck gun working!	550	230	180	100
+FRAME	0	-900	1.2
+Then, the sky split under a hail of bullet shells!
+Right in the middle of their formation, Champ! That ought to do it!	100	10	200	100
+FRAME	-690	-900	1.20
+It was a barrage that could have wiped out a good-sized city... but when the haze of combat lifted...
+Huh? Am I dreaming? We only damaged one of those things... and the others are speeding off without a scratch!	30	10	270	100
+FRAME	-30	-1620	1.20
+In a screeching dive, the damaged sphere headed straight for the sub... and missed by a matter of inches!
+Jeepers! Those guys inside are still looking for a fight! And I bet they get one!	60	10	200	100
+FRAME	-750	-1620	1.20
+Noiselessly, a hatch slid open, and now the atomic commandos were face to face with fighters from another civilization.
+We have seen this diving boat many times on our gammascope! Seize it and destroy the crew!	350	10	300	100
+END

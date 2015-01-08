@@ -1,0 +1,12 @@
+ind-president.jpg	0	0	-700	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Does what happened to Tony bother you? You've done a good job, $getusername, that's what I think. Perhaps I should have given you a little break. But what's the reason for the real you, behind the computer screen?	170	20	400	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+FRAME	-70	-1540	1.2
+SETSOUND	fail.mp3
+$hwbenefitfailure	430	10	280	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+Perhaps it will be better after you've avenged Tony. Bill, can you take it from here, and make sure $heorshe does $hisorher training in the open sea?	430	10	280	100
+I give you my word, Mr. President!	90	10	290	100
+END

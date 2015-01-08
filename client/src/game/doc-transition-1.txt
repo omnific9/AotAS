@@ -1,0 +1,12 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+$connphrase you saw Dr. Blake flipping through the documents of the atomic sub's design.
+Ah, $getusername, come join me. I'm reading the atomic sub's blueprint. Splendid! There's so much power in it, and as you progress with your missions, the sub somehow seems more powerful! I must be delusional.	30	10	340	100
+FRAME	0	-840	1.2
+Look at me, being so excited. How do you feel on the sub so far? Are you enjoying it? Most people would be scared when they hear about an atomic sub, but you seem to adjust to it quite well.	180	10	320	100
+Have I seen you somewhere though? I mean, not on the sub, but a long time ago. It shouldn't be. I have not met many military personnel, but you somehow look familiar.	180	10	320	100
+Confused, Dr. Blake patted on your shoulder and went back to his pile of papers.
+SETSOUND	success.mp3
+At any rate, you're doing well on your missions. That's the best thing we'd like to hear now. Keep completing your missions and get a little exercise here and there, and let's hope your memories will come back, and mine as well.	180	10	320	100
+Edwin is starting to reveal himself to you. Complete more missions to become closer to him.
+SET	doc-transition	1
+END

@@ -1,0 +1,9 @@
+ind-bill.jpg	0	0	0	-100	1.2
+PLAYMUSIC	BATTLE
+As two red spacecrafts approached the atomic sub, the atomic commandos readied in their positions for battle.
+$getusername! I need you in the cannon! But before you go, tell me you finished your mission, eh?	140	20	500	100
+SET	prehwid	7
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

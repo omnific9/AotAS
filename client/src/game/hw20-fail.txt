@@ -1,0 +1,10 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Was there something that bothered you, something that we could have dealt with earlier?	200	2	450	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure 	200	2	450	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+I know you've overcome some great difficulties to come this far. I respect you amongst all atomic commandos, $getusername. Now, let's proceed to our greatest battle! 	200	2	450	100
+END

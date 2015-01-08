@@ -1,0 +1,13 @@
+ind-bill.jpg	0	0	0	-100	1.2
+$connphrase Bill fell over in the rush. When he finally struggled to stand up, he grew outrageous.
+Why am I the one who's got to do this! Why can't you help me a little bit, $getusername? What do you do, just stare at me all day? What about the missions you promised to finish?  	140	20	500	100
+FRAME	0	-750	1.2
+Where's the $manorwoman that I could fly to a million miles above in the sky and knew that if I fell $heorshe would catch me? Where's the old friend who wouldn't abandon a mission even if $heorshe had to die?	140	20	340	100
+Where's that $manorwoman that I had complete trust to get my back? Can I not trust anyone any more? So be it then, let it be just me from now on, if that's what you want, $getusername!	140	20	340	100
+FRAME	-640	-800	1.2
+And Bill turned away from you, his face red with traces of muscles. You wanted to step forward to make amends, but you saw Bill's head slightly turned back, and a drop of tear was quickly wiped away from his cheek.
+SETSOUND	fail.mp3
+That's enough. I was probably too obsessed with our time in the war, $getusername. So obsessed that I lost sight of myself. It's time I find out what I'm capable of without you. Let's do this!	120	10	150	100
+Bill has revealed some of his dark side to you. Complete more missions to help Bill gain the courage and dedication that will help him battle life's hardship.
+SET	bill-foreshadow	3
+END

@@ -1,0 +1,28 @@
+15-4.jpg	0	0	-110	-210	1.2
+Using airplane equipment Bill and Champ worked their way precariously to the summit of the ice peak! There, the worst proved true!
+The Chinese! The warheads seem almost ready! Whatta we do now?	200	20	300	100
+Give me the long range audio-pickup! I want to make sure!	600	10	180	100
+FRAME	-750	-260	1.20
+The audio pickup was the latest electronic advancement, a device which listened in on conversation within a three-mile radius! Champ quickly pulled it from his knapsack...
+I'll train it on the large quonset down there. Looks like the command post.	220	50	280	100
+Good thing Doc asked us to bring it. Can't blame carefulness.	550	20	150	100
+FRAME	0	-900	1.2
+Within the command post, unaware that every word was being overheard...
+We have just heard word that Ho-Lan had failed. The Americans might know of our base. We are to release our missiles immediately!	140	10	200	100
+Everything can be ready within three hours, Great One!	390	10	140	100
+FRAME	-350	-920	1.20
+PLAYMUSIC	BATTLE
+Commander Bill Tyler waited to hear no more! Hurrying back to the sub, all was in readiness...
+Wish we could help you on this, Bill!	250	40	110	100
+If I get back alive I'll see to it that all of you learn to fly! Wish me luck!	400	40	150	100
+FRAME	-750	-840	1.20
+Next moment, the jet fighter was airborne!
+I - I wish he'd taken me along!	220	320	120	100
+You'd only get in his way, Jonnie! Don't worry, Bill knocked out 73 Messerschmidts during the war.	410	270	250	100
+FRAME	-80	-1540	1.20
+But luck changes hands. Four Chinese Migs, raging wide in routine patrols, suddenly came upon the scene, facing Bill with the battle of his life!
+Holy smoke! They've spotted me!	180	30	170	100
+FRAME	-730	-1590	1.20
+At the supersonic speed of modern aircraft, the planes met within five seconds! Suddenly the skies were alive with the clatter of machine guns and the roar of powerful motors!
+Got one! But the others are on my tail!	60	40	200	100
+END

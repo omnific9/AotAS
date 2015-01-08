@@ -1,0 +1,16 @@
+6-2.jpg	0	0	0	-240	1.2
+SET	connphrase	While the atomic commandos were in a struggle to escape from a horrible fate, from a giant terror from beneath earth, 
+It seemed simple, this idea of a surprise onset which would liberate the kidnapped Americans. But the atomic commandos didn't know that the way to the island was barred by an awful defender...
+FRAME	0	-770	1.20
+By a gigantic nightmare creature that staggered the imagination! They didn't see it as it rose from the depths behind them, flaring tentacles ready to pounce, clutch...
+FRAME	-700	-130	1.20
+They didn't even know when it moved in to the attack, ready to destroy the alien invader that had dared enter its province...
+Hey, what are we running into anyway? Suddenly it's gotten dark!	510	40	200	100
+FRAME	-700	-750	1.2
+Next moment, a smashing impact... a crackling of plates before some mighty force...
+Holy smoke! Something's... got hold of us...	60	30	180	100
+The plates... they're starting to give! We'll be swamped... drowned!	320	30	380	100
+FRAME	-40	-850	0.8
+It's ... no use! We're goners!	390	80	120	100
+The thing had struck! Within its awful, flaming grasp, the atomic sub seemed a toy... a toy to be broken, rendered apart by a sinister power that tightened... tightened...
+END

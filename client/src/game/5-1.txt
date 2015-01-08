@@ -1,0 +1,22 @@
+5-1.jpg	0	0	-40	-180	1.2
+PLAYMUSIC	BATTLE
+High up in the sky, finally, Bill's plane flashed the dread warning: Enemy approaches!
+Echelon for combat!	220	10	120	100
+FRAME	-750	-180	1.2
+But meanwhile, aboard the U.S.S. Carolina...
+What do you mean, you're commandeering a U.S. battleship? What is this... a joke?	70	5	165	100
+If you'll look at that paper a bit more closely, you'll notice that I'm an atomic commando, and we've no time for joking! According to the power vested in me by the President, I'm taking over this ship! Race for the position I'll give you at full speed!	300	10	350	100
+FRAME	-40	-860	1.2
+And as the Carolina sped towards the rendezvous...
+FRAME	-400	-860	1.2
+... The atomic sub, its repairs completed, slid down the ways!
+FRAME	-760	-900	1.2
+PLAYMUSIC	BATTLE
+Even then, a great air duel raged! The squadron under Bill Tyler soon discovered that the rockets were made of some strange metal impervious to machine-gun bullets...
+We...we can't shoot 'em down!	470	20	150	100
+FRAME	-60	-1600	1.2
+But the invaders could spread terror with their black rays ... and did! Bill had led the dogfight ... so they concentrated on him!
+They've got me!	270	20	120	100
+FRAME	-760	-1580	1.2
+The... the President's last defense... and we're being blown out of the skies! There's nothing left to save him now!	130	5	260	100
+END

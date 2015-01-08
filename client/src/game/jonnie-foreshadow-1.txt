@@ -1,0 +1,12 @@
+ind-jonnie.jpg	0	0	0	-860	1.2
+$connphrase Jonnie, the young man and latest member of the atomic commandos, stumbled right in front of you.
+Oh, sorry, $getusername. It's me, Jonnie. We... haven't talked much, but I really wanted to meet you. 	220	2	380	100
+I'm really eager to hear the World War II stories, about how you saved Bill Tyler's life in the middle of the Hiroshima nuclear strike.	220	2	400	100
+FRAME	0	-120	1.2
+I heard they make you do these missions so you could get some exercise and become stronger, and get your memories back. So perhaps you can tell me those stories later.	200	2	450	100
+SETSOUND	fail.mp3
+You haven't been doing well with your mission lately though. I hope you do plan on doing them more often! Everyone has high hopes of you. You're my hero, $getusername.	200	2	450	100
+Jonnie has revealed part of his sadness to you. Complete more missions to help Jonnie gain the courage and dedication that will help him battle life's hardship.
+SET	jonnie-foreshadow	1
+SET	jonnie-transition	1
+END

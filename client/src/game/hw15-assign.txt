@@ -1,0 +1,13 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	clearmotivation()
+But Bill Tyler went back to work immediately after the ceremony, for he was putting together pieces of an important intelligence.
+We've been investigating rumors about a potential all-out nuclear strike against the United States initiated by Russia. All evidence points to the GRU, a group that Russia's leadership has been losing control over since the death of Stalin.	140	20	500	100
+We better hurry up and get your missions going, and put your training results to good use.	140	20	500	100
+FUNC	preparehomework()
+SET	curhwid	15
+SET	hwchar	bill
+So, please accept a new mission. Your mission: $hwassign	140	20	500	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

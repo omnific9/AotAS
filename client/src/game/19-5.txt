@@ -1,0 +1,30 @@
+19-5.jpg	0	0	0	-220	1.2
+Slipping across to East Germany, Doc allowed himself to be arrested by not having the proper papers. When questioned...
+See here, my good man, I'm in no mood to waste time with an underling. Let me see Von Zentner!	130	40	250	100
+All right, only you'll be sorry!	510	10	200	100
+FRAME	-720	-210	1.20
+The ex-Nazi was cruel and unscrupulous, but to all his dire threats Doc merely laughed...
+You fool, don't you know who I am? I'm Dr. Blake, the atomic commando and I wouldn't be here if I didn't want to be!	80	10	300	100
+I thought I recognized you. So tell me what are you here for.	480	10	150	100
+FRAME	0	-840	1.2
+I'm sick of not getting proper recognition, and I'm thinking of switching to your side, if I can line up with a top man! I'll spill priceless American secrets, but only to somebody important!	120	10	250	100
+You think me small fry? Then let me show you something.	450	100	130	100
+FRAME	-410	-880	1.20
+A hidden room below...
+This arsenal is destined for big things! Secretly, we have been training a large force of so-called police, as the vanguard of a GRU plan to conquer America.	240	10	180	100
+Do you think they would have given me the mission if I were not considered someone important?	240	10	180	100
+That's just what I wanted to know!	470	130	100	100
+FRAME	-750	-880	1.20
+PLAYMUSIC	BATTLE
+Like magic, a derringer appeared in Dr. Edwin's hand...
+What are you doing?	280	10	130	100
+Setting off some fireworks, bud!	550	10	130	100
+FRAME	-20	-1560	1.20
+Bullets began exploding spectacularly, and in the confusion, Edwin attempted his getaway...
+Get him! Don't let him escape!	130	10	180	100
+Not much of a head-start... but it'll have to do!	450	10	210	100
+FRAME	-710	-1560	1.20
+As guards swarmed towards him, he hurled a powerful anesthetic pellet...
+Agh!	160	20	100	100
+I've got to make it...	420	10	130	100
+END

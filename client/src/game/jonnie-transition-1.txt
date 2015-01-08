@@ -1,0 +1,13 @@
+ind-jonnie.jpg	0	0	0	-860	1.2
+$connphrase Jonnie, the young man and latest member of the atomic commandos, came to greet you.
+We... haven't talked much, $sirormaam! I've heard your stories and I admire you, and I hope that you would tell me more about what happened.	230	5	340	100
+What story? The World War II story of course! The one where you saved Bill Tyler's life in the middle of the Hiroshima nuclear strike. Wait...	230	5	340	100
+FRAME	0	-120	1.2
+When Jonnie discovered you didn't remember anything about the past, he stood in awe.
+I was... I was really looking forward to hearing about it... I hope the missions they put you on will help you recover your memories soon. Ah... perhaps Bill could tell me someday too!	200	5	440	100
+SETSOUND	success.mp3
+And so the young man was disappointed that he couldn't hear the story you were meant to tell, but as he walked away from you, he stretched in a positive hope, believing that you would recover lost memories soon.
+Jonnie is starting to reveal himself to you. Complete more missions to become closer to Jonnie.
+SET	jonnie-transition	1
+SET	jonnie-foreshadow	1
+END

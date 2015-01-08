@@ -1,0 +1,21 @@
+6-6.jpg	0	0	-40	-140	1.2
+It passed unnoticed by the atomic commandos, this sign that something was amiss! They were still organizing the escape effort when enemy reinforcement arrived...
+Hurry! Find out what's wrong... and keep your weapons on the ready!	200	10	500	100
+FRAME	-720	-140	1.20
+PLAYMUSIC	BATTLE
+It didn't take the giants long to find out what was wrong... or to leap to the attack.
+Those aren't Belotti! They're impostors! Get them!	120	5	360	100
+On with those polaroid glasses, and fight! All you others, take shelter!	570	10	160	100
+FRAME	0	-830	1.2
+The glasses work! They've defeated the brain shock ray these guys shoot from their eyes!	140	10	500	100
+FRAME	-710	-860	1.2
+But the commandos were outnumbers! Slowly, you gave ground, except Tony, who succeeded in making his way to a point behind the giants, where...
+They... they've got us... unless I can use this baby to advantage!	220	10	450	100
+FRAME	0	-1550	1.2
+He used it... successfully, dramatically...
+Ya-hoo! This way, all atomic commandos!	260	5	250	100
+FRAME	-520	-1490	1.20
+Climb aboard fast! We're making for the sub...	200	10	350	100
+FRAME	-750	-1490	1.20
+And we are not stopping for anything!	430	10	280	100
+END

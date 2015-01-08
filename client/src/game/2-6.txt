@@ -1,0 +1,22 @@
+2-6.jpg	0	0	0	-130	1.2
+PLAYMUSIC	BATTLE
+It was then that it happened -- the first sign of some weird outside influence that guided the flying saucer.
+The hatch! Something's closed it -- we're prisoners!	150	80	120	100
+I -- I don't like this! Let's get out of here!	370	100	150	100
+FRAME	-400	-130	1.2
+We'll get out, all right! I'll -- break this thing to smithereens!	200	10	150	100
+No, Champ, no! Can't you feel that rushing vibration? The saucer -- it's diving into the sea at tremendous speed!	440	30	160	100
+FRAME	-700	-130	1.2
+There's some strange, unknown impulse guiding us --	400	20	120	100
+And nothing we can do about it -- just wait -- see what's going to happen.	570	20	150	100
+FRAME	0	-880	1.2
+You didn't have to wait long! First an odd, breathless hush -- then a weird light which bathed the interior of the saucer -- and froze to the marrow of your bones!
+That light -- that awful light! Where's it coming from?	100	70	250	100
+I -- I feel funny -- as if --	490	80	150	100
+FRAME	-680	-880	1.2
+Yes, Champ, you feel funny -- and so do the others! For this is no ordinary light! It's a ray -- a ray that paralyzes!
+FRAME	0	-1650	1.2
+And so, bearing its prisoners, the flying saucer shot down -- down through the gray depths that reached up hungrily --
+FRAME	-700	-1600	1.2
+Within it, brave commandos frozen, rooted to the spot -- heading helplessly towards a destiny unknown -- a perilous fate undreamed of!
+END

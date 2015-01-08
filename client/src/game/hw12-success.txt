@@ -1,0 +1,12 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+Can't wait to hear about it, big $boyorgirl!	200	10	400	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+FRAME	0	-840	1.2
+SETSOUND	success.mp3
+$hwbenefitsuccess	220	10	400	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+I can see the joy through your monitor on your face. It's the same that I have when I invent something and get praised!	220	10	400	100
+As you spoke, intelligence arrived and the atomic sub was summoned for an investigation...
+END

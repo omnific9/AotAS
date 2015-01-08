@@ -1,0 +1,9 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+PLAYMUSIC	REGULAR
+Back in the atomic sub, Jonnie eagerly awaited. He could not hide his excitement when he came to ask you about your one final mission.
+Needless to say, I'm eager to hear about your mission. How did it go?	200	2	450	100
+SET	prehwid	20
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

@@ -1,0 +1,10 @@
+13-1.jpg	0	0	-70	-1530	1.2
+PLAYMUSIC	REGULAR
+On retrospect, September 3, 1954, American intelligence discovered that Ho-Lan, a strategic and brilliant communist officer of China, had been assigned a mission fraught with peril to America.
+We depend on you, Ho-Lan!	110	30	140	100
+I shall not fall, Excellency!	580	10	120	100
+FRAME	-750	-1540	1.20
+The spy's task was nothing less than to organize the simultaneous assassination of the American President and Congress, plus selected members of the general staff...
+We are in Four Mile Water now, Ho-Lan!	180	10	150	100
+Take the vessel to the bottom!	460	10	150	100
+END

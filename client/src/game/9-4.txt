@@ -1,0 +1,21 @@
+9-4.jpg	0	0	-40	-150	1.2
+The surprise was complete -- the GRU troops caught off guard --
+None must escape!	180	90	170	100
+FRAME	-400	-270	1.20
+The opening of the attack was a signal to the atomic commandos! They needed Champ's surging power then -- and he didn't disappoint!
+Time for our little act! Follow me, folks!	250	90	200	100
+FRAME	-750	-80	1.20
+This -- this had better work! That H-bomb's due to be catapulted into space any second now! It took this raid by the Moonmen to draw off the guards and give us access to it!	200	10	320	100
+Rush! We haven't got much time!	620	70	100	100
+FRAME	-40	-830	1.2
+They didn't have any time! For even as they rushed up there was a roaring hum as the automatic controls were unleashed -- and the mighty H-bomb catapulted into space -- speeding to America on a mission of death!
+FRAME	-690	-890	1.20
+It was in this awful moment of awful emergency that Bill Tyler conceived a daring plan!
+There's a chance! A crazy chance! But we'll take it! Onto the atomic sub rocket, fast!	70	10	400	100
+C'mon Jonnie -- this means you, too!	570	10	180	100
+FRAME	0	-1600	1.20
+Takeoff -- in pursuit of a flying H-bomb!
+FRAME	-580	-1630	1.20
+The GRU had built terrific speed into their death laden missile! But nothing could equal America's atomic sub turned rocket! Gradually it gained --
+We're within effective range for atomic shellfire! Hang on -- and let 'er go!	80	10	300	100
+END

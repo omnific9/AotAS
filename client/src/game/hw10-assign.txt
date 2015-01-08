@@ -1,0 +1,12 @@
+ind-president.jpg	0	0	0	-70	1.2
+FUNC	clearmotivation()
+The President then turned to you, as if an important matter just struck his mind.
+Let's not get too excited yet and not forget one important mission for you all is to ensure $getusername's training continues on track. Since we're all here, I'll give a new assignment to you.	210	10	350	100
+FUNC	preparehomework()
+SET	curhwid	10
+SET	hwchar	president
+So, your mission: $hwassign	190	10	420	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

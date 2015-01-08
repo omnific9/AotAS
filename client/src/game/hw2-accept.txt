@@ -1,0 +1,4 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+Good $boyorgirl! Now don't worry about me. Just show me some muscles when I gotta see ya again!	150	20	370	100
+Completing your mission is very important for us. Make sure you report back tomorrow.	150	20	370	100
+END

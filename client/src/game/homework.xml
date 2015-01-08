@@ -1,0 +1,314 @@
+<data>
+    <hw id="1">
+        <assign>Search for articles on the Internet about the pros and cons of physical exercise. Write down your key findings next time.</assign>
+        <report>Have you read through articles about the pros and cons of physical exercise?</report>
+        <success>What are the pros and cons you've found? Write down a few simple words.</success>
+		<failure>What prevented you from finding out the pros and cons of physical exercise?</failure>
+    </hw>
+    <hw id="2">
+        <assign>Search for articles and videos on the Internet about how physical activity changed people's lives.</assign>
+        <report>Have you found articles or videos about how physical activity changed people's lives?</report>
+        <success>What are a few aspects of life do you think physical activity can change?</success>
+		<failure>What prevented you from finding these articles or videos?</failure>
+    </hw>
+    <hw id="3">
+        <assign>Pay attention to movies or TV shows, or reflect on the movies and TV shows you’ve watched before, where a character has the habit of exercising. Think thoroughly about the qualities these characters have.</assign>
+        <report>Have you watched or remembered any movie or TV show with a character who exercised?</report>
+        <success>What is one of these characters and qualities of the character?</success>
+		<failure>What has happened that prevented you from thinking about old movies and TV shows or watching new ones?</failure>
+    </hw>
+    <hw id="4">
+        <assign>Search on the Internet for the differences between cardiovascular exercise and strength training (also called resistance training).</assign>
+        <report>Have you found the differences between cardiovascular exercise and strength (also called resistance training) training?</report>
+        <success>Briefly, what are some differences between cardiovascular exercise and strength training?</success>
+		<failure>Did you have trouble finding information on this topic?</failure>
+    </hw>
+    <hw id="5">
+        <assign>Look in your local area to find out the details about one particular exercise program that lasts more than three months. It can be organized by a local gym, organization, or meetup group. Understand if the program fits you.</assign>
+        <report>Have you found a local exercise program that lasts more than three months?</report>
+        <success>Why do you think the program suits your current condition?</success>
+		<failure>Was there any trouble that prevented you from finding a program that suits you?</failure>
+    </hw>
+    <hw id="6">
+        <assign>Look on the Internet and find out what is moderate intensity exercise and what are its pros and cons.</assign>
+        <report>Have you found out what is moderate intensity exercise and its pros and cons?</report>
+        <success>Describe moderate intensity exercise briefly and list one pro and one con.</success>
+		<failure>Did you have trouble finding information on this topic?</failure>
+    </hw>
+    <hw id="7">
+        <assign>Think about one of your friends and family who can benefit from exercising, and how he or she can benefit from it.</assign>
+        <report>Have you thought of a friend or family member who can benefit from exercising?</report>
+        <success>Describe how this friend or family member can benefit from exercising.</success>
+		<failure>Did you have trouble finding or talking to a friend or family member who can benefit from exercise?</failure>
+    </hw>
+    <hw id="8">
+        <assign>Pay attention to movies or TV shows, or reflect on the movies and TV shows you’ve watched before, and think of a character who could benefit from exercising.</assign>
+        <report>Have you watched or remembered any movie or TV show with a character who could have benefited from exercising?</report>
+        <success>What is one of these characters and how excatly could he or she benefit from exercising?</success>
+		<failure>What has happened that prevented you from thinking about old movies and TV shows or watching new ones?</failure>
+    </hw>
+    <hw id="9">
+        <assign>Think about a person that you love or who is close to you. Think about and write down how exactly exercise could make him or her healthier.</assign>
+        <report>Have you thought how someone you love or close to you could become healthier by exercising?</report>
+        <success>Describe how exercising can make this person healthier, and other potential benefits he or she would gain.</success>
+		<failure>Did you have trouble finding or talking to someone close to you who could use some exercise to get healthier?</failure>
+    </hw>
+    <hw id="10">
+        <assign>Think of one thing you’d like to improve in your life. Think about and write down the benefits of exercising and how they could help you achieve your goal.</assign>
+        <report>Have you thought what aspect of your life exercising can help you improve?</report>
+        <success>Describe what you'd like to improve in your life and how exercising can help you achieve it.</success>
+		<failure>Did something prevent you from finding out one thing you'd like to improve in your life?</failure>
+    </hw>
+    <hw id="11">
+        <assign>If you don't exercise, imagine and write down the possible ill consequences to your health in 20 years.</assign>
+        <report>Have you thought about the ill consequences lack of exercise will have to your life in 20 years?</report>
+        <success>Describe these consequences.</success>
+		<failure>What was the reason that you couldn't think about this topic?</failure>
+    </hw>
+    <hw id="12">
+        <assign>Think about how people around you perceive you now. Then think about and write down how people would think of you differently if you exercise.</assign>
+        <report>Have you thought how people around you would think of you differently if you exercise?</report>
+        <success>Describe the difference you'd make in people's mind if you exercise.</success>
+		<failure>Was there something that prevented you from thinking about this?</failure>
+    </hw>
+    <hw id="13">
+        <assign>Think about how society would change if more people exercise regularly. Look on the Internet if you need to look up others' opinions.</assign>
+        <report>Have you thought about how society would change if more people exercise regularly?</report>
+        <success>Describe how society would be different if people exercise more.</success>
+		<failure>Was there something that prevented you from thinking about this?</failure>
+    </hw>
+    <hw id="14">
+        <assign>Look for information on the Internet about how America's health care system compares to the other countries. Write down how you think the health care system would be different if more people exercise regularly.</assign>
+        <report>Have you thought about how the United States' health care system would be different if more people were to exercise regularly?</report>
+        <success>Describe the changes you think would occur.</success>
+		<failure>Was there something that prevented you from looking up information of or thinking about this?</failure>
+    </hw>
+    <hw id="15">
+        <assign>Look at your most recent hospital bills and check-up results. Think about and write down how exercising would affect your health care bills in the future. Search on the Internet if you need to look up others' opinions.</assign>
+        <report>Have you given thoughts to the possible effects exercise would have on your future health care bills?</report>
+        <success>Describe what you think would be the impact of exercise.</success>
+		<failure>What was the reason that you could not think about or look up on this topic?</failure>
+    </hw>
+    <hw id="16">
+        <assign>Ask two friends about their opinions of exercise. Record their opinions and pay attention to whether they are aware how exercise can be good for them.</assign>
+        <report>Have you talked to two of your friends about their opinions of exercise?</report>
+        <success>Describe their opinions, especially on how they think exercise can be good for them.</success>
+		<failure>Did something prevent you from speaking with your friends?</failure>
+    </hw>
+    <hw id="17">
+        <assign>Ask your co-workers, classmates or friends, and count how many of them are making exercise part of their regular life and write down how they think of it.</assign>
+        <report>Have you talked to co-workers, classmates or friends and count how many of them are making exercise part of their life?</report>
+        <success>Write down the number of people you know who have done that, and describe how they think about the lifestyle.</success>
+		<failure>Was there a reason that you couldn't speak with your co-workers, classmates or friends?</failure>
+    </hw>
+    <hw id="18">
+        <assign>Look in your neighborhood within 20 minutes of where you live and find out how many gyms there are. A simple way is to search for gyms on Google Maps.</assign>
+        <report>Have you looked for gyms in your neighborhood?</report>
+        <success>Write down how many gyms there are within 20 minutes of where you live.</success>
+		<failure>Did something prevent you from looking up this information?</failure>
+    </hw>
+    <hw id="19">
+        <assign>Pay a visit to the nearest park that you find safe. Take a walk and count roughly how many people you see running or doing sports there.</assign>
+        <report>Have you paid a visit to the nearest park and found out the number of people running or doing sports there?</report>
+        <success>Write down a rough estimate of the number of people running or doing sports in the park.</success>
+		<failure>Was there some reason that you couldn't visit the park?</failure>
+    </hw>
+    <hw id="20">
+        <assign>Think of three celebrities you like and look on the Internet to find out whether they advertised that they exercise.</assign>
+        <report>Have you looked on the Internet to find out whether three celebrities you like exercise or not?</report>
+        <success>Write down the names of the three celebrities and whether they exercise.</success>
+		<failure>Did something prevent you from looking up this information?</failure>
+    </hw>
+    <hw id="21">
+        <assign>Think about conditions you currently have or the doctors say you may have in the future, including things as trivial as an occasional back-pain. How will you feel differently if you exercise regularly? Ask around and search on the Internet to find your answer.</assign>
+        <report>Have you thought about what exercise can do for any of the conditions you currently have or are worried about having?</report>
+        <success>Write down what you have found.</success>
+		<failure>What was the reason that you didn't find the answer?</failure>
+    </hw>
+    <hw id="22">
+        <assign>Take some time to imagine that you are exercising regularly. Write down whether you think it will make you healthier and how.</assign>
+        <report>Have you given some thoughts to whether you will be healthier if you exercised regularly?</report>
+        <success>Write down what you think.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+    </hw>
+    <hw id="23">
+        <assign>Take some time to imagine that you are exercising regularly. Write down whether you think it will make you happier and how.</assign>
+        <report>Have you given some thoughts to whether you will be happier if you exercised regularly?</report>
+        <success>Write down what you think.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+    </hw>
+    <hw id="24">
+        <assign>Take some time to imagine that you are exercising regularly. Write down whether you think it will make you more confident and how.</assign>
+        <report>Have you given some thoughts to whether you will be more confident if you exercised regularly?</report>
+        <success>Write down what you think.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+    </hw>
+    <hw id="25">
+        <assign>Take some time to meditate quietly, think about and write down how you will feel differently if you exercise regularly as compared to if you don't.</assign>
+        <report>Have you taken some time to meditate and think about how you will feel differently if you exercise regularly as compared to if you don't?</report>
+        <success>Write down what you think will be different.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+    </hw>
+    <hw id="26">
+        <assign>Recall how many times you have gone for a walk last week. Try to take a walk today or tomorrow for more than 30 minutes, and think about whether you can increase the number of days you walk in the next week.</assign>
+        <report>Do you think you can, in the next week, increase the number of days you walk, compared to last week?</report>
+        <success>Are there certain time spots you can use to fit in more walking? Write down a few simple words.</success>
+		<failure>What stopped you from taking a walk, or would stop you from walking more in the future?</failure>
+    </hw>
+    <hw id="27">
+        <assign>Recall your feelings when you went for a walk even though you didn't want to. Write down what you did then and think about if you can use the same techniques to keep exercising in the future.</assign>
+        <report>Have you written down a few tips on how you can go out for a walk even if you don't want to?</report>
+        <success>Write down these tips that you can use in the future.</success>
+		<failure>What was the reason that you couldn't reflect on or write down this experience?</failure>
+    </hw>
+    <hw id="28">
+        <assign>Think of one time when you struggled and succeeded throughout your life. Write down the feelings you had and how you can use the same thoughts to encourage yourself to exercise even when you don't want to.</assign>
+        <report>Have you reflected on your success experience before and write down how you could do the same with exercise?</report>
+        <success>Write down your feelings during the success experience and how they could help you succeed in exercising regularly.</success>
+		<failure>What was the reason that you couldn't reflect on or write about this?</failure>
+    </hw>
+    <hw id="29">
+        <assign>Look on the Internet for blog posts or articles about how to overcome difficulties when exercising.</assign>
+        <report>Have you looked on the Internet for blog posts or articles about how to overcome difficulties when exercising?</report>
+        <success>Write down the barriers you think are the most difficult to deal with when exercising and the solutions these Internet articles offer.</success>
+		<failure>Did something prevent you from looking this up?</failure>
+    </hw>
+    <hw id="30">
+        <assign>Think about an exercise goal you want to reach by the end of the year. Make it a New Year's resolution and write down a plan to reach your goal step by step.</assign>
+        <report>Have you thought about an exercise goal you could use as a New Year's resolution and made plans to reach the goal?</report>
+        <success>Write down the goal and how you plan to reach it step by step.</success>
+		<failure>Was there something that stopped you from setting a goal or making plans for it?</failure>
+    </hw>
+    <hw id="31">
+        <assign>Recall all the research you've done about exercise. Take action now! Take a walk for 10 minutes when you can if you don't exercise currently. Walk a bit longer if you already started walking. </assign>
+        <report>Have you taken your first walk or walked a bit longer than before?</report>
+        <success>Please write down the number of minutes you walked. Give a rough estimate if you did not time the walk.</success>
+		<failure>Was there something that prevented you from walking or from walking a bit more than you already do?</failure>
+    </hw>
+    <hw id="32">
+        <assign>Recall the last time you went for a walk. Think about and write down how you can walk a bit longer next time. </assign>
+        <report>Have you given some thoughts to how you can walk or do other types of moderate intensity exercise a bit longer than you did last time?</report>
+        <success>Please write down what you plan to do next time to help yourself exercise a bit more.</success>
+		<failure>Was there something that prevented you from reflecting on your previous exercise experience and making plans for the future?</failure>
+    </hw>
+    <hw id="33">
+        <assign>Think of a friend who can help you with exercising. Tell the friend about the difficulties you've faced when exercising. Write down what your friend thinks you could do to solve these difficulties.</assign>
+        <report>Have you asked a friend about what he or she thinks you could do to solve the difficulties you've faced when exercising?</report>
+        <success>Please briefly write down their ideas.</success>
+		<failure>Was there some reason that you couldn't talk to a friend who could give you advice on exercising?</failure>
+    </hw>
+    <hw id="34">
+        <assign>Find a friend you can rely on. Report to them your exercise progress and your exercise goals every week. Ask them to encourage you to set higher goals if you meet your previous goals, and to give you feed back and motivate you if you don't meet your goals. </assign>
+        <report>Have you asked a friend whether they could help you monitor your exercise progress and set higher goals for you?</report>
+        <success>Please briefly write down your cooperation plan.</success>
+		<failure>Was there some reason that you couldn't find a friend to monitor your exercise progress?</failure>
+    </hw>
+    <hw id="35">
+        <assign>Talk to someone you know who exercises regularly. Ask them how they exercise differently from you and write down what they say. </assign>
+        <report>Have you talked to someone you know who exercises regularly and listened to how they exercise differently from you?</report>
+        <success>Please briefly write down how their way of exercising differs from yours.</success>
+		<failure>Was there some reason that you couldn't talk to someone who exercises?</failure>
+    </hw>
+    <hw id="36">
+        <assign>Ask your friends whether they can exercise with you. Even if it's only once a week, schedule a time to work out together with a friend and make it a habit.</assign>
+        <report>Have you asked whether some of your friends can exercise with you?</report>
+        <success>Please briefly write down your plan to exercise together with your friends.</success>
+		<failure>Was there some reason that you couldn't talk to someone who can exercise with you?</failure>
+    </hw>
+    <hw id="37">
+        <assign>Think of how you and your exercise partner work out differently. Share a tip with them that can make the two of you exercise better together. If you don't have an exercise partner yet, talk to your friends and see if they would exercise with you once a week.</assign>
+        <report>Have you shared tips with your exercise partner or talked to friends about working out together yet?</report>
+        <success>Please briefly write down the tips you shared or the plan you've made with a potential exercise partner.</success>
+		<failure>Was there some reason that you couldn't talk to and share ideas with someone who can exercise with you?</failure>
+    </hw>
+    <hw id="38">
+        <assign>In the afternoon or after work, when you feel tired, instead of drinking coffee or relaxing when sitting down or lying in bed, take a walk and describe if that makes you feel better.</assign>
+        <report>Have you tried taking a walk instead of drinking coffee or taking a nap last time when you felt tired, or at least thought about it?</report>
+        <success>Please describe how you felt when you took the work when you were tired, or when you thought about going for a walk when you would be tired. Did it make you feel better or more tired?</success>
+		<failure>Was there some reason that you couldn't take a walk when you were tired last time?</failure>
+    </hw>
+    <hw id="39">
+        <assign>You may feel tired before going to exercise. Next time you feel this way, tell yourself to go exercising anyway. Find out if that would make you feel better exercising. Even if you won't feel tired, still try to rehearse it.</assign>
+        <report>Have you tried telling yourself to go exercising even when you were tired, or rehearsing the situation even if you didn't really feel tired?</report>
+        <success>Please describe how you felt when you did that.</success>
+		<failure>Did something prevent you from telling yourself to exercise when you were tired or rehearsing the situation?</failure>
+    </hw>
+    <hw id="40">
+        <assign>Next time when you want to relax by watching TV, browsing the Internet, eating snacks, or doing something else you usually did for relaxing, take a walk instead and see if that makes you feel better.</assign>
+        <report>Have you tried taking a walk instead of doing other things for relaxing?</report>
+        <success>Please describe how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+    </hw>
+    <hw id="41">
+        <assign>Next time when you are stressed or don't know what to do with your work or study, go for a walk. If this hasn't happened lately, think about the last time you were stressed out and how taking a walk would have helped.</assign>
+        <report>Have you tried taking a walk when you were stressed or thinking about how walking would have helped when you were stressed out last time?</report>
+        <success>Please describe how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+    </hw>
+    <hw id="42">
+        <assign>Next time when you need to take a bus or drive somewhere, plan some extra time and get off the bus or park your car further away from your destination. Walk an extra block or two. Remember how you feel when you do that.</assign>
+        <report>Have you tried walking an extra mile or two when you took a bus or drove somewhere?</report>
+        <success>Please describe briefly how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+    </hw>
+    <hw id="43">
+        <assign>After you take a walk next time, tell yourself that you've done a good job. Remember how you feel when you do that.</assign>
+        <report>Have you told yourself you did a good job when you took a walk?</report>
+        <success>Please describe briefly how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+    </hw>
+    <hw id="44">
+        <assign>After you take a walk next time, pay attention to your mood and remember how you feel.</assign>
+        <report>Have you paid attention to your mood when you walked last time?</report>
+        <success>Please describe briefly your mood. Did walking make you feel happier, sadder, more relaxed, etc.?</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+    </hw>
+    <hw id="45">
+        <assign>After you take a walk next time, if you meet your walking goal, treat yourself with frozen yogurt, cook yourself something nice, or get yourself a gift that you wanted to have for a long time. You can do this on a weekly basis if you like it.</assign>
+        <report>Have you treated yourself with a healthy snack, cooked yourself something nice, or got yourself a gift when you met your walking goal?</report>
+        <success>What did you do for yourself and how did you feel liking doing it in the future on a weekly basis?</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+    </hw>
+    <hw id="46">
+        <assign>Ask your exercise partner to help each other with exercise goals. If one of you doesn't meet your goal, this person needs to give the other person a small gift, maybe a meal, or a book.</assign>
+        <report>Have you talked to your exercise partner about helping each other with your exercise goals by giving each other gifts if you don't meet your exercise goals?</report>
+        <success>How does your exercise partner like it, and what will you give as your first gift if you don't meet your goal?</success>
+		<failure>Did something prevent you from talking to your exercise partner about this?</failure>
+    </hw>
+    <hw id="47">
+        <assign>Think of something you'd like to do to relax, such as watching movies, reading books or playing video games. Do these things only after you finish your exercise goal next time.</assign>
+        <report>Have you practiced doing things you'd like to do to relax, such as watching movies, reading books or playing video games only after you've met your exercise goal?</report>
+        <success>How did you feel about it and will you continue to do it?</success>
+		<failure>Was there some reason you couldn't try this out?</failure>
+    </hw>
+    <hw id="48">
+        <assign>Put on special clothes suitable for exercising when you go for a walk. Find out where you can buy these clothes if you don't have them yet, and put them where you can easily see and access if you do.</assign>
+        <report>Have you looked at where you can get exercising clothes or have you started wearing these clothes and put them where you can easily see and access?</report>
+        <success>Write down briefly when and where you plan to buy these clothes, or where you've decided to put them.</success>
+		<failure>Was there something that prevented you from finding these clothes, wearing them, or finding a place to put them?</failure>
+    </hw>
+    <hw id="49">
+        <assign>Put your exercise equipment, such as walking shoes, dumbbells, and gym membership cards, somewhere you can easily see, perhaps near your TV or computer.</assign>
+        <report>Have you put your exercise equipment, such as walking shoes, dumbbells, and gym membership cards, somewhere you can easily see?</report>
+        <success>Write down where you put these things and whether this made your workout more convenient.</success>
+		<failure>Was there something that prevented you from rearranging your equipment?</failure>
+    </hw>
+    <hw id="50">
+        <assign>Keep your walking clothes clean. Schedule your laundry frequently so you always have clean clothes when you want to exercise. Write down your revised laundry schedule.</assign>
+        <report>Have you walked through your laundry schedule to make sure you always have clean walking clothes?</report>
+        <success>Write down your revised laundry schedule and how you worked it out.</success>
+		<failure>Was there something that prevented you from scheduling your laundry?</failure>
+    </hw>
+    <hw id="51">
+        <assign>Mark when you plan to exercise on your calendar. If you use a calendar on your computer or your phone, set an alarm to remind yourself it is time to exercise.</assign>
+        <report>Have you marked your exercise slot on your calendar, or set up alarms to remind yourself of exercise?</report>
+        <success>Write down the time slots you marked on your calendar and how you set up these alarms.</success>
+		<failure>Was there something that prevented you from marking your calendar or setting your alarms?</failure>
+    </hw>
+    <hw id="52">
+        <assign>Put your favorite music on your phone and listen to them when you take a walk next time, but be careful to walk in a safe environment and make sure you are aware of traffic when doing so.</assign>
+        <report>Have you managed to put your favorite music on your phone and listen to them when you took a walk?</report>
+        <success>Write down whether you feel it made your walk more pleasant, or whether you encountered issues when doing so.</success>
+		<failure>Was there some reason that made you decide to not do it?</failure>
+    </hw>
+</data>

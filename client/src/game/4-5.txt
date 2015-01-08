@@ -1,0 +1,18 @@
+4-5.jpg	0	0	-40	-220	1.2
+At Baltimore, Tony worked fast! In no time, the Baltimore atomic installation was surrounded by grim troops, armed with machine-guns! There was a company of tanks, ready for whatever might come...
+Yessir! I've even got flame-throwers! I'm gonna fight fire with fire!	50	10	160	100
+Great Scott! Look up there in the sky... and coming fast!	320	10	220	100
+FRAME	-350	-100	1.2
+A rocket diving in high speed toward the ground!
+FRAME	-750	-140	1.2
+A fast, skidding landing... and from the rocket there emerged ...
+FRAME	-40	-850	1.2
+But Tony had reckoned on this head-on assault! On came the tanks... their guns dealing death!
+FRAME	-670	-880	1.2
+Then suddenly, as if by telepathic signal, the giants hit the ground! There was nothing between the tanks the their rocket now ... and from the rocket strange black rays snaked out... slowly probing, pushing forward...
+FRAME	-20	-1600	1.2
+Relentlessly, the dark rays homed on the advancing tanks ... and where they hit ... destruction followed!
+FRAME	-760	-1600	1.2
+Suddenly, there were no more tanks! And now came the giants... rushing the machine-gunners... evading execution by fantastic leaps!
+There's no hitting those things! We... we can't even draw a bead on 'em!	140	10	180	100
+END

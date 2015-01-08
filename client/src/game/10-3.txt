@@ -1,0 +1,23 @@
+10-3.jpg	0	0	-100	-70	1.2
+The white fluid spread out in gaseous tendrils, drifting relentlessly towards its target -- the great atomic submarine. Now it had surrounded it...
+FRAME	-100	-370	1.20
+And next, penetrated its hull! Around the heads of the sleepers it wreathed -- an anaesthetic gas which even penetrated Jonnie's mask! And it left the atomic commandos in a drugged, heavy slumber!
+FRAME	-750	-200	1.20
+Meanwhile -- on the island --
+Keep it quiet! We've got to make this a surprise --	300	10	260	100
+FRAME	-40	-830	1.2
+PLAYMUSIC	BATTLE
+This'll dispose of one of them!	140	10	250	100
+Help! We're under attack!	500	10	200	100
+FRAME	-710	-890	1.20
+It was out in the open now! Bravely, Tony led his small force into action --
+Let's go, gang! Give 'em everything we've got!	220	10	220	100
+FRAME	0	-1520	1.20
+Calling atomic commandos! Island attacked by superior force! Can't hold 'em off long -- come quick!	300	10	250	100
+FRAME	-420	-1610	1.20
+Aboard the atomic sub, all was quiet -- save for the desperate voice that none could hear --
+We're retreating to the lab, with most of my guard shot down! Hurry, everyone! Hurry!	240	10	280	100
+FRAME	-750	-1650	1.20
+The desperate messages continued! And now one sleeper stirred -- Jonnie! He, too, had breathed the gas fumes, but the oxygen from his mask had reduced their effects --
+Where are you? Why don't you answer me? All my men -- they're gone! I've locked myself in the lab with Professor McDougald...	300	70	300	100
+END

@@ -1,0 +1,25 @@
+<data>
+    <file name="hw15-check">
+    </file>
+	<file name="hw15-success">
+        <req prehw="success"/>
+    </file>
+    <file name="16-1">
+        <change loc="sub" state="rest" tony="unavailable" doc="available" bill="available" champ="available" jonnie="available"/>
+        <follow>transition</follow>
+        <follow>foreshadow</follow>
+    </file>
+    <file name="16-2">
+    </file>
+    <file name="16-3">
+    </file>
+    <file name="16-4">
+    </file>
+    <file name="hw16-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="16-5">
+    </file>
+    <file name="endofday">
+    </file>
+</data>

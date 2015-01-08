@@ -1,0 +1,21 @@
+5-5.jpg	0	0	-40	-220	1.2
+SET	connphrase	As the commandos prepared to confront the creatures beneath earth, 
+Yes, it all checked! The giants had to come from some point near enough to be affected by atomic radiations... it couldn't be another planet. Their bodies, accustomed to resist fire... the drills on their rockets, to bore from the center of the Earth upwards, and down again...
+Right! They must have picked that crater because it was a deep flaw in the Earth's crust! That one rocket returned safely, I'm betting... and the eruption was just a release of accumulated gases from beneath which marked its passing!	60	20	700	100
+FRAME	-750	-100	1.2
+In that case, we're doomed! There's no way to get at them down there!	180	10	540	100
+You're forgetting the atomic sub, Mr. President! Atomic commandos reporting for duty! We'll take it down or die trying!	130	110	400	100
+FRAME	-90	-940	1.2
+It wasn't as simple as saying it, of course! A mighty source of energy was available for the stupendous task ahead... but what was needed was that it be leashed to the proper device! The world's most gigantic drill, tempered to diamond hardness! Frantically, the project was rushed towards completion... with swarms of men working 'round the clock.
+FRAME	-710	-850	1.2
+So a surprise raid scouts out their strength... and we might even be able to rescue our kidnapped people! Then what? They just strike back at us with everything they've got!	250	20	450	100
+Ever since the first atomic bomb hit Hiroshima, I've been working on a pet little idea of my own which might be the saving of us all! If only I can get it done... it will come along with us.	500	160	270	100	
+FRAME	-40	-1650	1.2
+If only Dr. Blake could get it done! It called for days and nights of effort, while the submarine neared completion...
+FRAME	-370	-1600	1.2
+And finally...
+Aw, c'mon, Doc! Can'tcha even give us a hint what it is?	210	10	130	100
+Uh-uh, Tony! Just let's hope that we never have to use it!	410	10	150	100
+FRAME	-750	-1650	1.2
+All was in readiness now! With the hopes and fears of the nation hanging in the balance, the atomic sub slid down the ways... ready for whatever lay ahead!
+END

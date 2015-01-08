@@ -1,0 +1,12 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+$connphrase Dr. Blake stood beside you with a concerned face.
+This is hardly the time to discuss this, but something troubles me. I've been analyzing your data since you came on board, and there was something odd about how you're doing with your missions.	30	10	340	100
+FRAME	0	-840	1.2
+It would sound strange enough that on the days you don't finish your mission, the atomic sub's engine powers are as low as 70% of its normal levels. Not that it would make a huge difference, since we seldom use its full power anyway...	180	10	320	100
+But everyone on the sub suffers from some negative effects, too. Everyone's heart rate raises, has a tendency to get angry, well, all scientific terms, but I think you get the idea: if you don't complete your mission, we all suffer.	180	10	320	100
+I get a distinct feeling that we'll be running into deep trouble if you can't stick to the mission plan. Call it an instinct, or what you want, but I've seen disasters through my own eyes so many times that I can sense trouble from a million miles away.	180	10	320	100
+SETSOUND	fail.mp3
+So take your missions seriously, my friend. You'll know I'm right one day.	180	10	320	100
+Edwin has revealed some of his worries to you. Complete more missions to help Edwin gain the courage and dedication that will help him battle life's hardship.
+SET	doc-foreshadow	1
+END

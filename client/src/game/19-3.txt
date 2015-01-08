@@ -1,0 +1,27 @@
+19-3.jpg	0	0	0	-200	1.2
+Whatda ya mean you're taking our car? you nuts?	140	5	140	100
+We're the atomic commandos and we are authorized to commandeer anything. Have a look at our credentials!	340	5	180	100
+FRAME	-370	-230	1.20
+They had no idea which direction to take, but they had an ace-in-the-hole...
+If you've seen me recently, tell me which way I went! Talk up!	220	10	140	100
+Huh? You... you must have a twin brother... A few minutes ago a red-bearded guy went shooting by here towards the turnpike!	450	10	140	100
+FRAME	-750	-150	1.20
+Terrific stroke of luck! There isn't a turnoff on this road for miles! Pour on the speed, Champ!	280	10	200	100
+Hold on to your hats! We're taking off!	560	10	120	100
+FRAME	0	-840	1.2
+As the commandos closed in...
+We're being followed by police! More speed!	140	40	360	100
+It... it won't go any faster!	620	10	110	100
+FRAME	-750	-840	1.20
+So you hope to capture Sergei, eh?	130	10	200	100
+He's got a grenade! There's just one thing to do!	460	10	170	100
+FRAME	-100	-1460	1.20
+They're ramming us!	450	20	400	100
+N-no!!	630	70	120	100
+FRAME	-750	-1580	1.20
+PLAYMUSIC	REGULAR
+At the bottom of the bluff, they found the handcuffed spy, thrown clear! Misled by Bill Tyler's disguise...
+S-Sergei... ah, you... still live! Then the plan... will proceed... microfilm... left molar...	180	10	170	100
+He... He thinks I'm his boss! What a break!	450	10	120	100
+SET	connphrase	On the way back to the office, 
+END

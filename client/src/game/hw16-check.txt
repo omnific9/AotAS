@@ -1,0 +1,9 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+PLAYMUSIC	REGULAR
+In the atomic submarine, Jonnie was patiently waiting for Bill, who was working with the President on a plan to resolve the crisis from the Antarctica.
+I have a feeling that we're going to borrow power from atomic bombs again this time. That's how it goes, isn't it? I care more about your mission, honestly. How did it go?	200	2	420	100
+SET	prehwid	16
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

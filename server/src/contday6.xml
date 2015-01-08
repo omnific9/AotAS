@@ -1,0 +1,30 @@
+<data>
+    <file name="hwnl-hw5-check">
+    </file>
+	<file name="hwnl-hw5-success">
+        <req prehw="success"/>
+    </file>
+    <file name="6-1">
+    </file>
+    <file name="6-2">
+    </file>
+    <file name="6-3">
+    </file>
+    <file name="6-4">
+    </file>
+    <file name="6-5">
+    </file>
+    <file name="6-6">
+    </file>
+    <file name="6-7">
+    </file>
+    <file name="6-8">
+    </file>
+    <file name="6-9">
+    </file>
+    <file name="hwnl-hw6-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="endofday">
+    </file>
+</data>

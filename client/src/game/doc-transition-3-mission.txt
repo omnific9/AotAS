@@ -1,0 +1,19 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+$connphrase Edwin sat by your side, nervous and excited.
+I got to tell you something, $getusername. When we first met, I told you you looked familiar, didn't I? I think I finally remember who you are...	30	10	340	100
+Perhaps what you're doing is affecting me. I mean... perhaps my memories came back to me because you continue to accomplish your missions... Does this sound strange to you?	30	10	340	100
+FRAME	-650	-840	1.2
+Back in World War II, when we first understood atomic energy, we conducted several experiments.	470	10	280	100
+Of course, one of these experiments would lead to the atomic bombs, but there were others that yielded results...	470	10	280	100
+FRAME	0	-840	1.2
+And one day, they took a young $manorwoman into the lab. Only Dr. Oppenheimer and an elite scientist group were allowed in the room. I wasn't good enough. So I only heard rumors of what happened. 	180	10	320	100
+They say they injected the $manorwoman with... energy... atomic energy went into $hisorher blood veins, muscles and genes, everything. They created a $manorwoman by combining human and atomic technology.	180	10	320	100
+And you look like that $manorwoman, except it's impossible, because if you were $himorher, you've never aged.	180	10	320	100
+And then, Dr. Blake seemed to calm down. He laid his hands open and shrugged.
+FRAME	-620	-100	1.2
+You didin't expect these, did you? Sorry... I was just scared that you could be different from us... a different kind of creature.	30	10	340	100
+SETSOUND	success.mp3
+A long silence lasted between you and Edwin. After that, you both decided to go on with your work, forgetting about the conversation.
+Edwin is revealing more of himself to you. Complete more missions to become closer to him.
+SET	doc-transition	3
+END

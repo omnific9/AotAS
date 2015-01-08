@@ -1,0 +1,6 @@
+black.jpg	0	0	0	0	1.2
+SET	interactionday	3
+SET	prehw	ongoing
+Please complete your previous mission before continuing. Your mission is: $hwassign
+GAMEOVER
+END

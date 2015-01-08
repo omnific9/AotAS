@@ -1,0 +1,3 @@
+ind-president.jpg	0	0	-700	-100	1.2
+Time will not wait for us forever. You're not doing these trainings for yourself. You're doing this for America. Keep that in your mind.	170	20	400	100
+END

@@ -1,0 +1,19 @@
+5-4.jpg	0	0	-40	-80	1.2
+PLAYMUSIC	REGULAR
+Lucky these flying suits have an asbestos base! We'd have fried otherwise!	80	10	240	100
+You're right Bill! Just think of those poor folks that were being kidnapped in that rocket that plunged down here ahead of us. They must all be dead!	350	20	320	100
+FRAME	-710	-180	1.2
+But days later... a weird message from some unknown source, written in letters of flame across the skies themselves... caused near panic throughout the nation...
+FRAME	-40	-850	1.2
+Aboard the atomic sub...
+The reason's clear enough... those strange giants must be so constituted that atomic power is deadly to them, threatens their very existence! But those people they took... how can they be alive... unless...	70	10	480	100
+FRAME	-750	-890	1.2
+That night, a top priority message sped through the ether, on a secret wave length! It was from the president of the United States... destination: the atomic commandos!
+Report to Washington immediately for emergency meeting regarding threat to American security!	310	10	370	100
+FRAME	-40	-1550	1.2
+It was a historic session... for out of it emerged a plan so daring as to stagger the imagination! It had started on a note of near-despair.
+But supposing we destroyed our atomic installations, as they seem to desire... how about Russia? They might not agree to do the same, and it would be an invitation for them to attack us! Now whatever planet these giants hail from...	140	10	610	100
+One moment, Mr. President... here's a message which concerns all of us!	110	110	250	100
+FRAME	-750	-1550	1.2
+Secret service has dug up some farmer's kid who claims that last week he saw a flotilla of those enemy rockets come up out of the same crater into which the rocket carrying our missing folks descended! I submit that those rockets never came from any other planet but our own! They're from the center of the Earth!	150	10	170	100
+END

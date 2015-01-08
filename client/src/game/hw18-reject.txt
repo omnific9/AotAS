@@ -1,0 +1,11 @@
+ind-edwin.jpg	0	0	0	-840	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+Ah... do you maybe need some time to digest what I just said? Sorry this was all of such a sudden. Let me give you a different mission.	160	2	355	100
+$hwmotivate	160	2	355	100
+Your mission: $hwassign	160	2	355	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

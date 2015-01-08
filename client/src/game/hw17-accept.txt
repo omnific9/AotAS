@@ -1,0 +1,4 @@
+ind-champ.jpg	0	0	-20	-120	1.2
+That's the attitude! Sometimes I just forget whether I can or cannot, and just do it! You got it $boyorgirl? Just keep doing it and not thinking about it.	390	40	280	100
+Remember, completing your mission is very important for us. Make sure you report back tomorrow.	390	40	280	100
+END

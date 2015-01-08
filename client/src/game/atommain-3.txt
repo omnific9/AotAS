@@ -1,0 +1,13 @@
+ind-president.jpg	0	0	-700	-800	1.2
+After meeting with you, The President had requested to see Edwin Blake urgently.
+I understand we were attacked this time because atomic energy harmed the central-Earth civilization. What do you think, Dr. Blake?	550	10	180	100
+Mr. President, does atomic energy produce destruction, death, and wastelands? Yes. But I don't think it is right to obsess over doing less harm while the Soviet Union threatens the safety of our country every second of the day.	60	20	400	100
+FRAME	-700	-70	1.2
+When Edwin left, and it was just you and the President again, the old man quietly shut the door and all his windows.
+I keep thinking that if we did not develop atomic weapons at all, none of these would have happened, the Cold War, and this invasion from the middle of the Earth... What do you think, $getusername?	170	20	400	100
+But maybe Dr. Blake is right. Our intelligence indicates the GRU is planning to proceed with an all-out attack on the United States... That could mean the end for us. And yet I worry about what's the right thing to do for our future generations. There isn't anyway to know what is the right choice for the future, no?	170	20	400	100
+FRAME	0	-70	1.2
+Well, don't bother listening to an old man now. I was told to believe in what you can do by a trusted friend. Do your best in your training, and don't let us down.	210	10	350	100
+As the President spoke, the night had fallen. You saw your fragile body through the reflections in the window. Nobody knew a new threat was viciously approaching.
+Come back tomorrow, and the story will continue!
+END

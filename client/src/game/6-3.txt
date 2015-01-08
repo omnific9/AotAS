@@ -1,0 +1,7 @@
+6-3.jpg	0	0	0	-1650	1.2
+In a moment, beneath the tightening tentacles, the hull must shatter...
+FRAME	-710	-1550	1.2
+That... that thing's on top of us... and there's no way to get at it!	100	10	180	100
+Looks from here as if one of his tentacles is right over a torpedo tube!	360	10	220	100
+Good! Now there's something we can do!	640	10	120	100
+END

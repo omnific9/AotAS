@@ -1,0 +1,19 @@
+8-1.jpg	0	0	-40	-250	1.2
+PLAYMUSIC	BATTLE
+Attack! In the shadow of the dead satellite below, like evil birds of prey, the two spaceships hurtled in, confident of their prowess! But they hadn't reckoned on the quality of their adversary! This was the atomic sub turned rocket, and the atomic commandos proved worthy battlebirds!
+FRAME	-750	-230	1.20
+But now the second craft had closed for combat, a type of combat of which the Earthmen knew nothing! From the attacker came a strange ray, bathing the embattled rocket in a lurid glow...
+FRAME	-40	-930	1.2
+Can a light be poisonous, affecting the system of whomever beholds it, causing first a temporary blindness and then... unconsciousness? That's how it was as the weird beam hit home...
+Oh-hhh!	210	25	200	100
+FRAME	-710	-930	1.20
+Then, from the enemy space ship, there came a strange humming! These were signals, strange signals which flashed across space... shifting the controls of the atomic sub rocket!
+FRAME	0	-1660	1.20
+The awful intention was clear! With its direction shifted, the Earth-missile veered, heading squarely for a deadly meteorite... and extinction!
+FRAME	-340	-1720	1.20
+But at the last moment, with death seemingly inevitable, there came a stealthy movement aboard the rocket! No, it wasn't any of the atomic commandos: they lay helpless, unconscious! No, this was somebody else...
+H-holy smoke!	450	20	120	100
+FRAME	-750	-1720	1.20
+It was Jonnie! Jonnie, so intent upon becoming a junior atomic commando that he had stowed away aboard the space craft! Jonnie, who, in hiding, had been spared the dread effects of the weird ray which had overcome the others! A glance through a porthole revealed the awful danger. There wasn't a moment to spare as he leaped to the controls...
+Got to... veer off... or it's curtains!	300	110	300	100
+END

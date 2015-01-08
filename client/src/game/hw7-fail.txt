@@ -1,0 +1,10 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Since our time is frozen in this frame of comic book and I only need to appear running, mind telling me what you did?	140	20	500	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	140	20	400	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+Enough about your missions. Now get to your cannon! We got spaceships to shoot down!	140	20	400	100
+END

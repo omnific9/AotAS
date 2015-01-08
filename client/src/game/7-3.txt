@@ -1,0 +1,24 @@
+7-3.jpg	0	0	0	-190	1.2
+In the field of atomic sub construction, trained engineers and workers took over, working around the clock... and the atomic submarine became an atomic rocket...
+FRAME	-370	-160	1.20
+The work was almost complete... a briefing session was being held... when...
+Er... excuse me, Commander Tyler, but there's a visitor here...	170	10	190	100
+You know this is off limits for visitors! Whoever he is... throw him out!	420	10	120	100
+FRAME	-750	-80	1.20
+Er... he's not the usual type of crank. Not exactly the kind I'm used to throwing out! He insists he's gotta see ya...	250	10	240	100
+Okay, show him in. But watch me get rid of him in a hurry!	560	10	150	100
+FRAME	0	-840	1.2
+It was your first sight of him... this "visitor"...
+Good evening!	100	30	150	100
+What the... Hey! What is this... a kindergarten?	470	10	200	100
+FRAME	-730	-840	1.20
+Allow me to introduce myself... M. Jonathan Flint. You may know me as one of the quiz kids! Since I feel I qualify as an atomic commando, I've come to join your little group... in line with Commander Tyler's promise!	30	10	430	100
+Me? I promised? I don't even know what you're talking about!	570	10	150	100
+FRAME	-10	-1520	1.20
+I have what I consider a genuine contribution to offer! It's right here... Let me show it to you!	70	10	220	100
+Oh-oh! Why can't they be more careful with that armed services publicity they give out? Now the poor kid thinks...	380	10	340	100
+FRAME	-730	-1520	1.20
+Er... maybe I ought to tell you that...	80	10	130	100
+Sh-hh! This may be amusing... let's see what the kid's got!	280	10	120	100
+In just a moment.	520	10	200	100
+END

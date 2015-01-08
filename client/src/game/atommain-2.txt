@@ -1,0 +1,11 @@
+ind-bill.jpg	0	0	0	-100	1.2
+Hey, $getusername you remember when we used to fight together as airplane pilots?	140	20	500	100
+What am I thinking? Of course you don't... It's just that... you saved my life in the war. And it's good to see you again.	140	20	500	100
+FRAME	-640	-800	1.2
+I remember you joined the war in the very end. We used to fly over the skies across Europe. And I thought, hey, this $guyorgal learned really fast!	120	10	150	100
+And then... you just disappeared after the war... after you saved my life in Hiroshima, in the middle of that havok beyond nightmares. I was looking for you for a long time.	120	10	150	100
+FRAME	-700	-100	1.2
+Now you suddenly show up again. I don't really know what to make of it... especially since you don't remember anything from the old days.	220	20	250	100
+FRAME	0	-100	1.2
+And $getusername, how fragile do you look! You used to be strong and sharp. It's your mind and body that wins the war. But don't worry, we'll get you back to that strong $manorwoman you used to be!	140	20	500	100
+END

@@ -1,0 +1,17 @@
+2-7.jpg	0	0	0	-200	1.2
+3 - 4 - 5 miles beneath the surface! And there lay Atlantis, its strange science summoning the saucer to the mysterious marvels which awaited!
+FRAME	-400	-200	1.2
+And now the voyage was done -- for the glowing, throbbing tubes that the odd craft carried! There was a whirring of gears as the first of them shot down a chute, hit the floor --
+FRAME	-780	-200	1.2
+-- And out of the resultant explosion emerged something eerie, out of this world --the frightful creature that had been compressed within the tube to weather the flying saucer's long and peril-fraught journey!
+FRAME	-80	-850	1.2
+Above all, the paralyzing ray brooded! Within it, a man was a helpless prisoner, but he could think -- he could see what was happening to a friend -- he could suffer!
+FRAME	-780	-890	1.2
+That thing -- killing --- Bill! Got to -- break loose -- got to --	450	60	250	100
+FRAME	-80	-1630	1.2
+Back, you devil -- back! The paralyzing ray seems to be coming from that overhead gadget, so --	330	50	300	100
+It was a superhuman duel -- man against a cruel science -- but Champ broke free!
+FRAME	-780	-1550	1.2
+-- Here goes!	140	100	120	100
+There goes the ray -- and we're free!	560	200	150	100
+END

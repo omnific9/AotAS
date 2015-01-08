@@ -1,0 +1,13 @@
+15-5.jpg	0	0	0	-260	1.2
+It was now three against one, calling for every trick Bill had learned in years of combat against enemy aces, in the years that, supposedly, you fought with him during the war! Skill told, as a second Mig plummeted to earth...
+There goes another! But they've hit my plane... It's buffeting!	180	30	180	100
+FRAME	-350	-260	1.20
+Only Bill's deadly accurate gunnery saved him now, as he maneuvered his stricken aircraft! And as the third Mig was riddled...
+Well, what do you know? The last guy is turning tail! Guess he doesn't relish fair odds! I'm in the clear!	330	370	250	100
+FRAME	-750	-260	1.20
+Now, gritting his teeth in a jet that might explode at any moment, Bill turned towards his target! It was payload away, and a single tiny atomic bomb sped earthward...
+Look! A bomb!	250	270	120	100
+Run! Run!	580	300	120	100
+FRAME	-60	-530	0.7
+With the force of millions of tons of TNT, the lethal explosive struck! There was a thunderous roar, and a knife pointed at the heart of America was no more.
+END

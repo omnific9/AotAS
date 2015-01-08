@@ -1,0 +1,24 @@
+4-2.jpg	0	0	-30	-80	1.2
+That Bill Tyler knows what he's talking about, all right! In a pinch, give me the atomic commandos any time -- and the atomic sub!	70	20	180	100
+Nuts! The U.S. army, navy and air corps can take care of any menace in the world -- and without the commandos, too!	290	150	150	100
+FRAME	-400	-220	1.2
+Yes, there were many who thought this way ... who questioned the worth of the top level, all-powerful security force which Bill Tyler headed. But there were menaces out of this world, which conventional defense forces couldn't handle. 
+Menaces like this, for instance, which, on December 17, roared from out of the crater of an extinct volcano in the lonely rockies.
+FRAME	-760	-220	1.2
+There was only one to see, it later developed ... a child who spied the strange intruders before they vanished in the stratosphere ...
+G - Golly Whillkins!	330	10	220	100
+FRAME	-20	-890	1.2
+But whatever chance there might have been of a warning went glimmering! Who would believe a child -- an imaginative child?
+B - But I saw it -- honest I saw it!	80	20	110	100
+Don't lie tuh me! -- Consarned kid -- he's got too durned much imagination!	250	10	200	100
+FRAME	-760	-890	1.2
+That night, the skies held a strange, deadly menace ... speeding eastward, eastward! And there, unaware of the mighty challenge they would soon be called upon to meet, the atomic commandos busied themselves with routine tasks ...
+This new atomic engine of mine should make the sub faster and more powerful. Matter of fact, I've got another in my workshop that's almost finished. That one may be even better than this!	360	10	320	100
+Whoa Doc! One at a time! I want to see how this one works! Step her up -- all the way.	570	170	140	100
+FRAME	-40	-1550	1.2
+Up, up mounted the power ... to atomic heights never before attained! Further ... further ...
+FRAME	-400	-1220	1.0
+PLAYMUSIC	BATTLE
+It was then that it came ... your first sight of the menace! A choked scream heralded its coming as it staggered into your midst ...
+What the -- what is that thing? Where'd it come from?	660	10	150	100
+END

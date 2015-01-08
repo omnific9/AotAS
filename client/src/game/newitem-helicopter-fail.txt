@@ -1,0 +1,7 @@
+newitem.jpg	0	0	0	-100	1.2
+Gentlemen, I'd like to show our counselor around the research chamber.	100	100	300	100
+Right before the mission starts, Doc asks you to follow him in checking the equipment boarded on the submarine. You follow him to the research chamber and see sophisticated charts of the arsenal in this submarine all powered by atomic energy.
+FRAME	-800	0	1.2
+It worries me that the atomic energy in our armory is low. The helicopter and aircraft coming as part of this submarine may come in handy when we strike the UFOs.	100	200	300	100
+Doc's eyebrows lock up while he coughs to the machine smell in this room. Soon, another sighting of the UFO is reported, and the commandos are set out on their mission.
+END

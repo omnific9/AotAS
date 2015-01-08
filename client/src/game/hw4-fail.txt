@@ -1,0 +1,12 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Oh, what a surprise! So what's your reason, huh?	440	30	240	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+FRAME	-10	-780	1.2
+$hwbenefitfailure	80	10	200	100
+SETSOUND	fail.mp3
+$getusername, don't let Tony be too harsh on you. That's his way of encouraging you.	80	10	200	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+Ah, just forget it! Now, haven't you gotta contact the navy, Champ?	370	10	170	100
+END

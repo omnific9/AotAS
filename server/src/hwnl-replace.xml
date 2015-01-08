@@ -1,0 +1,62 @@
+<data>
+    <file name="hwnl-hw1-fail">
+        <req prehwid="1" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw2-fail">
+        <req prehwid="2" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw3-fail">
+        <req prehwid="3" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw4-fail">
+        <req prehwid="4" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw5-fail">
+        <req prehwid="5" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw6-fail">
+        <req prehwid="6" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw7-fail">
+        <req prehwid="7" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw8-fail">
+        <req prehwid="8" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw9-fail">
+        <req prehwid="9" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw10-fail">
+        <req prehwid="10" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw11-fail">
+        <req prehwid="11" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw12-fail">
+        <req prehwid="12" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw13-fail">
+        <req prehwid="13" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw14-fail">
+        <req prehwid="14" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw15-fail">
+        <req prehwid="15" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw16-fail">
+        <req prehwid="16" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw17-fail">
+        <req prehwid="17" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw18-fail">
+        <req prehwid="18" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw19-fail">
+        <req prehwid="19" prehw="failure"/>
+    </file>
+    <file name="hwnl-hw20-fail">
+        <req prehwid="20" prehw="failure"/>
+    </file>
+</data>

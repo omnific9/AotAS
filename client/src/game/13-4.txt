@@ -1,0 +1,25 @@
+13-4.jpg	0	0	-40	-190	1.2
+But just as Bill reached the spot...
+It ... it's been closed! Holy Macherel... the sub's motors are starting! What's going on?	100	10	180	100
+FRAME	-690	-180	1.20
+In the atomic craft...
+It's a trick! They've been playing possum! A couple of torpedos oughta show 'em!	90	10	180	100
+No, Champ! Jonnie's their prisoner. We can't risk harming him!	500	2	220	100
+FRAME	0	-910	1.2
+Bill pulled frantically at the massive hatch, but to no avail! The Chinese sub gathered speed...
+No sense hanging on! I'd better get back to Champ and Doc! We gotta figure out some way to save the kid!	140	10	300	100
+FRAME	-350	-860	1.20
+I'll never forgive myself if they harm a hair of Jonnie's head! I shouldn't have taken him along!	210	5	190	100
+Don't blame yourself. Let's trail them, and see what happens.	460	10	140	100
+FRAME	-750	-870	1.20
+PLAYMUSIC	REGULAR
+Meanwhile...
+Lemme go, ya rotten idiots! I'll getcha for this!	270	10	140	100
+A mere boy! What do we do, Ho-Lan? He's useless to us!	500	10	140	100
+FRAME	-20	-1590	1.20
+For a moment there was keen disappointment, but then Ho-Lan remembered...
+It is true we hoped to capture Commander Tyler, but according to our reports that boy knows all the secrets of the atomic sub. It should prove easier to question him than the others! Remember, no harshness! Let us use sugared words!	140	20	400	100
+FRAME	-650	-1490	1.20
+The Americans follow us, Great One! Shall we loose a salvo of torpedoes?	50	10	290	100
+No, fool! While we hold the boy they will not attack... unless we open fire first! Their fire power will make short work of us. Let them follow.	440	10	280	100
+END

@@ -1,0 +1,10 @@
+8-5.jpg	0	0	-40	-1650	1.2
+SET	connphrase	And as the commandos hid in the shallow cave, hoping to decipher the strange message ringing in Bill's head, 
+In that awful moment when the hot breath of a gigantic serpent threatened extinction -- and there didn't seem to be a chance for survival...
+H - help!	60	20	150	100
+That... that big rock... It's got a space under it, like a shallow cave! In there, quick!	250	20	500	100
+FRAME	-750	-1620	1.20
+It was a temporary shelter from the awful death that awaited...
+We're safe for a little while anyway -- that monster can't get in at us! Hey, Bill, that expression on your face... what...	90	10	250	100
+Quiet! There's something coming through, like a voice sounding in my brain... strange...	450	10	300	100
+END

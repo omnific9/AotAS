@@ -1,0 +1,25 @@
+21-2.jpg	0	0	0	-210	1.2
+By sheer force they were finally subdued, and brought before the installation's commander...
+Welcome, atomic commandos, we were expecting you! Messages from East Berlin told me you'd been there, and knowing your reputation, I was sure you'd pay us a visit...	120	50	200	100
+Yeah, the surprise was on us... flying saucers were the last thing we expected to see!	440	30	100	100
+Indeed. I'm betting that you regret not having taken a sample of the Mercury technology when you destroyed their base on Earth. The great leaders of the Soviet Union have seen farther.	120	50	200	100
+FRAME	-370	-120	1.20
+And you Americans refuse to believe the reports about these crafts! We've had them scouting your country for months! But tomorrow, August 15, our D-Day, swarms of them will be over your country... each containing H-Bombs!	210	20	300	100
+Why, you...	470	250	100	100
+FRAME	-750	-150	1.20
+Americans call our saucers optical illusions, so they won't create much excitement! But by tomorrow night, your major cities will be memories. Ponder that in your prison cell!	290	10	370	100
+FRAME	0	-880	1.2
+As agents of the GRU prepared for their great blow, the commandos were thrown into an escape-proof cell...
+We've got to do something! Tomorrow is the day!	210	20	160	100
+Take it easy, Bill! There's nothing we can do!	520	10	180	100
+FRAME	-680	-880	1.20
+August 15 dawned clear and bright, and aboard the atomic submarine, young Jonnie was intensely worried...
+The commandos should have reported by radio long ago! Something's happened... but what? If they're alive, I can get through to them with the telepathor...	140	40	300	100
+FRAME	0	-1610	1.20
+Moments later, in the far-off cell...
+I'm going nuts! We can't just stand by helplessly while...	110	20	200	100
+Wait, hold it! I think I... Yes! Jonnie's using the telepathor!	450	10	140	100
+FRAME	-650	-1570	1.20
+With communication established, it took only brief moments for the situation to be made clear...
+Look, I understand the whole setup, and I've got a plan! I don't have time to explain it, but you've got to break out! Then climb... as high as you can! Climb for your lives!	60	10	200	100
+END

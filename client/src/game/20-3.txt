@@ -1,0 +1,25 @@
+20-3.jpg	0	0	0	-140	1.2
+That armored car! Let's get it rolling!	160	10	170	100
+Right with you, Bill!	420	10	100	100
+After them!	540	90	120	100
+FRAME	-670	-140	1.20
+I can't get enough speed! They'll overtake us!	30	10	220	100
+Wait... that rock outcropping! This Tommy-gun can do the trick!	430	10	250	100
+FRAME	0	-890	1.2
+There! That'll cut off their pursuit!	480	340	120	100
+FRAME	-410	-910	1.20
+Within the hour, all the resources of the Soviet Union were mobilized to apprehend the commandos...
+Every citizen must be on the alert for two Americans masquerading as Soviet generals...	300	25	280	100
+FRAME	-750	-870	1.20
+But two hours later...
+Golly, I was getting worried!	330	10	140	100
+Everything's under control, kid!	550	10	100	100
+FRAME	-20	-1560	1.20
+Under control? Suddenly out of nowhere, a huge Russian battlewagon appeared...
+Holy smoke! We're goners! Forget us, Jonnie, take the sub down!	110	10	220	100
+I can't! There isn't time!	120	140	100	100
+FRAME	-720	-1470	1.20
+We have them sighted dead center, Admiral!	70	140	170	100
+Then... fire!	580	60	80	100
+SET	connphrase	As Bill, Champ and Jonnie regained their balance from the shock attack, 
+END

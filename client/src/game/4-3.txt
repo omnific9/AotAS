@@ -1,0 +1,22 @@
+4-3.jpg	0	0	-10	-240	1.2
+There was no time for speculation! Something weirdly strange was happening ... happening before your incredulous eyes! Whatever excruciating agony had gripped the unknown giant was ended now ... ended by fire from within!
+FRAME	-250	-90	1.2
+He... it's ... dead!	230	10	60	100
+And that smoke ... as if he were consumed by internal flames!	350	10	200	100
+Look out!	480	170	110	100
+FRAME	-760	-160	1.2
+In a headlong invasion that swept the commandos before it ...
+Ugh!	220	40	100	100
+Fight, guys ... fight!	360	10	100	100
+FRAME	-20	-890	1.2
+But who had the strength, the awful driving power needed to stand up before these titans? Only Champ ... plunging tigerishly to the attack ...
+I'll get you, you ... freak!	220	20	150	100
+FRAME	-760	-890	1.2
+But the strange people had other weapons ... and used them! 
+Ow-wwww!	480	30	120	100
+FRAME	-20	-1650	1.2
+The fiery jet stopped Champ but momentarily. But as he charged forward again, his cornered foe had a new tactic! From his luminous eyes, twin rays shone forth ...
+FRAME	-700	-1650	1.2
+They caught the strong man in mid-stride ... dashing him back as if he were a child! It was brain-shock, hitting home with sledge-hammer impact... and producing unconsciousness!
+Oh-hhh!	120	40	500	100
+END

@@ -1,0 +1,3 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+It's not like we'll be attacked by aliens again, right? Don't put too much pressure on yourself, if you really don't want to do it.	150	20	370	100
+END

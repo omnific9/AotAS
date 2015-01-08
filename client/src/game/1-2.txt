@@ -1,0 +1,21 @@
+1-2.jpg	0	0	0	-100	1.2
+SET	tony-transition	4
+SET	tony-foreshadow	4
+Sorry, Sir -- but you can understand we gotta be careful here!	80	100	280	100
+On October 14th, 1951, Naval Installations at New London, Conn., became a veritable no-man's land, closely guarded against all unauthorized personnel! What was happening there was a hush-hush, top priority secret!
+FRAME	-700	-100	1.2
+I - I can't take this overtime, this driving! Why the big rush to finish it ahead of schedule?	100	80	300	70
+What can be happening that they need a --	100	80	240	70
+Don't discuss it outside of the yards, ya big dope! Ya can't tell who might be listening!	460	78	300	100
+Those who sensed the mystery wondered! They had greater cause for wonder when, in March, 1953, activity suddenly heightened to fever pitch!
+FRAME	0	-320	0.62
+Men -- materials -- recklessly expended in a desperate, round-the-clock struggle to rush to completion a mighty secret weapon! Slowly, all too slowly it took shape -- the atomic submarine!
+FRAME	0	-1700	1.2
+Look, they don't tell me anythin'! All I know is they're drivin' us like slaves! Somethin's up, an' they need this thing finished fast!	70	80	260	300
+One must wonder: haven't we a modernly equipped navy, an up-to-the-minute air force, dogfaces second to none? Then why the wild need for this giant device -- and all the hush-hush surrounding its construction?
+FRAME	-700	-1700	1.2
+Is it some new type of naval craft or isn't it?	80	40	300	70
+And what's the rush about launching it, Mr. Secretary?	440	40	300	70
+Nothing for publication! If you won't quote me, I might say that it's the greatest secret weapon America's ever had! We need it now -- quick -- because we may be facing the most awful emergency in our history!	480	250	300	100
+Secrecy -- whispers -- wild rumors that any average Joe heard! For it was impossible to keep all word of this vast project from leaking out.
+END

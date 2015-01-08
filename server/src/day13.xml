@@ -1,0 +1,27 @@
+<data>
+    <file name="hw12-check">
+    </file>
+	<file name="hw12-success">
+        <req prehw="success"/>
+    </file>
+    <file name="13-1">
+    </file>
+    <file name="13-2">
+        <change loc="sub" state="mission" tony="unavailable" doc="available" bill="unavailable" champ="available" jonnie="available"/>
+        <follow>transition</follow>
+        <follow>foreshadow</follow>
+    </file>
+    <file name="13-3">
+    </file>
+    <file name="13-4">
+    </file>
+    <file name="13-5">
+    </file>
+    <file name="hw13-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="13-6">
+    </file>
+    <file name="endofday">
+    </file>
+</data>

@@ -1,0 +1,15 @@
+ind-president.jpg	0	0	0	-70	1.2
+FUNC	clearmotivation()
+After the celebration, you were summoned to meet the President in the White House.
+You've been staying with the atomic commandos on two missions now. I wonder whether your memories are coming back... Do you... remember what happened in the war?	210	10	350	100
+You tried hard, but only red flames flashed across your eyes, and Bill's screams of despair...
+FRAME	-700	-100	1.2
+FUNC	preparehomework()
+SET	curhwid	6
+SET	hwchar	president
+I see it is giving you pain. Let's proceed to other matters then. Today I'll give you your mission.	170	20	400	100
+Your mission: $hwassign	170	20	400	100
+MENU	 	2
+Accept	You have accepted the mission!	curhw	ongoing
+Reject	You have rejected the mission.	curhw	rejected
+END

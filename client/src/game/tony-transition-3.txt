@@ -1,0 +1,13 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+$connphrase Tony approached you from the side with a sketchy smile.
+$getusername is a dedicated $manorwoman, Bill said. That's gotta be why you stuck to what you were assigned to do for such a long time.	440	30	230	100
+What? You think I stayed for a long time too? Well, I didn't even think of it that way. Everyday I wanted to run away, but I guess finally I stayed...	440	30	230	100
+But you know I'm not staying here for world peace or the safety of America, don't you? Only for Jessica. Well, don't tell anyone else.	440	30	230	100
+SETSOUND	success.mp3
+For Jessica, I must live, and so must you, for the rest of us!	440	30	230	100
+You have come to understand Tony better. Something has changed inside of you. The next time you complete a mission, a piece of lost memory may come back to you.
+SET	tony-transition	7
+SET	tony-foreshadow	7
+SET	tonyending	injured
+FUNC	memoryinc()
+END

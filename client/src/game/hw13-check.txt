@@ -1,0 +1,9 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+PLAYMUSIC	REGULAR
+The atomic sub was chasing after the Chinese submarine tight, and the atomic commandos were not going to lose their junior member!
+It's good that you came back, $getusername. Tell me about your mission. Leave Jonnie to us to worry about.	30	10	340	100
+SET	prehwid	13
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

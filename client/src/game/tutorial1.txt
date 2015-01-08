@@ -1,0 +1,12 @@
+Instructions.jpg	0	0	0	-120	1.2
+PLAYMUSIC	REGULAR
+Hello! Welcome to Adventures of the Atomic Submarine, where you will be taken back to the 1950s, when America and the world's fate depended on a few heroes not known to historians. I'm here to help you familiarize with the controls of this interactive story. Try left clicking your mouse.	380	60	370	100
+FRAME	-750	-120	1.2
+Good! You can go through the game mostly by left clicking. You can also hit Enter or Space instead of using your mouse, to go to the next panel of the story. But bear in mind that instead of spending all your time in this interactive story, you will be given a series of objectives that can only be completed in reality.	180	90	460	100
+FRAME	-750	-860	1.2
+These real-life missions will be given to you at the end of each session of game play. Oh, don't forget that you will only be able to play one session per day.	180	60	420	100
+When one of these missions is assigned to you, you can either accept it, or reject it to receive another mission. If you ever happen to make the wrong choice, or skip through a few panels unintensionally, use Page-Up to scroll back. But you will not be able to scroll back to a previous page.	150	50	420	100
+FRAME	0	-860	1.2
+What you do with these missions will have a huge impact on how the story develops, so I recommend completing every mission you can. 	280	60	440	100
+Now, let's open the door to America in 1951, when the fate of the world will be in your hands --	280	60	440	100
+END

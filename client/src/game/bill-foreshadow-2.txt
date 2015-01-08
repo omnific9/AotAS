@@ -1,0 +1,11 @@
+ind-bill.jpg	0	0	0	-100	1.2
+$connphrase Bill asked to speak to you. Something seemed to trouble him.
+You've been part of the atomic commandos for quite a while now, but are you not getting used to the life underwater yet? Your missions haven't been getting done lately, and I'm concerned. 	140	20	500	100
+Not just about you, $getusername. Ever since we put the team together, I noticed everybody's mood depended on if you completed your mission, to some degree. Champ was kinda mad and acted like a different person when you didn't do your job.	140	20	500	100
+FRAME	-640	-800	1.2
+Dr. Blake got stuck at his new inventions, and even I would not know what to do sometimes. If the next mission comes up and I'm in such a state, I won't be sure to make the right decisions. And I like to think my decisions help us stay alive.	120	10	150	100
+SETSOUND	fail.mp3
+I'm not here to blame you, $getusername. I know you have your troubles. I believe you'll do well soon enough. I just want you to hurry up, because we haven't got much time.	120	10	150	100
+Bill has revealed some of his dark side to you. Complete more missions to help Bill gain the courage and dedication that will help him battle life's hardship.
+SET	bill-foreshadow	2
+END

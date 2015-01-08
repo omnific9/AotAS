@@ -1,0 +1,10 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Tell me what happened. If you were also chased down by a giant snake, I'll let you go this time.	150	20	370	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	150	20	370	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+But hey, failing your missions isn't the end of the world. I gotta tell you though, the President has high expectations of you, so does Bill. Don't let them down, 'K?	150	20	370	100
+END

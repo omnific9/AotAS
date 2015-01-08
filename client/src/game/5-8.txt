@@ -1,0 +1,20 @@
+5-8.jpg	0	0	0	-150	1.2
+Earth and sub-Earth stood face to face... and clashed!
+America regrets that it cannot bow to your ultimatum! Atomic weapons are our defense... without them, we might perish!	90	10	120	100
+And with them, we here will perish! We had hoped not to have to use more potent methods, but if it's our survival that's at stake... let me show you what we have in store for you!	320	10	200	100
+FRAME	-690	-150	1.20
+The atomic commandos saw... and their hearts withered within them...
+This is the outlet to a huge, flamming sea that lies beneath us exerting tremendous pressure on the Earth's crust! Defy our ultimatum and huge drills such as that one will commence tunnelling up towards the surface!	70	10	600	100
+Merciful Heavens!	580	150	180	100
+FRAME	-60	-890	1.2
+Ah... you realize what will happen! The burning sea will break through to the surface and spread over the entire Earth, consuming it entirely! Go back to your land and tell them this... that unless they abandon atomic power... death will be their fate!	30	10	650	100
+FRAME	-750	-850	1.2
+Are you mad? Release them, and who knows what weapon the surface people may be able to turn against us before the flaming sea breaks through!	40	10	320	100
+Hmm... perhaps you're right, Montilla! Have them imprisoned, while we plan further!	390	5	280	100
+FRAME	-120	-1580	1.2
+That night, the strange science from the bowels of the Earth made itself felt once again... emblazoning a frightening message on the skies above America!
+FRAME	-750	-1580	1.2
+Once again, the President called for an emergency session...
+I counsel immediate surrender... to save our civilization!	280	10	180	100
+Gentlemen, I propose a calculated risk. True, the atomic commandos may be prisoners... but I know them! Rather than bow to an enemy ultimatum, let's give the commandos one last chance to save us all!	510	30	200	100
+END

@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+Good, how about you join me for a walk now, and let's enjoy this hard-won break?	210	10	340	100
+But completing your mission is very important for us. Make sure you report back tomorrow.	210	10	340	100
+END

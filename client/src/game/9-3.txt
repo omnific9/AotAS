@@ -1,0 +1,21 @@
+9-3.jpg	0	0	-100	-150	1.2
+An hour later, the Moonmen were surprised to see --
+The Earth invader cometh!	280	100	180	100
+He must not escape!	590	40	200	100
+FRAME	-750	-180	1.20
+Dragged before the Moon King, Jonnie found his work cut out for him --
+I -- I keep on tellin' you that we're your friends -- and they're your enemies! And I can prove it! If you and your warriors will only follow me, we'll show you a way into their walled city! You can take them by surprise -- the rest is up to you!	270	20	200	100
+It shall go badly with thee if thou speakest not the truth! Lead and we follow!	510	10	200	100
+FRAME	-40	-960	1.2
+And so a strange cavalcade set forth! In the lead, a boy piloting the mighty atomic sub turned rocket -- and behind him, a fighting fleet of the Moonmen's black space-ships!
+FRAME	-690	-910	1.20
+Night still hid the fleet's arrival near the GRU city! While the Moonmen warriors took their prearranged positions, waiting tensely, Jonnie remained behind --
+We can't do anything until I receive further instructions -- shh-hh! Here they come!	30	10	300	100
+Jonnie! If you've returned with reinforcements according to time table, throw the panel switch marked radio contact -- and let the Moonmen attack!	450	10	280	100
+FRAME	-30	-1550	1.20
+PLAYMUSIC	BATTLE
+As Jonnie threw the switch a tremendous explosion leveled the gates of the walled city! So that was what Bill had buried -- a super-powerful radio bomb controlled by a signal from the atom sub!
+FRAME	-750	-1580	1.20
+And through the gap left by the explosion -- the Moonmen charged!
+Death to the invaders!	200	10	400	100
+END

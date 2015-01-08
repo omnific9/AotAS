@@ -1,0 +1,9 @@
+newitem.jpg	0	0	0	-100	1.2
+Team! You'll be surprised with what I just did! I was jogging with Tony when this thought just came to my mind: an upgrade to the onboard helicopter!	100	100	300	100
+FRAME	-800	0	1.2
+I figure we might need a helicopter -- one extremely fast -- to catch up to any UFO we sight. Applying atomic technology to the helicopter we have, that is possible.	100	100	300	100
+Doc then rushes to the helicopter and starts working. The upgrade is completed in a few mere days. 
+FRAME	-800	-500	1.2
+MENU	You acquired Advanced Helicopter!	1
+OK	Soon, another sighting of the UFO is reported, and the commandos are set out on their mission.
+END

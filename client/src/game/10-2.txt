@@ -1,0 +1,24 @@
+10-2.jpg	0	0	-10	-170	1.2
+Right! A small group of Marines will be posted on the island as guards -- while you atomic commandos patrol the nearby waters in the sub, keeping all ships away.	180	10	220	100
+I don't like it, Mr. President. As national security administrator, I say keep public attention focused on the professor for safety's sake! Working in secret with such a small guard is dangerous!	480	10	180	100
+FRAME	-400	-170	1.20
+I disagree! The atomic commandos have never failed me yet. Take it from here, Commander Bill Tyler!	320	10	180	100
+Thank you for your trust, Sir! We won't let you down. That's a promise.	450	180	120	100
+FRAME	-750	-250	1.20
+And so it was that a security project of vast importance got under way! Tony landed on Carter Island --
+Look, folks! Maybe it's true nothin' ever happens around here, what with the atomic sub patrollin' the waters -- but we gotta be prepared anyway! So keep your eyes open, see?	250	10	470	100
+FRAME	-140	-890	1.2
+And aboard the sub --
+Gosh, I'm tired, Bill! But this do-nothing patrol of ours has given me the time to finish working on an inner protective shell for the submarine. All I've got to do is connect it with the power line.	50	10	420	100
+Doc, I got a new invention too!	560	10	150	100
+FRAME	-750	-850	1.20
+What is it, Jonnie? A catcher's mask?	180	10	140	100
+No Sir! It's a new type of oxygen mask ya wear, that'll feed ya more or less oxygen automatically, depending on the amount in the air!	300	80	200	100
+Forget it and let's hit the hay! I've stepped up the radio volume -- so if Tony tries to contact us from the shore, the noise'll blast us right out of our bunks!	540	10	200	100
+FRAME	-40	-1680	1.20
+And so the atomic commandos retired, confident that science, in the form of an open radio circuit, was on guard. Jonnie snoozed happily, for wasn't he trying out his new device even as he slept?
+FRAME	-420	-1650	1.20
+Sleep... and little did they know that some distance away just barely beyond the range of their listening devices, a strange submarine lurked.
+FRAME	-750	-1650	1.20
+It was a specialized craft, built for an eerie purpose! Slowly, silently it turned, its gridlike bow pointing directly towards the atomic sub, and from it, a milky liquid bubbled...
+END

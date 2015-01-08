@@ -1,0 +1,26 @@
+19-2.jpg	0	0	0	-150	1.2
+Take a good look, Tyler... I landed this spy personally! Nobody else even knew he was in the country, and I'm betting he turns out to be big!	150	20	200	100
+That would be a surprise. I'm leaving.	420	10	100	100
+FRAME	-370	-150	1.20
+That guy's so full of himself...	210	10	150	100
+He deserves having a fall taken out of him... which gives me an idea!	430	10	130	100
+FRAME	-750	-220	1.20
+As ex-secret serviceman, Bill had long before mastered the art of disguise...
+Just what are you up to?	250	10	100	100
+In a minute or two, I'll look just like Sergei Shtemenko, chairman of the GRU. When I walk in, Peters will think he's hit the jackpot!	450	10	220	100
+FRAME	0	-840	1.2
+Okay, you guys wait here! I'm gonna have some fun!	130	10	150	100
+Ha! It's hard to imagine you pull this off!	420	10	250	100
+FRAME	-750	-840	1.20
+PLAYMUSIC	BATTLE
+Moments later...
+Hey! What gives, Bill?	450	10	200	100
+FRAME	0	-1580	1.20
+Dumfounded by the weird proceedings the commandos looked open-mouthed while...
+Step on it, quick!	490	5	250	100
+There's something awfully funny going on!	400	40	180	100
+FRAME	-680	-1540	1.20
+In Peters' office...
+What the... I must be going nuts! You just went barrelling out of here, Bill!	110	10	250	100
+That was the real Sergei! He knocked Peters cold! C'mon, we've got to overtake him!	470	5	250	100
+END

@@ -1,0 +1,11 @@
+10-1.jpg	0	0	-40	-1490	1.2
+PLAYMUSIC	REGULAR
+Just then, a signal was received on the atomic submarine.
+Calling atomic commandos, aboard atomic sub! Urgent that you return to Washington immediately!	100	50	220	100
+FRAME	-260	-1560	1.20
+A top secret conference ... with the President himself and the national security administrator, listening grimly, and one other man...
+I'd like you atomic commandos to meet Professor McDougald. He's just discovered a new biotic possessing a marvelous drying quality. It's planned for use in reclaiming swamps and flooded lands.	230	40	350	100
+FRAME	-740	-1480	1.20
+We see this as one of democracy's greatest weapons, since it can reclaim waste areas everywhere, put them into production and lessen world starvation. It's important that we're switching the professor to a lab on Carter Island off the coast of Maine, for the few weeks necessary to complete his work.	180	10	440	100
+I see. You'd like to get him out of the public eye.	190	170	100	100
+END

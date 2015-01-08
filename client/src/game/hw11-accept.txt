@@ -1,0 +1,4 @@
+ind-edwin.jpg	0	0	0	-840	1.2
+Seems like we got a good start. What determines whether you can survive through this, however, is not how tough you are, but how strong your mind is.	180	10	340	100
+Completing your mission is very important for us. Make sure you report back tomorrow.	180	10	340	100
+END

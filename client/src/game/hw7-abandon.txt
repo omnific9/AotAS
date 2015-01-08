@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+We can delay this a bit, but hey, just so you know, I'm pretty worried about you... You're not looking very good. Perhaps the flight is giving you a nausea?	150	20	370	100
+As you spoke, Bill looked outside the window of the atomic sub, he saw a red Moon, and also messengers of hostility!
+END

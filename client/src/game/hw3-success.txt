@@ -1,0 +1,10 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+I knew you wouldn't let me down! If the President asks now, I'd be proud to report your progress!	140	20	500	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	140	20	500	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+Glad to hear you're actually getting used to this! I'd love to fly with you again one day. Now let's go. We got a class to teach!	140	20	500	100
+END

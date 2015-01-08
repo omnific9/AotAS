@@ -1,0 +1,3 @@
+ind-bill.jpg	0	0	-700	-850	1.2
+It's okay. Let's move it slowly. Maybe we can work on something simpler, but we gotta get you started on exercising, or you won't survive a day out in the battlefield.	40	10	150	100
+END

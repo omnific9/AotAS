@@ -1,0 +1,20 @@
+2-4.jpg	0	0	0	-130	1.2
+Then came a near miss -- and near tragedy!
+FRAME	-680	-130	1.2
+That one damaged us -- badly! We've only got one chance -- if we can get away before we're finished off! We've got to surface fast!	420	400	300	100
+FRAME	0	-880	1.2
+The atomic submarine called upon its last ounce of surging power -- and shot surfaceward at blinding speed! Out of the maw of death -- to safety!
+FRAME	-350	-880	1.2
+PLAYMUSIC	REGULAR
+Rush repairs took several days -- but when they were completed --
+Well, we've found the underwater island -- but it's too well guarded to get into! And yet we've got to do that if we're to learn what this plot is all about.	200	40	300	100
+What the --! Bill, look!	400	240	150	100
+FRAME	-700	-880	1.2
+It's a flying saucer! It's circling at reduced speed -- coming down for a plunge towards Atlantis!	360	270	190	100
+FRAME	0	-1550	1.2
+If we could only capture one of those babies, it might give us a clue to what's going on! But how?	90	50	200	100
+Are you forgetting that the sub carries a speed-copter? With the saucer slowed down -- let's give it a try!	400	30	200	100
+FRAME	-700	-1650	1.2
+This was a job which called for superb flying -- for mighty strength and sheer grit -- but these were no problem for the atomic commandos!
+Now if only I can plant this explosive charge --!	460	90	180	100
+END

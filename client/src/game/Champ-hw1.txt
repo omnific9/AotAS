@@ -1,0 +1,10 @@
+Champ-hw1.jpg	0	0	0	-100	1.2
+Hey! You need help with the job? Let me tell ya. Exercising is real tough, but I wouldn't have lived this long without it.	400	100	300	100
+ 
+0	-870	1.2
+So here's the deal, you think you're burning up when you exercise, but those sore muscles become better fuels.	350	50	270	100
+ 
+-750	-150	1.2
+So you can punch an elephant straight into a wall, like a champ!	110	80	210	100
+ 
+GOTO	hw-submission

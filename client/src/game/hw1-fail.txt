@@ -1,0 +1,13 @@
+2-1.jpg	0	0	0	-160	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Talk to me, $getusername. What happened?	120	20	220	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+FRAME	-610	-120	1.1
+$hwbenefitfailure	220	25	460	100
+SETSOUND	fail.mp3
+Let's take it slow. I'm sure you have a lot going on in your mind right now, and I'm sure you will do better next time.	220	25	460	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+FRAME	-740	-920	1.2
+Bill did not manage to talk to you much. Soon, another sighting of the UFO was reported, and the commandos were set out on their mission.
+END

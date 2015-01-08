@@ -1,0 +1,27 @@
+15-1.jpg	0	0	0	-220	1.2
+PLAYMUSIC	REGULAR
+Upon hearing Doc's incredible plan, instant approval was given... and the sub was rushed to drydock.
+I've always hankered to use the drill we bored to the center of the Earth with for Arctic exploration!	170	30	240	100
+And a terrific idea it is! With that drill we can plow through the ice and come under the base ... without giving ourselves away!	460	20	140	100
+FRAME	-400	-250	1.20
+The repair work brought to a feverish conclusion, the last phase of the epic adventure was under way!
+Just as soon as we're in open water, give the motors everything they've got!	320	30	220	100
+FRAME	-750	-250	1.20
+For greater speed the sub remained at the surface for most of the blazing passage North! When the great Arctic fields came into view...
+Just suppose there is a base! How are you gonna knock it out?	270	60	180	100
+Never underestimate the advantage of surprise, Jonnie! Let's go below, because here's where we button up and dive!	550	30	120	100
+FRAME	0	-900	1.2
+Down, down into the icy depths! On all sides the immense undersides of icebergs disappeared into the fathomless deeps...
+We'd better go lower! Those bergs could crack us like walnuts!	150	20	160	100
+That's right, Doc. Take her down!	500	70	150	100
+FRAME	-710	-920	1.20
+But as they plunged, suddenly, they struck ice... the base of the enormous berg whose two halves had risen like separate walls between them! At the impact, the walls began to close...
+Great Scott! Here's an underwater trap for all of us!	160	60	250	100
+FRAME	0	-1590	1.20
+Like the merest toy the great submarine was caught between the two irresistible forces! As the halves closed it was flung up... up...
+Doc! Do something! We're being pushed to the surface!	120	30	140	100
+I can't, Bill! The blades aren't catching water!	450	240	150	100
+FRAME	-660	-1480	1.20
+Along the sides of its slippery prison the powerful ship glid, till at last it caught fast, between millions of tons of moving ice!
+The armor plates... they're starting to give! We're helpless!	20	110	150	100
+END

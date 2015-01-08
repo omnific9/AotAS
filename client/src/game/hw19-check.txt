@@ -1,0 +1,9 @@
+ind-bill.jpg	0	0	0	-100	1.2
+PLAYMUSIC	REGULAR
+As you came back to the atomic sub, Bill and David were setting off into Riga, investigating enemy plans to assault America.
+Good to see you here before we leave, $getusername. Let us discuss your previous mission. Tell me you did well!	140	20	500	100
+SET	prehwid	19
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

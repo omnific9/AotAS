@@ -1,0 +1,14 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+FUNC	clearmotivation()
+In the empty atomic sub, it was only you and Jonnie, who was still getting used to this giant new toy of his.
+$getusername! We haven't had a chance to get to know each other yet. I heard your mission here is to stay with the atomic sub and engage in special training, am I right?	200	2	400	100
+FUNC	preparehomework()
+SET	curhwid	12
+SET	hwchar	jonnie
+FRAME	-750	-120	1.2
+If you think I'm just a kid who doesn't know anything about your training, you can't be more wrong! I can give you a mission now, and it will be the most helpful you'll ever have!	120	20	480	100
+Your mission: $hwassign	120	20	480	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

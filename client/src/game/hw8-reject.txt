@@ -1,0 +1,11 @@
+ind-champ.jpg	0	0	-20	-120	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+Bummer! What does Bill always do to get you to work? Let me try giving you a differnt mission.	390	40	280	100
+$hwmotivate	390	40	280	100
+Your mission: $hwassign	390	40	280	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

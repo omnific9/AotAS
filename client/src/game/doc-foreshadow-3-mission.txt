@@ -1,0 +1,12 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+$connphrase Edwin stopped by with a concerned look on his face.
+$getusername, I've been analyzing your data for a while. Your data and the atomic commandos and the atomic sub all together... You have a moment to hear it?	30	10	340	100
+The power of the atomic sub fluctuates slightly depending on the nuclear reaction process, normally negligible. But, whenever the power dropped, our morale would be low, and you wouldn't finish your missions.	30	10	340	100
+FRAME	0	-840	1.2
+Not enough data points to make a correlation yet, but you think that's a coincident? I don't think so. In the beginning, I thought whether you completed your mission influenced how we all performed, but I thought it through again.	180	10	320	100
+Another likely explanation is that we're all influenced by atomic energy. Man had longed to gain total control over energy and environment, but all we could do is to use them to destroy our enemies. 	180	10	320	100
+SETSOUND	fail.mp3
+If we get too close, it will destroy us as well. You should stay away from the atomic sub, $getusername. The energy affects us even this second.	180	10	320	100
+Edwin has revealed his worries to you. Complete more missions to help Edwin gain the courage and dedication that will help him battle life's hardship.
+SET	doc-foreshadow	3
+END

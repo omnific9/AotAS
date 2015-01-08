@@ -1,0 +1,26 @@
+<data>
+    <file name="hwnl-hw9-check">
+    </file>
+	<file name="hwnl-hw9-success">
+        <req prehw="success"/>
+    </file>
+    <file name="10-1">
+    </file>
+    <file name="10-2">
+    </file>
+    <file name="10-3">
+    </file>
+    <file name="10-4">
+    </file>
+    <file name="10-5">
+    </file>
+    <file name="10-6">
+    </file>
+    <file name="10-7">
+    </file>
+    <file name="hwnl-hw10-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="endofday">
+    </file>
+</data>

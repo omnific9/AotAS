@@ -1,0 +1,8 @@
+4.jpg	0	0	0	-1700	1.2
+MENU	Your action is very important to the success of this mission. Please, will you finish only this small task?	2
+I'll do it.	Commander Tyler will await your intelligence in the submarine. Come back in the next few days to report what you have found, but the sooner the better!
+I won't do it.	There's no doubt that your heart is in the right place. Commander Tyler will have something for you again shortly. Please remember the team needs you!
+-750	-1700	1.2
+What are the UFOs that Bill Tyler encountered? What dangers will the commandos of the atomic sub face? The story will continue tomorrow. Great adventures await!
+HWON	hw1
+GOTO	hw-submission

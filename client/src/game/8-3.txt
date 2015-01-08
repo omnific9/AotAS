@@ -1,0 +1,24 @@
+8-3.jpg	0	0	0	-180	1.2
+There wasn't any doubt about the outcome... not with the atomic commandos so weakened that they couldn't put up a fight.
+No use... they've got us...	250	20	220	100
+FRAME	-690	-230	1.20
+PLAYMUSIC	REGULAR
+It was a strange place to which they were taken... seeming almost like a court of law! There were no language difficulties, for the ancestors of the Moonmen had, they were told, made secret trips to the Earth centuries ago, returning with captives!
+Thou art the leader of these individuals?	50	10	130	100
+I am!	420	10	140	100
+Boy... he talks in old English!	570	10	150	100
+FRAME	-30	-850	1.2
+There can be no mercy for such as thou, who leadest invaders from the Earth! We tried to be friends to your brothers -- the Earthlings who preceded thee -- but they murdered us without mercy! Therefore...	40	10	440	100
+No, no... you're wrong! Those that came here before us weren't our brothers! And you can't blame us for what they've done!	590	10	190	100
+FRAME	-750	-920	1.20
+Bill Tyler's plea fell upon deaf ears! To the Moonmen, all Earthlings were ruthless invaders... and there was only one possible sentence...
+Lies! Lies! The fiendish experiments of thy tribe have even, at times, changed the color of our orb! It is my judgment that the craft you camest in be destroyed by moonfire, and all of thee meet a terrible death!	250	10	400	100
+FRAME	0	-1610	1.20
+At that moment, back at the atomic sub rocket...
+If only I could find where they'd put my two-way telepathor, I could contact the atomic commandos! I've looked every place except in Doc's quarters. Better try there!	80	10	300	100
+FRAME	-300	-1610	1.20
+But suddenly --
+H - holy smoke! Moonmen... and they're headed this way!	150	3	320	100
+FRAME	-750	-1670	1.20
+He didn't know that they'd come to carry out the court's decree... and destroy the sub! Already they had set up their strange apparatus... and from it, a weird green fire exuded!
+END

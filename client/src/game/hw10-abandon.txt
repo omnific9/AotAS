@@ -1,0 +1,3 @@
+ind-president.jpg	0	0	0	-70	1.2
+Does what happened to Tony bother you? You've done a good job, $getusername, that's what I think. Perhaps you should take a little break.	210	10	350	100
+END

@@ -1,0 +1,15 @@
+ind-president.jpg	0	0	0	-70	1.2
+After all was settled, back in the White House, you were summoned to meet with the President immediately.
+Emergency, soldier! We've captured information on a multiple-angle military move from the Soviet Union. I'm asking my top secret agents to investigate this intelligence, and hopefully we will know more before it is all too late, but the reason I'm asking you here is this...	180	5	440	100
+FRAME	-700	-100	1.2
+The President handed you a letter, in the same format as the one you received last time, no name or address of the sender. 
+The letter read: Dear $getusername, I hope you have been making best use of your time training. The time might soon come that we will need your power for the survival of America. I heard that you have regained your power to some extent - your power to save others' lives with your own. Please continue with your full attention on your missions, and you will gain more of that power back. -- Your friend O
+I regret that I cannot tell you who this letter is from, but you need to know every word it says is true. You are no ordinary soldier, if that's what you're confused about. You are no ordinary $manorwoman. You are an atomic soldier, the first invention in the atomic era, even preceeding atomic bombs.	170	10	450	100
+The President threw the letter into his fire stove again, letting it burn to ashes.
+You're a $manorwoman imbued with the ability to convert atomic energy and your own life to alter the very forces of life and death. In the World War you were rumoured to have saved lives in an atomic bomb explosion. I, well, still couldn't believe it, but for the sake of our future, I hope it is true.	170	10	450	100
+FRAME	-70	-1540	1.2
+Bill Tyler walked into your conversation, seeing the still faces of you and the President.
+Just in time, Bill. Take your commandos and sail far to the borders of Europe and Asia. Gather information about Russia's plans of the nuclear strike. Godspeed now!	430	10	280	100
+You may count on us, Mr. President. Let's go now, $getusername!	90	10	290	100
+Will America be saved again by the atomic commandos? Come back tomorrow, and the story will continue!
+END

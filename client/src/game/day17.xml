@@ -1,0 +1,23 @@
+<data>
+    <file name="hw16-check">
+    </file>
+    <file name="17-1">
+        <req prehw="success"/>
+        <follow>reinforcement</follow>
+    </file>
+    <file name="17-2">
+    </file>
+    <file name="17-3">
+    </file>
+    <file name="17-4">
+    </file>
+    <file name="17-5">
+    </file>
+    <file name="17-6">
+    </file>
+    <file name="hw17-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="17-7">
+    </file>
+</data>

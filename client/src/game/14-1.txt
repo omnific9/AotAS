@@ -1,0 +1,29 @@
+14-1.jpg	0	0	0	-230	1.2
+PLAYMUSIC	REGULAR
+Under Four Mile Water, the Chinese craft moved to safety, while the American crew fumed...
+What do we do now, Bill?	120	20	80	100
+What can we do? Keep in touch with Jonnie on the telepathor... while I gun the engines full speed for Washington! I've got an idea... but we need the go-ahead of the President.	300	15	180	100
+FRAME	-350	-260	1.20
+In the submarine base of Shandong, the campaign to break down Jonnie's resistance continued...
+You will find your stay with us pleasant, Jonnie! You will enjoy my villa and learn for yourself about communism.	200	10	140	100
+I'm willing to learn. Tell me all about it!	440	90	110	100
+FRAME	-750	-240	1.20
+During the long drive Jonnie kept sending telepathic messages concerning his position, while Ho-Lan droned on...
+As a communist scientist you would have a complete laboratory at your disposal! We value talent more than Americans. Wouldn't it be more sensible to join our cause?	210	10	400	100
+FRAME	0	-880	1.2
+Within the villa...
+I am your friend, Jonnie, but even now there are those who wish to, er, dispose of you! Why not show your good faith by providing a bit of information, such as the formula for high compression torque used in the atomic sub motors?	140	10	400	100
+Golly, I wish I had Doc here!	470	140	110	100
+FRAME	-680	-870	1.20
+Moments later, the message was received...
+What are you doing, Doc? What should I say?	10	10	200	100
+I'll send Jonnie a fake formula to give Ho-Lan... one which will take their scientists months to find false!	380	10	300	100
+FRAME	0	-1590	1.20
+Ho-Lan was immensely pleased as Jonnie repeated the complicated symbols he received telepathically...
+... And then you multiply the whole thing by the square root of G!	180	40	200	100
+Excellent! I knew a bright lad like you would not disappoint me!	450	10	120	100
+FRAME	-640	-1590	1.20
+Meanwhile, the atomic sub had blazed back to Washington, bearing the dire news! It called for a conference with the President himself...
+...And I'm convinced we can rescue Jonnie, Sir! I propose to parachute into China, at the spot where he's prisoner. They can't know that we know Jonnie's exact position. We'd have total surprise on our side!	130	10	380	100
+True, but how do we get a plane through the Chinese radar net?	600	5	160	100
+END

@@ -1,0 +1,22 @@
+17-3.jpg	0	0	0	-190	1.2
+The electric bolt cannon that had brought the invaders to the brink of victory now seared their ranks in volley after volley... until the last of the Antarc vanguard crumpled at the white house gates!
+FRAME	-750	-180	1.20
+Then as the sphere whizzed down for a landing in a nearby park...
+We don't have to guess who's piloting that enemy sphere! Only one would have dared it...	160	20	200	100
+They've ordered a new type of atomic shell! From the look of things we're up against more than we suspect!	500	20	140	100
+FRAME	0	-850	1.2
+Bill, what's the picture? Have we defeated them?	100	10	100	100
+If you mean forestalling the immediate threat... yes! But this has been just a minor skirmish compared to what's coming!	320	10	180	100
+FRAME	-370	-900	1.20
+We've got to meet the Antarcs in their own territory! Once they've been located, those powerful pressure weapons must be checked long enough to use the new atomic shell!	160	10	250	100
+FRAME	-750	-940	1.20
+Soon afterward... the gleaming new supershell was loaded aboard Bill's atomic plane...
+I'm afraid of the power it packs, Bill! Don't use it until the last ditch!	400	10	300	100
+That's a promise, Mr. President!	530	140	130	100
+FRAME	-40	-1650	1.20
+And so, freighted with a weapon of limitless power, the atomic plane roared toward the frozen continent that hid the Antarc empire!
+FRAME	-750	-1700	1.20
+Hours later, above the blank desolation of Antarctica... which hid the might of an empire somewhere beneath it...
+Bill Tyler calling atomic sub! Come in, Champ... What's new down there?	220	90	300	100
+SET	connphrase	While Bill was trying to get his voice across to the atomic sub, inside the sub, 
+END

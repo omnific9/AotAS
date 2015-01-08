@@ -1,0 +1,14 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	clearmotivation()
+Bill signed with relief, then smiling...
+It must have been quite an adventure for you my friend. I didn't expect our first mission to end up fighting aliens. I was expecting Russians... more...	140	20	500	100
+FRAME	-700	-100	1.2
+FUNC	preparehomework()
+SET	curhwid	3
+SET	hwchar	bill
+Let's focus on your mission now that we're back to safety. Don't forget your main objective in this mission is to exercise, or at least gain knowledge about it if you're not ready yet. How about doing the following this time?	210	10	340	100
+Your mission: $hwassign	210	10	340	100
+MENU	 	2
+Accept	You have accepted the mission!	curhw	ongoing
+Reject	You have rejected the mission.	curhw	rejected
+END

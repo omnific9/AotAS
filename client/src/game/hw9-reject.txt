@@ -1,0 +1,11 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+You just hurt my feelings! How can you turn down a gentle request like mine? Let me give you a different mission then.	440	30	220	100
+$hwmotivate	440	30	240	100
+Your mission: $hwassign	440	30	240	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

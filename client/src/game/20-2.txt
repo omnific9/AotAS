@@ -1,0 +1,30 @@
+20-2.jpg	0	0	0	-220	1.2
+When the commissar returned, the quick change had been made...
+Sorry to keep you waiting, Excellencies! All is ready now.	130	10	200	100
+Good! Drive on!	420	10	100	100
+FRAME	-370	-250	1.20
+With great deference, they were shown through a huge war plant, the same shown on the captured microfilm...
+We're very proud of those artillery shells with atomic warheads! But you know all about them... too well for me to go into, eh?	210	30	200	100
+Oh yes, but do you know our plans... the overall plans, that is? 1,000 Rubles says you don't!	420	160	150	100
+FRAME	-750	-170	1.20
+It will be the easiest 1,000 Rubles I've ever pocketed! Listen to me run through it! German east zone police touch off the August 15 D-Day invasion, followed by the massed might of the satellites! And with this A-Bomb artillery at forward bases, the continent won't know what hit them!	270	10	370	100
+FRAME	0	-880	1.2
+Ha-ha! But short-range artillery shells can't destroy far-away America! How do we prevent them from destroying us?	130	10	210	100
+Sly fox, just hand me the Rubles. Phase C, located in South America, will launch a surprise attack on D-Day that will wipe out the United States. I got everything right?	390	2	120	100
+FRAME	-370	-880	1.20
+Er... Oh, yes! I should have the Rubles right here... I... uh... oops!	180	10	100	100
+Y... Your mustache! Help! Guards! They're impostors!	380	10	180	100
+FRAME	-710	-840	1.20
+PLAYMUSIC	BATTLE
+In a moment...
+Of all the rotten luck!	270	40	140	100
+Don't talk... fight!	520	10	220	100
+FRAME	-50	-1560	1.20
+Using his prodigious strength, Champ broke off a huge metal hook from an overhead derrick...
+Keep back!	110	30	120	100
+Toward the window, Champ! We can still make it!	410	20	250	100
+FRAME	-720	-1540	1.20
+With a single mighty blow...
+Hop through!	380	30	200	100
+I'm on my way!	630	20	80	100
+END

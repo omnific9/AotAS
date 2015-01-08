@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	0	-100	1.2
+That's the $manorwoman I knew! I hope you do a good job in this mission, cus you won't get many more!	140	20	500	100
+So, completing your mission is very important for us. Make sure you report back tomorrow.	140	20	500	100
+END

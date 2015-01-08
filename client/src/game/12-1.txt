@@ -1,0 +1,25 @@
+12-1.jpg	0	0	0	-120	1.2
+PLAYMUSIC	REGULAR
+SET	connphrase	Just as the commandos were about to approach the huge plants, 
+You're no match for Sergiev, stupid commandos of... America... He is creating the... perfect formula... in Mayoumba!	150	10	200	100
+FRAME	-310	-120	1.20
+He's dead! What do you make of it?	150	10	100	100
+Looks like this guy Sergiev must be the head of the whole plot! It involved not only stealing McDougald's secret for some terrible purpose of their own, but killing us and destroying the atomic sub. We have to strike back!	320	10	210	100
+FRAME	-750	-170	1.20
+Off Mayoumba, in Africa...
+Whatever's going on must be inland, near here somewhere! We'll scout it out in the plane! What's that you've got there, Doc?	160	10	200	100
+I've been thinking, the dead captain referred to the perfect formula, and Professor McDougald's research was on plants. So here is a battery operated, concentrated flame thrower. You make your connection there.	470	10	200	100
+FRAME	-40	-890	1.2
+In no time, the commandos hopped on the atomic plane, and to escape observation, you soared high!
+Some signs of activity down there... that may be what we're after. We'll have to look for some nearby clearing in the jungle where we can land the plane.	200	10	300	100
+FRAME	-710	-890	1.20
+Automatically unfolding rotor blades brought you down safely, and then...
+Sorry Jonnie, but you'll have to stay here until we get back. I can't have you risk your neck!	150	10	450	100
+Aw, gee...	250	110	80	100
+FRAME	-70	-1590	1.20
+As you made your way towards the signs of habitation you had seen earlier, suddenly the jungle stopped... and you found yourselves on the edge of a strange desert...
+Desert! But... but the maps don't show any wasteland in this area! It's supposed to be pure jungle!	200	10	300	100
+FRAME	-750	-1560	1.20
+Nothing... nothing but sand... and occasionally, a huge, strange plant...
+Hey, I never saw plants like those before! Let's take a closer look.	120	10	160	100
+END

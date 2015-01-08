@@ -1,0 +1,9 @@
+<data>
+    <char name="bill">
+        <consistency id="1">Let's all do our work, yeah? You came down here telling me you will help us. C'mon, do your part and let me do mine. Just give it a try, OK?</consistency>
+        <socialproof id="1"></socialproof>
+        <liking id="1">I hope I'm not presuring you. Look, I want to trust you. I want you to cover my back. And for that I need you. You hear me? Give it a try, and I won't blame you if you fail. OK?</liking>
+        <authority id="1">Look, you're not working for me. We're all doing our jobs for America, for the President of the United States of America. I won't let him down and neither should you. At least give it a try.</authority>
+        <scarcity id="1">Look, this is very important for our mission, and we need this fast! If you don't help us, we might all die out there, and the whole world may be destroyed. Please, help us. OK?</scarcity>
+    </char>
+</data>

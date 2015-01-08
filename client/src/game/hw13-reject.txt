@@ -1,0 +1,11 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+I was hoping you'd make my life a bit easier... OK, let me give you a different mission.	210	10	340	100
+$hwmotivate	210	10	340	100
+Your mission: $hwassign 	210	10	340	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

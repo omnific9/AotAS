@@ -1,0 +1,18 @@
+17-2.jpg	0	0	0	-190	1.2
+PLAYMUSIC	BATTLE
+A single atomic commando scorned the peril of the pressure guns...
+FRAME	-370	-120	1.20
+And took the offensive!
+FRAME	-750	-180	1.20
+In this lurching struggle rested the issue of victory or defeat for the nation...
+FRAME	-70	-870	1.2
+And Bill Tyler dared not lose!
+FRAME	-750	-900	1.20
+Now nothing stood in Bill's way... the sphere he had fought for was waiting! It stood there, gleaming... mysterious... and for a second he wondered...
+Now that I've got it... will I be able to fly it?	580	20	150	100
+FRAME	-40	-1600	1.20
+But the atomic commandos had been trained to use their heads in any situation and with any type of machine...
+I've got the hang of things! It's taking off!	420	10	180	100
+FRAME	-750	-1600	1.20
+The advancing Antarcs paid scant attention to the familiar sight of one of their own spheres... even when it circled... and swooped!
+END

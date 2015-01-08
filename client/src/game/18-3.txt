@@ -1,0 +1,18 @@
+18-3.jpg	0	0	0	-190	1.2
+This was the moment... four miles up! A lever tripped automatically... and the sub streaked down!
+FRAME	-350	-240	1.20
+Glinting in the frozen sunlight, the sub cleaved toward the ice! And suddenly, directly in its path, another fiery spout roared from the depths of Antarctica!
+FRAME	-750	-240	1.20
+PLAYMUSIC	BATTLE
+These were the craft that had defied the atomic cannon! But now they crashed head-on into the indestructible hull of the sub itself... at a speed that blasted them apart!
+FRAME	0	-910	1.2
+Then... there was a jolt like an earthquake... and the sub plowed into the rapidly-freezing crater!
+FRAME	-750	-900	1.20
+Nothing could check this hurtling projectile of three thousand tons... until it came to a grating halt in the stronghold of the Antarcs! It had hit some large, strange structure...
+FRAME	0	-1720	1.20
+Yes, in landing the atomic sub had destroyed the Gamma G radio transmitter! And even before the commandos themselves were aware of it, something was happening over California, and England, and a dozen other sections of the Earth that had seen the shadows of the invading spheres!
+There they come! But great guns... they certainly don't expect to make a landing here!	110	50	180	100
+They're not trying to land! Those spheres are out of control... They're going to crash!	420	30	200	100
+FRAME	-710	-1620	1.20
+Thus, in a single stroke, came the end of one phase of the Antarc challenge, and a skyborne terror screamed into oblivion as scores of powerless spheres hurtled toward destruction!
+END

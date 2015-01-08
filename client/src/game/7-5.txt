@@ -1,0 +1,18 @@
+7-5.jpg	0	0	-20	-220	1.2
+There wasn't any doubt of Jonnie's popularity now! But this was the atomic sub. These were the atomic commandos. And there just wasn't any room for a boy. Regretfully, the commandos explained...
+It... it isn't that we wouldn't want you... Please try to understand! But our missions are dangerous ones. It would be criminal to even consider a youngster...	60	10	580	100
+I... I see...	640	10	100	100
+FRAME	-750	-90	1.20
+Goshdarnit! Why do we have to break a poor kid's heart like that?	50	10	170	100
+He left his telepathy gadget. Better put it away safely for him until he calls for it. It's quite a thing!	320	10	400	100
+FRAME	-140	-820	1.2
+PLAYMUSIC	BATTLE
+But all thoughts of the boy were forgotten in the pressure of the urgent business at hand! The preparations were finished. A great new rocket was ready for launching...
+FRAME	-710	-940	1.20
+Now the time was at hand! Ahead lay the most perilous journey in the annals of mankind! The atomic commandos were aboard... the controls were zeroed on their distant objective! Contact... takeoff! Destination: The Moon!
+FRAME	0	-1670	1.20
+Through the frigid, empty reaches of space at a speed never before known... flashing past meteors with the howl of a thousand banshees...
+FRAME	-340	-1520	1.20
+Only atomic engines could manage a speed like this! It shouldn't be too long before we enter the Moon's atmosphere!	180	10	320	100
+Yeah... an' it'll be just too bad for us if anyone on the Moon sight us!	540	10	100	100
+END

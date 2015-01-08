@@ -1,0 +1,26 @@
+12-2.jpg	0	0	0	-120	1.2
+Now the commandos were about to examine the plants...
+Oh-oh... looks like trouble! It's a lion!	380	370	150	100
+FRAME	-350	-120	1.20
+Hold your fire until you can get in a good shot!	280	10	150	100
+FRAME	-750	-230	1.20
+But the charging beast never reached you! As it came within range of the plant, something strange happened...
+What the...	290	40	100	100
+FRAME	0	-900	1.2
+This was no ordinary vegetation! It was a fighting killer!
+That thing... it's a vampire! It's crushing the lion!	250	5	180	100
+FRAME	-390	-960	1.20
+Somehow, the commandos knew that this was a phenomenon that was tied up in some way with the activity you had observed from the air. Could there be your lead in that low structure in the background? Stealing close, you saw...
+It is finished, Sergiev! Within this jar, there is enough seed concentrated to turn an entire continent into desert!	140	70	300	100
+Not for nothing do they call you Soviet's greatest scientist, Andreyski! Leave it with me.	500	40	220	100
+FRAME	-750	-890	1.20
+Sergiev was alone now. It was then that the atomic commandos struck...
+Don't try any tricks! I've got you covered!	300	10	140	100
+The atomic commandos! It looks like my little plan to destroy you and your submarine failed. However, let me warn you against growing too optimistic...	520	40	170	100
+FRAME	0	-1510	1.20
+Because I saw you just before you entered, and my hand has been on the alarm ever since, if you look around you...	150	10	370	100
+FRAME	-670	-1520	1.20
+PLAYMUSIC	BATTLE
+We're trapped! But let's go down fighting, commandos!	20	20	180	100
+Seize them!	450	10	120	100
+END

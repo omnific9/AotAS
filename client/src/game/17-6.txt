@@ -1,0 +1,21 @@
+17-6.jpg	0	0	0	-290	1.2
+PLAYMUSIC	REGULAR
+It had almost cost Bill's life, but he had reached the spot from which the Antarc spheres were launched! Somewhere below, he knew, must be an immense device that shot the spheres through an ice shield a half-mile thick, and an empire extending for hundreds of miles under the Antarctic wastes!
+The crater's beginning to freeze shut again... The intense cold will seal it solid within an hour! Now that we've found the Antarc stronghold, how will we manage to penetrate the ice?	220	20	420	100
+FRAME	-750	-200	1.20
+Then, as the numbing cold began to tingle over his limbs, Bill realized his own predicament... stranded deep in an endless white expanse!
+It'll be tough figuring the sub's position... but my one chance is to keep moving!	420	10	260	100
+FRAME	0	-940	1.2
+Hour after tortured hour, Bill plodded across the ice, fighting off unconsciousness with the thought of what would happen if he stopped!
+I can't die... because if I do... the world will never have another chance... to find the Antarcs!	100	40	320	100
+FRAME	-350	-930	1.20
+Suddenly... twin jets of spray rose through the haze... Two amber eyes probed through the frozen mist! And then...
+Hey! Bill... is that you?	390	30	120	100
+FRAME	-750	-840	1.20
+Champ! I'm so... glad...	250	5	100	100
+Thank Heaven I picked up that last shock wave. Thought their base would be around here...	400	10	290	100
+FRAME	0	-1650	1.20
+Soon afterward, the jet glider reached the mighty atomic sub... anchored at the edge of the frozen continent!
+Bill! We've had the radarscope beamed skyward looking for your plane... What happened to it?	80	10	220	100
+I conked out over the ice cap, Jonnie... But it was a good investment! I've learned where those Antarcs are holed in... and from now on we're taking the offensive!	400	10	270	100
+END

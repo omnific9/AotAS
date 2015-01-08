@@ -1,0 +1,16 @@
+2-3.jpg	0	0	-70	-130	1.2
+How could a thing like that be built?	160	35	200	100
+And what's it doing down here? Look at the topography -- that's a regulation land mass!	520	40	280	100
+FRAME	-680	-130	1.2
+It was like a dream -- this huge underwater island, protected from the crushing sea by a transparent dome! How had it come to be? What strange hands had fashioned it?
+FRAME	0	-850	1.2
+I've got a crazy idea that this is Atlantis -- the fabled island continent that sank into the ocean ages ago! And now it's being used as a hideout by an invading power!	300	30	400	100
+In some fashion, they've managed to put a dome over it -- and protected by these depths, they're carrying on some terrible plot aimed at us!	300	30	400	100
+FRAME	-750	-850	1.2
+But there was no time for further speculation! The inhabitants of the strange underwater empire had sighted the atomic submarine -- and opened fire with weird weapons such as had never been seen before!
+FRAME	0	-1300	1.0
+PLAYMUSIC	BATTLE
+And now the ocean floor was shaken by a weird barrage -- and death moved close! Relentlessly, the odd explosions, the eerie rays sought them out ...
+FRAME	-450	-1300	1.0
+Holy smoke! We're under attack!	460	190	180	100
+END

@@ -1,0 +1,26 @@
+18-1.jpg	0	0	0	-130	1.2
+PLAYMUSIC	REGULAR
+In the submarine, towards a battle plan...
+Why don't we plow down in there... and slug it out with 'em?	100	5	110	100
+That's what we're going to have to do, Jonnie... But getting through that ice is a mighty tough problem!	290	5	150	100
+FRAME	-350	-200	1.20
+What about that new atomic shell? If we could find a way to fire it from above...	240	2	250	100
+We'd blast our way clean down to the Antarc stronghold!	240	2	250	100
+Somewhere near the scene of Bill's crash... the atomic shell lay buried in the ice. It would be easy enough to find, but how could it be used, when Bill had promised the President it would be fired only in a last-ditch emergency? 
+FRAME	-750	-500	1.20
+Groping for an answer, Bill paused, glancing at the massive hull that curved up into shadow...
+We can't use the shell on the surface, merely to smash the ice, because the blast would release dangerous radiation! We need something powerful enough to carry the supershell into the heart of the Antarc territory... and the only thing that can do it is the atomic sub itself!	260	10	400	100
+FRAME	0	-910	1.2
+Impossible, Bill! Powerful as the sub is... it can't shear through ice a half-mile thick!	90	10	200	100
+It could... if it were dropped! The air force has just taken over a huge experimental transport... a ten-jet model. And it's just the baby for the job!	370	10	270	100
+FRAME	-710	-1140	1.20
+Minutes later... an urgent flash reached the headquarters of the strategic air command!
+What goes on, chief? Bill Tyler wants that big jet down at the south pole... and what's more... it's got to be rigged with a special cradle designed to lift a dead weight of three thousand tons!	50	10	250	100
+If that's what the atomic commandos need, get working round the clock... and give the job top priority!	500	20	200	100
+FRAME	0	-1700	1.20
+Finally, they heard it... the distant roar that might spell Antarc formation! But instead this time...
+It's the jet transport!	330	140	120	100
+What a monster! And look at that lifting rig slung underneath!	460	220	150	100
+FRAME	-710	-1690	1.20
+Holy cow! Look at 'em! That's the country's top brass... What are they doing here?	390	60	250	100
+END

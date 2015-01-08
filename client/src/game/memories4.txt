@@ -1,0 +1,18 @@
+memories4.jpg	0	0	0	-20	1.2
+$connphrase a fragment of memory flashed in your head.
+In the last days of World War II, you were assigned to escort the atomic bomber heading toward Hiroshima to deliver a fatal strike to Japan. On the same plane was your old friend, Ace Pilot Bill Tyler.
+Let's hope that was the last defence we have to fight.	50	50	270	100
+I sure don't want to waste any more bullets or kill any more people for a war that is about to end.	320	30	400	100
+FRAME	-720	-20	1.2
+But the Japanese defence force was resilient.
+FRAME	0	-740	1.20
+Even with two of the best pilots from America, it was impossible to completely dodge the Japanese anti-air fire weave.
+FRAME	-750	-740	1.2
+It looks like the end for us, my friend. At least we managed to get the bomber here. It's just too sad that we got a one-way ticket. You got anyone you'll miss?	70	10	650	100
+Bill stopped talking, as you heard the atomic bomb falling from the sky.
+That's it now. Looks like we still got time to say a prayer. At least our children will live in a peaceful world... What the...	70	10	650	100
+SETSOUND	success.mp3
+You jumped and covered Bill's body with yours. You knew with the atomic power fused in your body you might be able to protect Bill from any harm. A blinding flash brightened the island, and you felt your back burn to ashes. You would vanish by the time Bill woke up, and he would think that he was saved by a miracle.
+You have learned the secrets about your past. You now understand the power that lies within you. Continue to complete your missions to reveal your destiny.
+FUNC	memoryinc()
+END

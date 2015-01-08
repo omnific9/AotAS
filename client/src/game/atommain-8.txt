@@ -1,0 +1,17 @@
+1955ending.jpg	0	0	0	-160	1.2
+PLAYMUSIC	BATTLE
+But don't celebrate too early. The crisis is yet to come! Barrages of nuclear missiles were suddenly launched from the center of the Pacific Ocean, the Arctic, and the Moon, directed towards major cities of America. 
+FRAME	-750	-130	1.2
+In the atomic sub, Jonnie observed the missiles through the periscope. The boy was astounded: such a coordinated surprise attack was unimaginable and must have required concentrated political power.
+The missiles are comin' fast! We gotta do something! Bill, what do we do?	150	10	400	100
+FRAME	0	-940	1.2
+Surface! Let the atomic sub rise to the sky. We must shoot down all the missiles coming our way! And let's hope we can get all of 'em...	200	20	300	100
+FRAME	0	-1630	1.2
+And so the submarine emerged and flew towards the atomic bombs head-on. But the fire power was overwhelmed by the sheer number of flying missiles.
+But the atomic commandos never give up, do they? Suddenly, your body rose into the sky as you tapped into your confused memories, and an intangible shield was formed around you, and it expanded... expanded to cover the entire territory of America!
+FRAME	-710	-940	1.2
+As atomic bombs exploded around you, you remembered Tony, and when you tried to save his life. You gained strength through your training and through atomic energy. This must be why you were summoned for this mission in the first place...
+FRAME	-710	-1560	1.2
+The atomic sub shot down the few missiles that penetrated your shield. America was safe again. As you realized how exhausted you were, you allowed your body to free fall... down into the Pacific Ocean. 
+You realized now that you were about to fall asleep again, until one day, you would wake up, forgetting everything that happened... just like you did 10 years ago in Hiroshima...
+END

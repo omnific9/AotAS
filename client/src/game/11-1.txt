@@ -1,0 +1,26 @@
+11-1.jpg	0	0	0	-190	1.2
+PLAYMUSIC	REGULAR
+One last thing! I'm worried -- if Russia is behind this, I'd guess they're after a secret weapon that could kill, not help! But how? I'm leaving it to you commandos to find out!	120	10	510	100
+FRAME	-710	-230	1.20
+Weeks followed, during which the atomic commandos struggled to run down every possible clue -- to no avail! Finally, one day ...
+Hear that humming noise? Like a plane -- pretty far up --	110	10	300	100
+Well, I'll be -- Look!	520	10	100	100
+FRAME	0	-850	1.2
+There's a man parachuting down! Stand by to pick him up!	150	450	200	100
+FRAME	-350	-890	1.20
+Rescue -- and a stunning surprise!
+Holy smoke! It's Professor McDougald... dead!	240	10	200	100
+FRAME	-750	-850	1.20
+Hey, these are Russian letters on his arm... and a number! What do you make of it, Bill?	270	10	120	100
+Hmm... according to this book that navel espionage provided me with, that number series identifies Taisi, a Russian prison camp for important prisoners. It's on the gulf of Riga, off the Baltic! So Russia is behind this, and that's where they had Professor McDougald!	450	90	240	100
+FRAME	0	-1550	1.20
+What do we do? Report back to Washington?	100	10	100	100
+Remember what the President said about leaving it to us to find out just what they planned to do with the secret they stole? He gave us a free hand, so what's holding us?	320	10	180	100
+FRAME	-660	-1470	1.20
+McDougald's body was entrusted to the care of the coast guard -- as the atomic sub sped on its perilous mission! Across the ocean -- at terrific speed --
+FRAME	-610	-1720	1.20
+Finally, with their trip concluded...
+Well, we've got here, and nobody's detected us yet! What's our position, Bill?	20	200	150	100
+Spang in the middle of the channel in the gulf of Riga, Champ, heading for Taisi. These intelligence maps are a big help. We're gonna take 'em completely by surprise!	600	180	180	100
+SET	connphrase	While the atomic commandos made plans for a surprise attack, 
+END

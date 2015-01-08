@@ -1,0 +1,9 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+$connphrase Tony patted on your shoulder.
+You did pretty well back there... I mean... not on the battlefield, but with your own mission. Unlike me... I'm not good at almost anything.	440	30	240	100
+Well, you think I'm good at escaping? Sure, cus I'm scared. I'm not scared of death. No, no, no... I'm scared of being captured. And that's what keeps me running these years.	440	30	240	100
+SETSOUND	success.mp3
+Let's get back to work now. If we survive this, I'll tell you more. Just wanna thank you for doing your part and not running away from it.	440	30	230	100
+Tony is starting to reveal himself to you. Complete more missions to become closer to Tony.
+SET	tony-transition	5
+END

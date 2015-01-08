@@ -1,0 +1,11 @@
+ind-jonnie.jpg	0	0	-750	-120	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+This is our first time working together. Well, perhaps it will be better next time. Tell me what happened though. It's been weeks here!	120	20	480	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	120	20	480	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+About your missions... I sometimes have trouble with my research too, but I found out you just gotta forget about your goals an' deadlines an' just do your best. Once you get started, it's hard to stop. Maybe you can try that next time.	120	20	480	100
+As you spoke, intelligence arrived and the atomic sub was summoned for an investigation...
+END

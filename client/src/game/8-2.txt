@@ -1,0 +1,17 @@
+8-2.jpg	0	0	0	-220	1.2
+It was a hairbreadth miss as the atomic sub responded sharply to the controls, avoiding the extinction which had been planned for it...
+FRAME	-350	-250	1.20
+But the danger wasn't over yet! Sizing up the situation, the remaining enemy space ship darted fiercely to the attack! And within the Earth craft, there was only Jonnie at the unfamiliar controls, dodging desperately, striving to save the helpless atomic commandos!
+FRAME	-750	-80	1.20
+I... I can't get away from it! I gotta land... land on the Moon. B-but I don't know how!	300	10	350	100
+FRAME	0	-950	1.2
+That's right! Steering was one thing, but the boy didn't know anything about the complicated business of landing the great flying atom! It was a miracle of chance ... that skidding belly landing...
+FRAME	-690	-880	1.20
+It was at this fateful moment that consciousness started returning to the atomic commandos.
+Must be still out... dreamin'... think I see that kid Jonnie...	120	10	400	100
+FRAME	0	-1660	1.20
+But there was no time for groggy speculation! The pursuing space ship had made a fast landing nearby... and from it...
+FRAME	-720	-1630	1.20
+Moonmen... in a swarming attack! Jonnie knew that he couldn't be any help... that hiding was better than capture! And so in a desperate attempt to escape the attention of the invaders...
+Look out!	110	10	200	100
+END

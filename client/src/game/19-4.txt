@@ -1,0 +1,23 @@
+19-4.jpg	0	0	0	-200	1.2
+A false tooth yielded a tiny role of microfilm! In an FBI projection room...
+Well, we'll know soon enough what's going on! Douse the lights!	120	30	140	100
+FRAME	-370	-130	1.20
+Phase A, eh? Doesn't tell us much! But those signs indicate that it's a region in Russia near Riga!	160	10	300	100
+FRAME	-750	-130	1.20
+Phase B! They're not regular soldiers, and those uniforms indicate they're East Berlin police... But they are lots more and better armed than the official figures reveal!	280	10	400	100
+FRAME	0	-840	1.2
+Phase C! Can't make anything out of the site! But other parts of the microfilm show that on August 15th, Russia is unleashing a master stroke to overwhelm the whole world!	130	10	270	100
+FRAME	-370	-840	1.20
+Sergei is dead, but the GRU can easily replace him! We've got to stymie their plot, but first we've got to find out what it's all about! Let's inform the President.	220	10	300	100
+FRAME	-750	-900	1.20
+The atomic commandos were unleashed immediately! Assignment: to uncover and spike the plot at all costs...
+You're going non-stop to West Berlin, Doc! Is everything straight? You know just when and where to rendezvous with us in the gulf of Riga?	230	40	340	100
+You know my memory is like an elephant's! Be seeing you!	490	140	160	100
+FRAME	-100	-1560	1.20
+An hour later, the atomic sub was Russia-bound, on its portion of the mission...
+Berlin and Riga... the only identifiable places shown on the microfilm! This mission is a toughie!	170	70	350	100
+FRAME	-750	-1560	1.20
+In Berlin, Doc went into instant conference with a British intelligence man...
+Ex-Nazi Von Zentner heads the East German police. We wondered why such an ambitious man accepted the job, but from what you've told me it's plenty big.	110	10	450	100
+I've got to have a talk with this Von Zentner!	500	120	140	100
+END

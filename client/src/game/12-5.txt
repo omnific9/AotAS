@@ -1,0 +1,25 @@
+12-5.jpg	0	0	-120	-250	1.2
+Shooting flames, one after the other, darting with sizzling speed! And as they hit, the flame spread... transforming the death trees into blazing, screaming pyres!
+They... they're shrieking like agonized humans!	690	80	110	100
+FRAME	-750	-200	1.20
+With Bill and Doc released...
+Good work, Jonnie! So we know how to deal with them now.	200	10	140	100
+Forget that! Sergiev and that scientist pal of his have already flown out with those concentrated seeds. We've got to go after 'em!	420	10	220	100
+FRAME	-40	-900	1.2
+Sergiev had a good lead, but the atomic commandos had speed to burn! Not long after...
+There they are!	140	10	80	100
+Gun 'em down, Bill! Let's do it!	110	160	140	100
+FRAME	-750	-920	1.20
+The commandos sought a revenge, and a revenge they would have...
+FRAME	0	-1630	1.20
+Grimly, Bill Tyler clung to his opponent's tail, pouring in a red hot barrage with unerring accuracy.
+PLAYMUSIC	REGULAR
+For Tony Gardello!	180	20	120	100
+FRAME	-250	-1660	1.20
+For Tony Gardello... brave, loyal atomic commando who had fallen to protect America.
+No! I was... so close... Dr. Blake!!	320	40	150	100
+FRAME	-750	-1520	1.20
+And back in Washington...
+The concentrated seed is at the bottom of the sea, Mr. President. I'm sorry we've lost too much.	150	20	200	100
+Don't be. I'll always be proud of my decision to let you handle this. Accept my thanks and the nation's.	470	20	160	100
+END

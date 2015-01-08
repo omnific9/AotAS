@@ -1,0 +1,13 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+$connphrase Tony stopped by with his constant smile even in the direst situation.
+What have we got here today, a $manorwoman who thinks $heorshe can get away with watching others work. It's hard to imagine you did what they say you did in the war, seeing how you treat your job now.	440	30	240	100
+I'm jealous of you. I really am. I had to work like a dog, not by choice. You ever tried stealing a bread? Well, you better get ready to run, and run fast!	440	30	220	100
+You think you've seen death in the war, in Hiroshima? Maybe you did. But you don't know other deaths, where you had to run away from the people who want nothing else but a dead corpse.	440	30	220	100
+FRAME	-750	-40	1.2
+So if you don't want to accomplish anything here, you better run, because in the end, you'd be running for your life anyway. Keep running, cutting the ropes, leaping from roof to roof.	120	31	450	100
+I faced Death in the face too much, and I'm tired of it, so I won't let you slow me down!	120	45	430	100
+SETSOUND	fail.mp3
+Tony was a bit scary when he was serious, you had to admit.
+Tony has revealed part of his dark side to you. Complete more missions to help Tony gain the courage and dedication that will prevent him from succumbing to a dark past.
+SET	tony-foreshadow	6
+END

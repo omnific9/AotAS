@@ -1,0 +1,44 @@
+<data>
+    <char name="bill">
+        <consistency id="1">When you were first put on this mission, I thought you were really glad. You were going to follow this through. I can still see it in you. Give it a try.</consistency>
+        <socialproof id="1">After the war, I was weak, and my legs were injured. I was like you. I went through the same set of exercises you're doing now. Trust me, you're doing yourself a big favor.</socialproof>
+        <liking id="1">I trust you, my friend. I want you to cover my back. And for that I need you. You hear me? Give it a try, and I won't blame you if you fail.</liking>
+        <authority id="1">I'm trying to help you, $getusername, we all are, but if it helps any, think of it as you work for me. It is my command that you finish your missions.</authority>
+        <scarcity id="1">You must feel tired sometimes, but we don't really have many days together. Make each mission count, $getusername.</scarcity>
+    </char>
+    <char name="champ">
+        <consistency id="1">Hey you told Bill and the President you were gonna get on your missions and finish 'em. I'm gonna hold you to it.</consistency>
+        <socialproof id="1">How daya think I got all these muscles, $manorwoman? I exercised! Now if you wanna survive on our atomic sub missions you better get started with your missions!</socialproof>
+        <liking id="1">You're a good $guyorgal, so you better listen to my advice. You're too weak. Ya better get yourself some muscles. Follow the missions you're given. That ought to help.</liking>
+        <authority id="1">You're a good $guyorgal, but you're not being a good fighter. You know what makes a good fighter? You do what's necessary. Pick up your mission.</authority>
+        <scarcity id="1">Don't take any mission lightly, $manorwoman. These are all important tasks, and if you miss one, you're missing your chance to improve your condition.</scarcity>
+    </char>
+    <char name="edwin">
+        <consistency id="1">I thought we had an agreement: you commit to your missions, and we commit to help you get your memories back. You didn't change your mind. I can tell.</consistency>
+        <socialproof id="1">You don't think I exercise? You'd be wrong. I work out everyday, and it took me a while doing the missions you're on. Let's just say they helped a lot.</socialproof>
+        <liking id="1">I think if you tried, you could be a good scientist. You seem to have the mind for it. Put that mind to completing your missions. We need you there.</liking>
+        <authority id="1">I must remind you, $getusername, you're on a secret team with the world's most distinguished individuals in many fields. We need you for only one thing, and we're watching you.</authority>
+        <scarcity id="1">Have you considered that you will receive 20 missions max, when you play this game? If you fail a mission, you lose five percent of the whole game. I hope I made that sound interesting.</scarcity>
+    </char>
+    <char name="tony">
+        <consistency id="1">Don't pretend you were not going to take responsibility for what you came here for. Bill told us what kind of $guyorgal you are. You're the responsible type.</consistency>
+        <socialproof id="1">In my circus, I trained my apprentices very hard. In the beginning, I always started easy, letting them get to know how much fun they will have if they learn the tricks. Much like what you're doing now. Works like a charm.</socialproof>
+        <liking id="1">I can see sometimes how you don't want to accept a mission. But I know you're a good $boyorgirl. What does a good $boyorgirl do? They finish what they started.</liking>
+        <authority id="1">I wouldn't mind. I really wouldn't. Bill will have a very hard time in front of the President is all. It's in your best interest to finish your mission though, am I right?</authority>
+        <scarcity id="1">You've seen some of my tricks. Your missions are just like the handkerchief in my hand. If you don't grab it, poof! It's gone! The next one will be a different mission.</scarcity>
+    </char>
+    <char name="president">
+        <consistency id="1">We rescued you from near death so that you could live again and serve your country again, soldier. I expect no less from you than completing every mission you're assigned.</consistency>
+        <socialproof id="1">The missions we are giving you is tailored to fit your condition, but you're not the only one given such tasks. We've given similar missions to other soldiers and... they've all reported good results. I trust you will not fail.</socialproof>
+        <liking id="1">You remind me of one of my kids, a stubborn $boyorgirl, that one. You young folks seldom listen to an old man, but I hope you know to do your best.</liking>
+        <authority id="1">Were we not clear enough about the importance of these missions you're given? Consider it a command, soldier. Our country needs your best efforts.</authority>
+        <scarcity id="1">Men and women with high aspirations have a common enemy: time. We're racing against time, soldier. Every mission is important for getting your memories back, and for you to better protect our country and its people.</scarcity>
+    </char>
+    <char name="jonnie">
+        <consistency id="1">I heard you were a $manorwoman of great responsibility. You must understand how important this is for me, for us. Please reconsider it.</consistency>
+        <socialproof id="1">If you think it's boring, you're not alone. I don't enjoy the P.E. classes at school, kind of like what you're doing. I try to do my best anyway, because that's what a young man like me should do!</socialproof>
+        <liking id="1">You're a very nice $manorwoman in my mind, $sirormaam. I think you should accept the mission and give it a try. I think you can do it!</liking>
+        <authority id="1">Do you know that Bill was defending you in front of the military officials the other day? I overheard. They didn't trust you, but Bill believed you would finish your missions. I know you won't let him down.</authority>
+        <scarcity id="1">It's been a while since I hopped on board. Time will pass quickly. I won't be giving you a lot of missions, so will you try to finish as many of them as possible?</scarcity>
+    </char>
+</data>

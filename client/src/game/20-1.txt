@@ -1,0 +1,29 @@
+20-1.jpg	0	0	0	-220	1.2
+PLAYMUSIC	BATTLE
+Outside the building that exploded in East Berlin, where the getaway car was waiting for Dr. Blake...
+I was beginning to think you'd never come out!	160	10	150	100
+We're not out of the woods yet!	360	10	140	100
+FRAME	-370	-220	1.20
+As they approached the roadblock leading to safety...
+Brace yourselves! We're going through!	220	10	140	100
+Don't spare the horsepower, friend!	440	10	140	100
+Stop! Stop!	160	150	100	100
+FRAME	-750	-170	1.20
+Did it! We're in the west zone! They don't dare follow!	290	10	140	100
+Well, it was a close shave... but I just hope Champ and Bill make out as well in Russia.	510	10	150	100
+FRAME	0	-880	1.2
+At the moment in Riga...
+Aah, you guys never let me do anything! What am I... a mascot?	120	30	130	100
+Jonnie, somebody's got to keep an eye on things aboard the sub! Keep your fingers crossed for us, kid!	500	160	180	100
+FRAME	-710	-890	1.20
+Reaching the nearby city, Bill and Champ mixed casually with a crowd observing visiting officers of Russia.
+We are proud of the presence of two Soviet generals, holders of the Stalin medal! To honor them, we will conduct them through the great works which will raise Russia in the new world order!	60	30	320	100
+That means they'll be going down the road towards the plant... come on!	550	10	140	100
+FRAME	-30	-1560	1.20
+Soon afterwards...
+Why are you stopping here, commissar?	90	10	130	100
+In a moment, honored ones. I must present credentials to the security police ahead. They dislike cars to approach before clearance!	400	10	220	100
+FRAME	-670	-1530	1.20
+As soon as the commissar was out of sight...
+Huh?	50	170	100	100
+END

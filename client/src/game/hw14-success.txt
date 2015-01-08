@@ -1,0 +1,10 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+My adviser used to tell me to look at the future and imagine an ideal. Someone who can get things done, he said, must have a clear ideal. It looks like you are that kind of person. Now tell me about your mission.	30	10	340	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	30	10	340	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+Very well. Now let me check on the progress of my newest design.	30	10	340	100
+END

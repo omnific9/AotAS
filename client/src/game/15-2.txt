@@ -1,0 +1,5 @@
+15-2.jpg	0	0	-1020	-1850	1.4
+And so it appeared a great effort would end in failure, with dire consequences for America, but...
+I... I wouldn't mind if it were just us! But if we fail, America is doomed!	200	30	170	100
+Wait... I just got an idea! The electric wiring I had put in the outer plates for interplanetary travel may save us!	470	50	170	100
+END

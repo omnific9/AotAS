@@ -1,0 +1,21 @@
+6-4.jpg	0	0	0	-200	1.2
+A hiss of compressed air... and a torpedo shot from the tube, ripping away one of the monstrous tentacles! There was a bubbling shirek of pain... and the octopus released its prey!
+FRAME	-710	-200	1.20
+Swiftly the atomic sub glided away, then turned... and hovering motionlessly, awaited the charge of the maddened creature. As it swarmed to the attack, again came that sustained hiss, and a second torpedo...
+FRAME	-40	-890	1.2
+But now the projectile was timed for short-range detonation! It hit squarely... blowing the monster to bits!
+FRAME	-750	-870	1.2
+PLAYMUSIC	REGULAR
+Well... there goes our idea of pulling a surprise raid to release our kidnapped people they're holding. That underwater explosion will have alerted everyone on the island!	120	5	290	100
+Right, Doc. But I got an idea. Remember the Belotti... the giants' slaves? They'd be human size if they ever straightened up... and those furs they were wearing pretty much hide their appearance! Get what I'm suggesting?	450	5	270	100
+FRAME	0	-1580	1.2
+Roger! We make a rush trip back to the mainland, grab off some of those Belotti characters, tie 'em up, grab their clothes and then slip ashore on the island, disguided as them!	80	10	320	100
+You got it! We'll have to darken our skins... there ought to be something in our medical supplies that ought to do the job.	170	440	240	100
+FRAME	-320	-1580	1.20
+No sooner said than done... and as the daring plan progressed...
+This was a smart idea of yours, Doc... polaroid goggles to help avert the power of those beams the giants shoot from their eyes! We've learned that the beams have to hit our eyes to get in the brain shock that they pack!	150	20	220	100
+But we'll need weapons too, Bill, and regular guns are too noisy! Wait a moment and I'll show you something.	480	20	140	100
+FRAME	-750	-1550	1.2
+Why, these must be the electric bolt guns you were experimenting with! But Doc, they are not lethal...	240	10	250	100
+They don't have to be. I wanted something silent, that could shock any enemy that discovers us into insensibility. This is it!	530	10	180	100
+END

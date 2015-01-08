@@ -1,0 +1,6 @@
+ind-bill.jpg	0	0	-700	-850	1.2
+Look, it must be confusing now that you've forgotten everything, but we'll work together to get over it.	40	10	150	100
+FRAME	0	-850	1.2
+Let's start anew. We're facing a new battle now. You are an atomic commando, and you are a worthy hero. $getusername, I look forward to your first mission report tomorrow.	140	20	320	100
+Completing your mission is very important for us. Make sure you report back tomorrow.	140	20	320	100
+END

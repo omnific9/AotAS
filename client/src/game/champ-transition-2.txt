@@ -1,0 +1,15 @@
+ind-champ.jpg	0	0	-20	-900	1.2
+$connphrase Champ took you to the gym he built on the atomic sub.
+They call me the Champ, the strongest man of America. Well, maybe they're right, but it takes only practice to get where I am. You just keep accomplishing your missions, and you'll get there too.	320	20	290	100
+The hard thing is to make your mind sharp, make it ready for the direst challenge when it finds you... Say... are you ready to use your fist to defend yourself, when you need to?	320	20	290	100
+FRAME	-750	-850	1.2
+And then, Champ put his dumbbells aside. He looked at you in the eyes. Inside his, you saw regret.
+I used to be a weak man. I've always worked out, but I was weak in my mind. In the war, a friend of mine was killed by a German spy. I just couldn't live after that... until...	150	20	370	100
+Until I shot the spy dead by myself, fifteen times. Even after the war ended, I wanted to revenge my old pal. Washington gave me a chance to go out and stop them evil men from killing my friends and my countrymen.	150	20	370	100
+But I couldn't forget all these years, $getusername, that the man begged before I killed him. The German spy... he begged to live, and I just couldn't resist the urge to revenge my pal...	150	20	370	100
+I'm a murderer, ain't I? They say you lost your memories. How does that feel? I wish I'd lost my memories, and wouldn't have to live through those old days again and again...	150	20	370	100
+SETSOUND	success.mp3
+And so Champ put his face in his palms for a long time. Then he took an early leave from the gym and headed back to the operation room.
+David has revealed more of himself to you. Complete more missions to become closer to him.
+SET	champ-transition	2
+END

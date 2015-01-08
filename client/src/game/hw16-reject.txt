@@ -1,0 +1,11 @@
+ind-jonnie.jpg	0	0	-750	-120	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+Whatever you gotta do to help yourself do more of these missions, you gotta do them now. OK, let me give you a different mission.	120	10	500	100
+$hwmotivate	120	10	500	100
+Your mission: $hwassign	120	10	500	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

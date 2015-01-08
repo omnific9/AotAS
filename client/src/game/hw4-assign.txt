@@ -1,0 +1,16 @@
+ind-tony.jpg	0	0	-10	-780	1.2
+FUNC	clearmotivation()
+At the same moment, the other atomic commandos were getting their part of the plan ready.
+We need to do everything to protect that plant. Tony, tell me immediately if you find anything funny.	80	10	200	100
+Yes Doc! I'll do everything as you ask!	370	10	170	100
+All right you two don't fight. I'll be on my way soon!	620	20	110	100
+FUNC	preparehomework()
+FRAME	-40	-100	1.2
+SET	curhwid	4
+SET	hwchar	tony
+Hey $getusername, you're still here! Are you not tired of all the academic correctness of our dear Dr. Blake? Why don't I assign you your mission now that Bill's away? Let me try to be creative. 	440	30	240	100
+Now, ta-da! Your mission: $hwassign	440	30	240	100
+MENU	 	2
+Accept	You have accepted the mission!	curhw	ongoing
+Reject	You have rejected the mission.	curhw	rejected
+END

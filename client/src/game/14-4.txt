@@ -1,0 +1,25 @@
+14-4.jpg	0	0	-40	-190	1.2
+We better stay in the woods till we reach the villa!	120	5	170	100
+Right! Just one thing, Champ. Don't mention that chute business to Doc! He'd give us the horselaugh for being such saps!	400	10	340	100
+FRAME	-750	-210	1.20
+Meanwhile, in Ho-Lan's palatial residence...
+Jonnie, don't be too stubborn. Communism is bound to be the ideal for mankind. The utter destruction of the U.S. is near. Why not realize that and join us now?	140	10	220	100
+And just what proof do you have for that?	530	10	140	100
+FRAME	0	-820	1.2
+At this very moment China is constructing a grand base in the Arctic, replete with guided missiles carrying hydrogen warheads! At the touch of a button, soon, your nation will be no more.	150	20	300	100
+FRAME	-350	-820	1.20
+Thousands of missiles are already set up here, pointing at every major city and airfield in the U.S. In the course of but one hour, your country will be shambles. We expect a few of your planes to survive and retaliate, but what can they do then?	240	30	300	100
+FRAME	-740	-820	1.20
+You're bluffing, otherwise what do you need me for?	240	30	140	100
+We need talents like you even after we achieve victory. In due time I will show you the base where we want you to conduct research. It grows late. Let us retire now.	450	10	210	100
+FRAME	0	-1580	1.20
+Bill and Champ reached the sumptuous prison moments before midnight... moving like shadows towards their quarry...
+Remember, no noise!	140	10	120	100
+Gotcha! I'll take the guy on the left!	400	15	250	100
+FRAME	-710	-1540	1.20
+The attack was as swift as that of a jungle cat...
+Aagh!	140	20	100	100
+Ughh!	320	20	100	100
+Good! I don't think anybody heard!	470	10	150	100
+SET	connphrase	And while the three of you proceeded further into the villa, 
+END

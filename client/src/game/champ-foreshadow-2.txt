@@ -1,0 +1,12 @@
+ind-champ.jpg	0	0	-20	-900	1.2
+$connphrase Champ took you to the gym he built in the atomic sub, a small room full of training equipment.
+This is where I train, $boyorgirl. I train because I want to become stronger. What about you? Why did you join the commandos? Why did you agree to complete the mission assigned to you?	320	20	290	100
+FRAME	-750	-850	1.2
+Back in the war, I had a really good friend. We lived in a small town. He was the sheriff, and I was deputy. We drank, took our families together to bonfire parties. Good times, until he was murdered by a spy.	150	20	370	100
+When that happened, the happy times are gone. Gone, $getusername. The only thing that still appears in my head from time to time is the weeping widow of the man everyone respected, and when she said to me calmly: "Find them. Kill them all."	150	20	470	100
+You uh... might not have thought about it. But if you don't have a reason for something, you ain't gonna do anything. Is there someone dear to you that you want to protect? Are you really ready for this? I mean, joing the atomic commandos and committing to your missions. Think about it.	150	20	470	100
+SETSOUND	fail.mp3
+As you looked at Champ in shock, he turned around, his enormous shoulders moving away from you.
+David has revealed some of his dark side to you. Complete more missions to help David gain the courage and dedication that will help him battle life's hardship.
+SET	champ-foreshadow	2
+END

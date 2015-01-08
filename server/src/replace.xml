@@ -1,0 +1,86 @@
+<data>
+    <file name="hw1-fail">
+        <req prehwid="1" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw2-fail">
+        <req prehwid="2" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw3-fail">
+        <req prehwid="3" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw4-fail">
+        <req prehwid="4" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw5-fail">
+        <req prehwid="5" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw6-fail">
+        <req prehwid="6" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw7-fail">
+        <req prehwid="7" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw8-fail">
+        <req prehwid="8" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw9-fail">
+        <req prehwid="9" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw10-fail">
+        <req prehwid="10" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw11-fail">
+        <req prehwid="11" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw12-fail">
+        <req prehwid="12" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw13-fail">
+        <req prehwid="13" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw14-fail">
+        <req prehwid="14" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw15-fail">
+        <req prehwid="15" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw16-fail">
+        <req prehwid="16" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw17-fail">
+        <req prehwid="17" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw18-fail">
+        <req prehwid="18" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw19-fail">
+        <req prehwid="19" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw20-fail">
+        <req prehwid="20" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="10-6-alt">
+        <req tonyending="injured" interactionday="10"/>
+        <type cat="ending"/>
+    </file>
+</data>

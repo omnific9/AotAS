@@ -1,0 +1,9 @@
+3-8.jpg	0	0	-20	-100	0.65
+PLAYMUSIC	REGULAR
+It was the moment of destiny! Providence itself seemed to hold its breath as the mighty missiles darted through the water -- and then struck, erupted in the most colossal explosion of all time!
+FRAME	0	-1650	1.2
+So perished Atlantis and its awful threat against Earth's security -- defeated by America's great atomic sub and its brave commandos! The following week -- in Washington --
+There will be a future for mankind on Earth now -- thanks to you atomic commandos!	60	50	200	100
+Thanks to the atomic sub, you mean, Mr. President. The danger is over now -- we can settle back in safety, thank Heavens!	340	50	320	100
+SET	connphrase	While the commandos immersed in celebration of a hard won victory,
+END

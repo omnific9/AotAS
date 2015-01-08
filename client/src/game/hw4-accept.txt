@@ -1,0 +1,4 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+That's a good $manorwoman! I didn't know it was this easy to give you work to do! Ha, I gotta give you more work next time! Just kidding!	440	30	240	100
+Anyway, completing your mission is very important for us. Make sure you report back tomorrow.	440	30	240	100
+END

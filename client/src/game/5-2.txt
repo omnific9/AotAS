@@ -1,0 +1,17 @@
+5-2.jpg	0	0	-40	-140	1.2
+But there was something else! The Carolina... its blazing guns sending up a torrent of destruction!
+FRAME	-690	-160	1.2
+This was heavy artillery... aimed with all the skill of America's mightiest battle-wagon. The planes hadn't been able to do it... but rocket after rocket whirled downward now.
+FRAME	-40	-900	1.2
+But now the foe rallied strongly, diving towards the lone battleship in an awful display of concerted power! Again came the weird black rays, now concentrated upon this single target! And in a series of rending explosions... the great dreadnought was silenced!
+That... does it! They'll move in on the President's yacht now... unless...	60	20	150	100
+FRAME	-760	-900	1.2
+Then... almost as if in answer to an unspoken prayer... the atomic sub!
+FRAME	-40	-1650	1.2
+The enemy knew the calibre of its opponent! They roared to the attack, and time and again the black rays hit home! But the submarine, armored by a new, experimental metal of diamond-like hardness, rode out the awful bombardment... as Edwin and Tony girded for a last-ditch fight!
+We'll turn this atomic rapid-fire gun loose -- if only we live long enough!	60	20	320	100
+FRAME	-500	-1600	1.260
+Take it away!	170	30	100	100
+FRAME	-760	-1600	1.2
+Eeyowww! We're blowing 'em apart... and the rest of 'em are taking off on the run!	390	380	200	100
+END

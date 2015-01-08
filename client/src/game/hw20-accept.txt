@@ -1,0 +1,4 @@
+ind-jonnie.jpg	0	0	-750	-120	1.2
+No matter what happens tomorrow, I want you to know it's impressive that you've come this far. I want to grow up to be a person like you. You're a great $manorwoman!	120	20	480	100
+Completing your last mission is utterly important for us. Make sure you report back tomorrow.	120	20	480	100
+END

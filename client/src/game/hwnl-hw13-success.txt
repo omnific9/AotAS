@@ -1,0 +1,6 @@
+white.jpg	0	0	0	0	1.2
+FUNC	succeedhomework()
+$hwsuccess	100	20	600	100
+INPUT	You are limited to 400 words. Press Enter when you are done.
+Thank you for your report. You will now proceed to a new homework assignment. Left click your mouse or hit Enter on your keyboard to continue.	100	20	600	100
+END

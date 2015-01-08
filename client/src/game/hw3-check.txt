@@ -1,0 +1,10 @@
+ind-bill.jpg	0	0	0	-100	1.2
+PLAYMUSIC	REGULAR
+On the morning of December 14, 1954, as you walked toward the atomic sub, you encountered Bill, who seemed to be in a rush.
+$getusername! Come and join me for a lecture to the secret agent forces. I'm about to talk about our first mission as atomic commandos. It would be nice to hear about your mission progress too.	140	20	500	100
+$hwreport	140	20	500	100
+SET	prehwid	3
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

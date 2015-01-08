@@ -1,0 +1,10 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+That's my $guyorgal! Since our time is frozen in this frame of comic book, mind telling me what you did?	140	20	500	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	140	20	400	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+That's some good work! Now get to your cannon! We got spaceships to shoot down!	140	20	500	100
+END

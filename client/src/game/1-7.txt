@@ -1,0 +1,12 @@
+1-7.jpg	0	0	0	-160	1.2
+Repeat after me! "I swear to give my all to America, to protect with my life the great new secret weapon..."	40	40	220	100
+I swear to give my all to America, to protect with my life...	380	50	300	100
+There wasn't any question of rejection. When summoned to join a secret group of patriots swearing a secret oath, there is nothing more appealing in one's life.
+FRAME	-740	-160	1.2
+PLAYMUSIC	REGULAR
+And so the desperate campaign opened! Atomic commandos -- aboard the mighty atomic submarine -- started their intensive training of strength, agility and teamwork.
+FRAME	0	-950	1.2
+I - I've never seen anything like it! We're cruising at 130 miles an hour!	80	40	220	100
+Good Lord! Can you imagine what she'd do if we let her out!?	430	60	200	100
+Now, let's continue setting up the sub. Meanwhile, $getusername, I need to have a word with you.	430	40	230	100
+END

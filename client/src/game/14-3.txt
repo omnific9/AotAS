@@ -1,0 +1,11 @@
+14-3.jpg	0	0	-730	-350	1.2
+Miles and miles you plummeted, and suddenly the chutes began to puff open slightly...
+FRAME	-730	-1000	1.20
+A few thousand yards more and the silken umbrellas billowed out, breaking your fall! The dazed commandos revived, wondering what miracle had saved them...
+I - I don't get it! I thought we were goners!	420	30	200	100
+We're closer to the ground now. That must be it.	130	55	140	100
+FRAME	-730	-1610	1.20
+Bill realized later where he had miscalculated. The upper atmosphere is a vacuum, he had forgotten, and until the three of you reached the air far below there was nothing to hold up your chutes.
+Boy, I never expected to touch Earth in one piece!	110	110	200	100
+Let's bury our gear fast and get going!	460	80	140	100
+END

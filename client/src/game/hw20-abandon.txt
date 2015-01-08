@@ -1,0 +1,3 @@
+FRAME	-750	-120	1.2
+You do what's best for you. No matter what happens tomorrow, I want you to know it's impressive that you've come this far. I want to grow up to be a person like you. You're a great $manorwoman!	120	20	480	100
+END

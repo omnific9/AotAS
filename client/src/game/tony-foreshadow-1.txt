@@ -1,0 +1,12 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+$connphrase Tony stepped out of the shadows and surprised you.
+Oh, did I scare you? I must apologize then, $getusername. But perhaps you should have paid more attention to things around here. You haven't finished your mission, so I heard.	440	30	240	100
+When I was head of my own circus... well, there was that time... I had an assistant. He couldn't juggle, couldn't train the dogs, and couldn't cook. I kept him anyway. Do you know why?	440	30	240	100
+He was blind, and blinded during one of the fire shows in my circus. He was like a brother to me, so I took care of him. What about you? Are you blind? You can clearly see this dialogue box, so I suppose not.	440	30	220	100
+FRAME	-750	-40	1.2
+So if you think you can mess around here without getting anything done, well my friend, you weren't paying attention to the President in the beginning.	110	40	450	100
+SETSOUND	fail.mp3
+And so Tony left you, turning his head back, his eyes filled with despise.
+Tony has revealed part of his dark side to you. Complete more missions to help Tony gain the courage and dedication that will prevent him from succumbing to a dark past.
+SET	tony-foreshadow	5
+END

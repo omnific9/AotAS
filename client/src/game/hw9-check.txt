@@ -1,0 +1,13 @@
+ind-tony.jpg	0	0	-10	-780	1.2
+PLAYMUSIC	REGULAR
+In the atomic sub, the commandos were vigilant on their patrol, scanning for threats to America's security.
+$getusername is back, Tony. Didn't you give him a mission?	80	10	200	100
+What a good memory Doc! I totally would have forgotten!	370	10	170	100
+Say, did you get some good muscles yet $getusername?	620	20	110	100
+FRAME	-40	-100	1.2
+I think Champ and Doc are waiting to see you and me fail. So tell me my good $manorwoman, did you accomplish your mission?	440	30	240	100
+SET	prehwid	9
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

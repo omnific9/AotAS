@@ -1,0 +1,11 @@
+ind-champ.jpg	0	0	-750	-170	1.2
+$connphrase Champ came up to you, his fists clutched.
+I heard you haven't been doing well with your missions lately. By the Heavens what's your problem $manorwoman? 	110	70	200	100
+FRAME	-750	-850	1.2
+You think we can all just mess around with our missions, $boyorgirl? People die out there, if we don't act. Your mission, you do it, and you help us. If we don't do our shares, who do the Americans depend on?	150	20	370	100
+But as Champ became calm, he loosened his fists and apologized.
+SETSOUND	fail.mp3
+I... I didn't mean to blame you. You must be having a hard time, with your memories and all that. But you gotta know, if you don't take action, people in this country will die, and I don't want that!	150	20	370	100
+David has revealed some of his dark side to you. Complete more missions to help David gain the courage and dedication that will help him battle life's hardship.
+SET	champ-foreshadow	1
+END

@@ -1,0 +1,14 @@
+ind-jonnie.jpg	0	0	0	-860	1.2
+$connphrase Jonnie seemed lost in thought. When you sat beside him, he only slightly acknowledged you.
+$sirormaam, I'm not happy. I don't like how they do things here. I thought school was tough, but I wouldn't expect joining the commandos would be annoying too.	220	2	380	100
+Oh, it must be a while ago when you went to school. Kids these days are mean. They thought the war was over, so they didn't have to work hard, that they could just take everything for granted.	220	2	400	100
+FRAME	0	-120	1.2
+Kids like me who love science are frowned upon, especially me. It was really just because... 	200	2	450	100
+Because a relative of mine, Dr. Oppenheimer, was considered connected to the communists, so when the boys at school heard this, nobody talked to me.	200	2	450	100
+When I came here, I thought I could hear your stories, but I was disappointed again. Old O... Dr. Oppenheimer told me such amazing things about you...	200	2	450	100
+I heard your mission progress isn't well... Why can't I accomplish anything interesting? Am I actually stupid?	200	2	450	100
+SETSOUND	fail.mp3
+It was heart-breaking, seeing a young boy take all the blames like this, but nothing you said could make him feel any better.
+Jonnie has revealed part of his sadness to you. Complete more missions to help Jonnie gain the courage and dedication that will help him battle life's hardship.
+SET	jonnie-foreshadow	2
+END

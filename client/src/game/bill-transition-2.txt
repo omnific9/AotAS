@@ -1,0 +1,12 @@
+ind-bill.jpg	0	0	0	-100	1.2
+$connphrase Bill walked up to you, his eyes filled with blood and his brows tense with stress.
+$getusername, before we go on with our plan, I must tell you something. Champ, Edwin, everybody see me as a strong soldier. They rely on me to make decisions, but...	140	20	500	100
+But I'm not really a capable man, $getusername. You know that. You saw me crash landing in Japan. After that until now, I've done nothing... Absolutely nothing!	140	20	500	100
+FRAME	-640	-800	1.2
+I've won battles with the atomic sub, all right. But do you know what I'm thinking whenever I need to make a decision here, knowing that everyone's life depends on it?	120	10	150	100
+I think to myself: look at $getusername. I'm giving $himorher such tough missions, and $heorshe comes back in no time with the work completed. How can I afford to make the wrong move?	120	10	150	100
+SETSOUND	success.mp3
+You keep inspiring me, $getusername. Now, let's get moving. I wish you luck with your mission today too!	120	10	150	100
+Bill has revealed more of himself to you. Complete more missions to become closer to him.
+SET	bill-transition	2
+END

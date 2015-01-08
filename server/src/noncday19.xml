@@ -1,0 +1,24 @@
+<data>
+    <file name="hwnl-hw18-check">
+    </file>
+	<file name="hwnl-hw18-success">
+        <req prehw="success"/>
+    </file>
+    <file name="19-1">
+    </file>
+    <file name="19-2">
+    </file>
+    <file name="19-3">
+    </file>
+    <file name="19-4">
+    </file>
+    <file name="19-5">
+    </file>
+    <file name="19-6">
+    </file>
+    <file name="hwnl-hw19-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="endofday">
+    </file>
+</data>

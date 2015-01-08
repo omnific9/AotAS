@@ -1,0 +1,29 @@
+14-6.jpg	0	0	-40	-240	1.2
+A job requiring truly super-human strength... Was there another individual in the world who would even have attempted it?
+It... it won't give!	100	60	100	100
+Keep trying! It's our only chance!	100	180	120	100
+Shh! There are guards right outside my door!	370	340	110	100
+FRAME	-350	-240	1.20
+Champ called on all the mighty muscles which had won him fame, and slowly, using but his one free arm...
+Aagh! Aagh!	230	60	100	100
+It's... starting to give!	450	400	150	100
+FRAME	-750	-230	1.20
+Then, a single monstrous yank and the iron grill pulled clean out of its sockets!
+There!	290	40	150	100
+Quick, Jonnie! The noise will wake everybody!	490	10	180	100
+FRAME	-40	-940	1.2
+PLAYMUSIC	BATTLE
+While his friends would be sitting ducks climbing down the wall, Bill had but one choice! The moment Jonnie was outside he leaped back into the room, as the guards outside came crashing in...
+Yankee dog! You die!	140	40	120	100
+Oh, yeah?	520	10	100	100
+FRAME	-710	-880	1.20
+For ex-secret serviceman Bill Tyler, two opponents were comparitively easy to handle.
+Upsy daisy!	150	40	200	100
+Aaagh!	470	20	120	100
+FRAME	0	-1540	1.20
+Everything depended on speed!
+FRAME	-680	-1540	1.20
+Only brief moments passed before Bill rejoined his friends below, but now the whole villa was awake!
+It is the American swine! Capture them... alive!	40	20	240	100
+Let's go! Champ, we've gotta crash through the gate!	440	30	240	100
+END

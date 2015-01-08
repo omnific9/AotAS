@@ -1,0 +1,26 @@
+9-2.jpg	0	-20	0	-150	1.2
+SET	connphrase	While the commandos waited in prison, hoping that Jonnie's appeal would work this time, 
+Carefully they scaled the walls! It didn't take long to find the building they sought --
+This is the place -- I can read enough Russian to make that out! Says something about H-Bomb launching controls. Think you can get that lock opened, Tony?	100	10	400	100
+Just watch me!	580	120	120	100
+FRAME	-720	-160	1.20
+There wasn't a lock in the world that could resist Tony's subtle mastery -- and this one was no exception! But as the door swung open --
+There! Didn't I tell...	80	10	200	100
+It's an alarm! Get set now! Here they come!	370	10	300	100
+FRAME	-290	-800	1.2
+Show 'em, commandos!	20	10	180	100
+Like this?	400	10	180	100
+FRAME	-690	-890	1.20
+It was a grim fight -- a fight to the finish! This was a game at which the atomic commandos were expert -- all the way from Bill Tyler's flying fists to Champ's mighty muscles! Hard, blazingly they fought...
+FRAME	-30	-1660	1.20
+But human flesh can stand just so much -- and the bravest must fall before odds! Dragged before the GRU commandant, they heard bitter words --
+You'll be kept alive only until we receive word of the execution wrought by our giant Helium bomb! Then...	50	10	320	100
+I get it! You boys must be experts at death!	420	10	150	100
+FRAME	-550	-1630	1.20
+Inexorably, the moments ticked past towards the zero hour! And the only ones who could save America were prisoners!
+It -- it looks bad! There's nothing --	130	10	100	100
+Quiet, Doc -- what do you think I've been doing? I'm trying to concentrate, so that Jonnie can pick up my brain waves! If he does, there's still a chance!	290	10	330	100
+FRAME	-750	-1610	1.20
+At that moment -- aboard the atom sub rocket --
+Jonnie -- can you hear me? You know how to pilot the ship now -- and you'll find the location of the Moonmen's city in the log! Get there at top speed -- barge right in and tell them --	470	10	240	100
+END

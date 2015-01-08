@@ -1,0 +1,29 @@
+6-1.jpg	0	0	0	-200	1.2
+PLAYMUSIC	REGULAR
+One last chance! But as the destiny-laden moments passed, there didn't seem to be much that the atomic commandos could do to save a doomed world...
+And here we are... prisoners... and I can't break these confounded chains!	90	10	130	100
+I overheard them saying they've got our kidnapped congress on a fortress island... must be that one out there!	280	10	180	100
+Hold it! I'm supposed to be the escape artist around here... anybody got a wire?	280	210	190	100
+Here's a gold tooth-pick!	470	340	100	100
+FRAME	-350	-200	1.2
+The locks were foolproof... but this Tony Gardello is no ordinary escape artist! Intently, patiently he worked until...
+That does it! I'll try my luck on the door now!	200	20	250	100
+FRAME	-750	-200	1.20
+The locks on the cell door were multiple and intricate... but they, too, opened before the magic of his skilled fingers! Down a corridor they crept... only to find the route to freedom cut off!
+Now what? Even if we could fight our way out, the noise would bring the whole shebang down on our heads!	230	20	160	100
+See this? It's the latest hush-hush weapon the secret service is using: a super-power anesthetic capsule! Watch it work!	480	20	200	100
+FRAME	-40	-890	1.2
+Carefully, Bill tossed the small object. You could hardly hear the soft impact of its explosion. But as the streamers of pungent vapor fanned out, the giants clutched at their throats and fell!
+Arrgh!	500	30	200	100
+FRAME	-750	-940	1.2
+The atomic commandos thought the way was clear now... only to find still another impediment to escape! It was Montilla, Captain of the Royal Guard, choosing this ill-fated moment for his entrance! He met Champ's charge with the strange double ray which these center-of-the-Earth giants could summon from their eyes.
+So... you seek to flee! Never! Not while I stand in your path!	50	20	200	100
+PLAYMUSIC	BATTLE
+That won't be long, brother! I'll... ugh!	340	20	250	100
+FRAME	-60	-1620	1.2
+But Champ's specialty was strength! The ray had hit him but glancingly. It still took all of his mighty power to recover, plunge to the attack! He summoned every sinew for the terrific blow he struck, and it blasted Montilla down and out!
+Let's go, now!	70	10	180	100
+FRAME	-750	-1580	1.2
+They found the atomic sub unguarded and swarmed aboard! Destination... the fortress island where the kidnapped congress were being held!
+Crowd on all speed before they discover we've escaped! I want to hit that island in a surprise attack!	140	10	500	100
+END

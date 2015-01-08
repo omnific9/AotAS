@@ -1,0 +1,5 @@
+Instructions.jpg	0	0	0	-120	1.2
+You just unveiled the first character story! These are where you get to know a character better, but the direction of these stories is significantly affected by your mission performance	380	60	370	100
+FRAME	-750	-120	1.2
+As you see more intense reactions from the characters, you may notice that your actions determine the fate of these characters. Try and complete more missions, and you will carry the atomic commandos to victory after victory.	180	90	460	100
+END

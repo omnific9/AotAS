@@ -1,0 +1,20 @@
+4-6.jpg	0	0	-40	-180	1.2
+There was only one thing left ... the flame-throwers! But the invaders disregarded them... as if fire was their natural habitat! They couldn't be stopped!
+I'm ... getting outa here!	120	20	120	100
+FRAME	-750	-180	1.2
+PLAYMUSIC	REGULAR
+And when it was all over...
+The... the way they broke up that installation... like they hated atomic power! We couldn't do anythin'... they met our flame laughin' ... and then they used their own... an' we didn't laugh! There's that awful black ray of theirs that snakes out lookin' for its target too... Then blows it to Kingdom Come!	110	10	450	100
+Wait...	600	100	100	100
+FRAME	-40	-850	1.2
+The invaders have just pulled a surprise raid on the U.S. Senate, in emergency session with the Cabinet! The entire Cabinet, the Vice President and key Senators have been kidnapped!	70	400	280	100
+FRAME	-300	-850	1.2
+I... I know it's bad, Bill, but don't look like that...	130	10	150	100
+But you and Bill looked at each other in the eyes, both seeming to remember something.
+It's because I just remembered something else those creeps had said when I was semi-conscious! That there were certain individuals whose seizure was necessary to their master plan! Well, they've gotten all the most important national leaders -- except one --	350	10	300	100
+FRAME	-750	-850	1.2
+The President of the United States! He's crusing in the Presidential yacht, perhaps on his way back after hearing the news! These creeps seem to know everything, and they'll know that too! Tell the atomic commandos to sit tight, and await my orders!	310	10	400	100
+FRAME	-20	-1600	1.2
+Swiftly to flight command... where Bill Tyler took over a squadron of fighting planes as you, his trusted friend, passed his word to the rest of the commandos. Then, broadcasting on a secret wave length...
+We're going to need all the fire power we can get, Champ... Commandeer the Carolina and steam full speed for the position of the Presidential yacht which I give you! Doc, you and Tony race the repairs on the atomic sub... and then come blasting!	120	10	540	100
+END

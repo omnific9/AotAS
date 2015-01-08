@@ -1,0 +1,9 @@
+ind-president.jpg	0	0	0	-70	1.2
+PLAYMUSIC	REGULAR
+In the White House, the President was about to send the atomic commandos off to an important mission, rescuing an American scientist from the GRU's hands of terror.
+You must hurry! Who knows what plans the Russians have in the making now? Before you go, $getusername, brief me on your mission.	210	10	350	100
+SET	prehwid	10
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

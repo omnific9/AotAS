@@ -1,0 +1,24 @@
+2-8.jpg	0	0	-40	-200	1.2
+Yes, the atomic commandos were free now -- free to meet the deadly onslaught of things that weren't men! And courage couldn't avail against numbers!
+Oof! These critters are poison!	60	20	120	100
+Don't give in, folks! Fight for your lives!	350	10	220	100
+FRAME	-680	-200	1.2
+They're -- powerful -- and too many for us!	40	10	220	100
+FRAME	-30	-850	1.2
+Well, woddeya know! I bumped into some sort of new-fangled weapon -- and turned it on!	70	30	300	100
+Yeeowww!	350	340	120	100
+FRAME	-380	-850	1.2
+Don't be bashful! It's for all of you!	200	20	120	100
+You've got 'em, Tony! Quick -- turn that gadget on the tubes these creeps come from -- so no more of 'em can hatch out!	370	30	190	100
+FRAME	-730	-970	1.2
+The commandos didn't know it was a short-lived victory. How could you dream of the weird science that followed your every move -- the enemy eyes that spied upon you even then?
+They'll search out the palace hoping to discover the details of our plot! But I'll be ready for them!	510	50	210	100
+FRAME	-20	-1650	1.2
+I guess that's the place we're looking for! Hope nobody sees us -- we've got to make this a surprise!	50	30	400	100
+Our guide here wasn't any too willing! We'll tie him up and hide him!	520	30	120	100
+It happened just as the leader of the strange beings had foreseen --
+FRAME	-720	-1650	1.2
+-- Even to his "capture"!
+Looks like you're the leader around here! It's obvious that you creeps are from some other planet, and you've got a well-organized plot going. Do you talk or do we take you apart?	130	30	450	100
+Ah, yes -- there's a lot you earthlings must learn --	120	200	150	100
+END

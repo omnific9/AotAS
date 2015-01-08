@@ -1,0 +1,144 @@
+<data>
+    <file name="atommain-1">
+        <req studyday="day1"/>
+        <type cat="foreshadowing" target="atomending"></type>
+    </file>
+    <file name="hw1-accept">
+        <req curhwid="1" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hw1-reject">
+        <req curhwid="1" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hw1-abandon">
+        <req curhwid="1" curhw="abandoned"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hw2-accept">
+        <req curhwid="2" curhw="ongoing"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="hw2-reject">
+        <req curhwid="2" curhw="rejected"/>
+        <type cat="homework"></type>
+        <follow>homework</follow>
+    </file>
+    <file name="hw2-abandon">
+        <req curhwid="2" curhw="abandoned"/>
+        <type cat="homework"></type>
+    </file>
+    <file name="tony-transition-1">
+        <req prehw="success" state="mission" tony="available" tony-transition="0"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="tony-transition-2">
+        <req prehw="success" state="mission" tony="available" tony-transition="1"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="tony-transition-3">
+        <req prehw="success" state="mission" tony="available" tony-transition="2"/>
+        <type cat="transition" target="tony-transition"></type>
+    </file>
+    <file name="doc-transition-1">
+        <req prehw="success" loc="sub" state="rest" doc="available" doc-transition="0"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-2">
+        <req prehw="success" state="rest" doc="available" doc-transition="1"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-3">
+        <req prehw="success" loc="sub" state="rest" doc="available" doc-transition="2"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="doc-transition-4">
+        <req prehw="success" state="rest" doc="available" doc-transition="3"/>
+        <type cat="transition" target="doc-transition"></type>
+    </file>
+    <file name="champ-transition-1">
+        <req prehw="success" state="rest" champ="available" champ-transition="0"/>
+        <type cat="transition" target="champ-transition"></type>
+    </file>
+    <file name="champ-transition-2">
+        <req prehw="success" loc="sub" state="rest" champ="available" champ-transition="1"/>
+        <type cat="transition" target="champ-transition"></type>
+    </file>
+    <file name="champ-transition-3">
+        <req prehw="success" state="mission" champ="available" champ-transition="2"/>
+        <type cat="transition" target="champ-transition"></type>
+    </file>
+    <file name="jonnie-transition-1">
+        <req prehw="success" state="rest" jonnie="available" jonnie-transition="0"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="jonnie-transition-2">
+        <req prehw="success" loc="sub" state="rest" jonnie="available" jonnie-transition="1"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="jonnie-transition-3">
+        <req prehw="success" state="mission" jonnie="available" jonnie-transition="2"/>
+        <type cat="transition" target="jonnie-transition"></type>
+    </file>
+    <file name="bill-transition-1">
+        <req prehw="success" state="rest" bill="available" bill-transition="0"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="bill-transition-2">
+        <req prehw="success" state="mission" bill="available" bill-transition="1"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="bill-transition-3">
+        <req prehw="success" state="rest" bill="available" bill-transition="2"/>
+        <type cat="transition" target="bill-transition"></type>
+    </file>
+    <file name="tony-foreshadow-1">
+        <req prehw="failure" state="rest" tony="available" tony-foreshadow="0"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="tony-foreshadow-2">
+        <req prehw="failure" state="rest" tony="available" tony-foreshadow="1"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="tony-foreshadow-3">
+        <req prehw="failure" state="mission" tony="available" tony-foreshadow="2"/>
+        <type cat="foreshadow" target="tony-foreshadow"></type>
+    </file>
+    <file name="champ-foreshadow-1">
+        <req prehw="failure" state="mission" champ="available" champ-foreshadow="0"/>
+        <type cat="foreshadow" target="champ-foreshadow"></type>
+    </file>
+    <file name="champ-foreshadow-2">
+        <req prehw="failure" state="rest" loc="sub" champ="available" champ-foreshadow="1"/>
+        <type cat="foreshadow" target="champ-foreshadow"></type>
+    </file>
+    <file name="champ-foreshadow-3">
+        <req prehw="failure" state="mission" champ="available" champ-foreshadow="2"/>
+        <type cat="foreshadow" target="champ-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-1">
+        <req prehw="success" state="rest" jonnie="available" jonnie-foreshadow="0"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-2">
+        <req prehw="success" state="rest" jonnie="available" jonnie-foreshadow="1"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="jonnie-foreshadow-3">
+        <req prehw="success" loc="sub" state="rest" jonnie="available" jonnie-foreshadow="2"/>
+        <type cat="foreshadow" target="jonnie-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-1">
+        <req prehw="success" loc="sub" state="rest" doc="available" doc-foreshadow="0"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-2">
+        <req prehw="success" state="rest" doc="available" doc-foreshadow="1"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+    <file name="doc-foreshadow-3">
+        <req prehw="success" state="rest" doc="available" doc-foreshadow="2"/>
+        <type cat="foreshadow" target="doc-foreshadow"></type>
+    </file>
+</data>

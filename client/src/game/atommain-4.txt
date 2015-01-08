@@ -1,0 +1,10 @@
+ind-president.jpg	0	0	-700	-70	1.2
+You barely had a chance to take a break, when you were summoned to the White House, where you would be surprised to find the President handing you a letter with no sender name or address.
+This is a message from a friend. Read it.	170	20	400	100
+You followed the President's orders, and the letter read: Dear $getusername, I hope that you've recovered most of your strength when you read this letter, because we are running out of time. A nuclear war is almost inevitable, and you are the only one who can stop it. At the end it will be your power and mind that will save us all. Your friend O.
+FRAME	0	-70	1.2
+After you finished reading the letter, the President took it from you and threw the piece of paper in the stove. The letter burned like fireworks in the night.
+The Soviet Union has crossed the line this time. We must be ready for any kind of attack from now on. I want you to train yourself even harder, for we seem to be racing against time.	210	10	350	100
+As you made your way out, the President picked up the phone, calling the Kremlin. Hence, no one knew what was in store for humanity. But who was that mysterious O? You searched in your memory in vain.
+Perhaps time is both your enemy and your friend. Some heroes found only time was the perfect guidance to their future. Come back tomorrow, and the story will continue!
+END

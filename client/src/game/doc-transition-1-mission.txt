@@ -1,0 +1,10 @@
+ind-edwin.jpg	0	0	0	-840	1.2
+$connphrase Dr. Blake bumped into you during a vibrant shake in the sub's body.
+Ah, I'm getting too old for this. Most people at my age would be scared when they hear about an atomic sub, but look you seem to adjust to it quite well.	180	10	320	100
+But I've always wondered, young $manorwoman, if I've seen you somewhere, not on the sub, a long time ago. Every time I look at you, it is as if an old memory is triggered.	180	10	320	100
+Confused, Dr. Blake regained balance and put his attention back to the mission.
+SETSOUND	success.mp3
+Forget about that. Let's focus on the crisis at hand. At any rate, you're doing well on your missions. That is the greatest help for us. Let's hope your memories will come back, and mine as well.	180	10	320	100
+Edwin is starting to reveal himself to you. Complete more missions to become closer to him.
+SET	doc-transition	1
+END

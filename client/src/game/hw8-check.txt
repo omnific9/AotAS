@@ -1,0 +1,9 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+PLAYMUSIC	REGULAR
+The atomic sub awaited right outside the cave! The commandos were now safe, but they had yet to know who were their predecessors that slaughtered the Moonmen.
+Looks like we're getting to the real deal! Let's hear your story, $boyorgirl. How's the mission you got going at school?	150	20	370	100
+SET	prehwid	8
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

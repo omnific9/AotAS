@@ -1,0 +1,12 @@
+2-1.jpg	0	0	0	-160	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+Let's hear about your first success. Tell me what you've done!	120	20	200	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+$hwbenefitsuccess	110	10	170	100
+SETSOUND	success.mp3
+Good work, $getusername. I honestly didn't expect you to finish the job so quickly. You must have had a lot of help outside the screen.	110	10	170	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+FRAME	-740	-920	1.2
+Bill was pleased with your work, but he didn't have much time to celebrate. Soon, another sighting of the UFO was reported, and the commandos were set out on their mission. 
+END

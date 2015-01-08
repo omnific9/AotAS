@@ -1,0 +1,24 @@
+4-4.jpg	0	0	-100	-120	1.2
+Four more atomic commandos to go, including you! From the eyes of the attackers, the brain-rays darted, jolting you into a dazed dream. There was nothing you could do. Then, unimpeded, the giants turned loose a wave of wild sabotage! Objective, all atomic equipment! Savagely they attacked it ... yet, with a strange fear ...
+FRAME	-750	-140	1.2
+Then, the climax of destruction over, they turned aside ... conversing in strange telepathic fashion ...
+We have finished here! Come! There is still much more to accomplish!	170	20	190	100
+When it is complete, we turn to Phase 2, the seizure of those necessary to our master plan!	470	10	250	100
+FRAME	-20	-870	1.2
+Time passed ... slowly. The effects of the strange brain-rays dissipated ...
+Holy Hannah, what ... what hit us?	80	10	150	100
+It ... it was something like a thought wave ... with explosive effect!	270	10	300	100
+I ... I'll turn on the radio ... see if there is any news about those creatures ...	360	90	200	100
+FRAME	-460	-890	1.2
+Attention, all army and navy personnel ... report to your bases immediately! The invasion continues, with the giant attackers swarming from strange rocket ships and hitting at atomic installations at Bayside, Point Nord, Roeburg...	180	20	300	100
+FRAME	-760	-890	1.2
+On hearing the news, both you and Bill recalled overhearing their telepathic conversation.
+Holy smoke, now I remember! Those characters were standing over me, and I guess I wasn't completely out ... because I got part of a conversation which must have been telepathic, since I couldn't really hear anything. They were saying something about more destruction ... We've got to stop them!	240	5	450	100
+FRAME	-20	-1600	1.2
+Doc, this sub's the central factor in America's defense! They've wrecked its atomic engine. Finish up the one in your workshop on the double, and you and Champ install it here! Tony and $getusername, it sounds as if the giants are working their way towards our biggest atomic plant at Baltimore! I'm depending on you to see that they don't wreck it!	80	5	670	100
+FRAME	-760	-1600	1.2
+Use your authority as an atomic commando to acquire anything you need.	60	10	430	100
+Protect that plant by all means! Hop to it, all of you, while I report to Central Headquarters to work on the strategy for meeting this invasion!	60	10	430	100
+Check, Commander Tyler!	520	40	150	100
+SET	connphrase	While the commandos proceeded to each of their assigned missions,
+END

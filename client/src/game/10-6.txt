@@ -1,0 +1,33 @@
+10-6.jpg	0	0	0	-230	1.2
+PLAYMUSIC	REGULAR
+It was a direct hit on a power magazine ...
+FRAME	-300	-230	1.20
+But just before the wrecked craft sank ...
+Look! There's a plane taking off... and you can bet your bottom dollar it's got something valuable in it! Wanna take after her?	170	10	220	100
+How? That shot she planted on us damaged our plane catapult! Nothing to do but get to the island as fast as we can ... and hope ...	450	10	180	100
+FRAME	-710	-230	1.20
+The scene which greeted them on the island didn't hold forth much hope --
+They're -- dead! It looks bad...	250	10	150	100
+We -- we'd better brace ourselves for what we find in the laboratory!	500	10	180	100
+FRAME	0	-890	1.2
+It was there that they found what they had feared...
+He's ... still alive...	120	10	80	100
+Glad... ya got here...	300	10	180	100
+FRAME	-350	-850	1.20
+I... tried to hold out... couldn't... They took the prof... away from me... I tried ... so hard! Please... say it wasn't my fault...	190	10	270	100
+It... it wasn't your fault, Tony!	400	150	170	100
+As a sadness struck your heart, upon losing a dear friend, and a brave member of the commandos, a beam of weak light emitted from your hands. 
+FRAME	-750	-850	1.20
+The light drew your hands closer to Tony, until the hands were on the man's skinny chest, and the light wrapped him up fully. 
+For a moment, breath had come back to Tony, but the light quickly dimmed, as it gravely weakened your body, such that you could not sustain the energy transferring from you to Tony.
+He's ... dead! Rest in peace, Tony... We'll get them for you! I swear it!	320	10	300	100
+The others were in shock of the light you emitted, but there were more important matters. 
+FRAME	-80	-1610	1.20
+Professor McDougald was gone... kidnapped... and the secret of his monumental discovery was in evil hands! Throughout the nation, a wave of condemnation flared...
+It was ridiculous, entrusting a few elites like these with such a responsibility!	50	240	280	100
+Atomic commandos, indeed! They were inept, careless, irresponsible...	380	160	240	100
+FRAME	-710	-1570	1.20
+But in the face of the growing tirade, one man held firm!
+There's been agitation to relieve you of your command, Bill, even to abolish the atomic commandos entirely! But I know what you have done for America... and that what happened wasn't your fault! I'm answering this wave of criticism by giving you a free hand to strike back!	120	10	450	100
+We... we won't forget this, Sir!	500	150	180	100
+END

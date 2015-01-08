@@ -1,0 +1,11 @@
+ind-president.jpg	0	0	-700	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+I have to say I'm surprised. What is the reason? Don't give me a reason to doubt what Mr. O... said about you.	170	20	400	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	170	20	400	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+I used to work a lot, not achieving much. Then I decided to spend only half of my day working. Don't be surprised. I get more done that way. Maybe you should give yourself a break.	170	20	400	100
+What I mean is... don't pressure yourself. You'll get more done when you relax. Now, I'll reach out to the rest of the commandos.	170	20	400	100
+END

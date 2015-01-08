@@ -1,0 +1,26 @@
+14-5.jpg	0	0	-40	-190	1.2
+In the absolute stillness, the perilous rescue attempt moved forward...
+Easy now! At the top of this wall we'd better scan the terrain!	120	35	200	100
+Too bad we gotta be sneaky! I'm just itching for a good fight!	470	10	200	100
+FRAME	-750	-210	1.20
+Under the bright moon, a single false step could prove disastrous...
+Look! More guards! Let's wait till they're right under us!	40	20	250	100
+This is like shootin' fish in a barrel!	450	10	170	100
+FRAME	-40	-850	1.2
+This time the guards fell without a sound...
+FRAME	-740	-870	1.20
+In the deep shadow of the wall, Phase Two of Bill's plan went into motion...
+Time to use this pocket telepathor to find out which room Jonnie is in!	120	30	200	100
+I've got these guys tied and gagged. Start sending!	460	10	200	100
+FRAME	0	-1540	1.20
+Instants later...
+Bill Tyler calling Jonnie Flint. Do you read me? Champ, $getusername, and I are in the courtyard below! Where are you exactly?	200	10	320	100
+Jumping Jiminy! It's them! I knew they'd come!	140	260	120	100
+FRAME	-390	-1540	1.20
+Painstakingly, the three atomic commandos moved closer...
+The kid says there are bars outside his windows.	240	10	160	100
+That must be it up there! Thank Gosh for those vines!	450	10	140	100
+FRAME	-750	-1500	1.20
+So far so good! But how do we get him through those bars?	260	10	220	100
+That's my department, Bill! Stick around and watch!	510	10	190	100
+END

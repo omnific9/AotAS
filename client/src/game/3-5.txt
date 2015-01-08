@@ -1,0 +1,20 @@
+3-5.jpg	0	0	0	-180	1.2
+On every side, the crushing deep -- but here was a passageway out of peril-fraught Atlantis.
+Where are we going, Doc? When we come to the end of this oxygen jet -- then what?	70	40	210	100
+We had to get out of there pronto, Bill -- or they'd have had us! If -- if we can get out of range of the Atlantean weapons, then I've got an Ace in the hole I can try!	380	30	320	100
+FRAME	-750	-160	1.2
+But back in the locks --
+Earthly fools -- they'll never escape that way! A path of oxygen -- and this torch --	120	20	520	100
+FRAME	-30	-900	1.2
+Then what had been an avenue of escape suddenly became a flaming inferno -- as a fiery blast raced towards the atomic commandos!
+Holy smoke! We're cooked -- and I do mean cooked!	350	50	320	100
+Drowning is better than burning any day! Let's go!	180	350	200	100
+FRAME	-720	-900	1.2
+All right, here it is! Dive out of the jet -- into the water!	60	50	300	100
+FRAME	0	-1650	1.2
+And as the commandos obeyed, Doc played his trump card! A special radio sender, tuned to a secret channel --
+Calling atomic submarine! Call atomic submarine! Submerge immediately and follow radio impulse!	280	50	400	100
+FRAME	-750	-1650	1.2
+And on the surface -- not far distant --
+Calling atomic submarine! Call atomic submarine!	180	20	400	100
+END

@@ -1,0 +1,4 @@
+ind-edwin.jpg	0	0	0	-840	1.2
+Completing your mission is very important for us. Make sure you report back tomorrow.	180	10	340	100
+Now train well, and stay alive.	180	10	340	100
+END

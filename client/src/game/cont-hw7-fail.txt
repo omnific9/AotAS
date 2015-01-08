@@ -1,0 +1,7 @@
+black.jpg	0	0	0	0	1.2
+SET	interactionday	7
+SET	prehw	ongoing
+MENU	Please complete your previous mission before continuing. Your mission is: $hwassign	1
+OK.	Please restart the game when you have completed your mission.	prehw	ongoing
+GAMEOVER
+END

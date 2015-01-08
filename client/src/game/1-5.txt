@@ -1,0 +1,21 @@
+1-5.jpg	0	0	0	-120	1.2
+And so Bill continued on: I see you look surprised -- and I don't blame you! They've been called hoaxes but they actually exist -- and may be the greatest danger we've ever encountered! But let me tell you what I know of them! I'd been assigned to run down the rumors, and was patrolling an area where they'd been reported --
+I give up! One set of stories has those saucers whizzing out of the skies in this area -- and another has them shooting out over the Atlantic, where they dive into the deepest part!	80	80	380	100
+You can forget both yarns, brother! Those things just don't exist!	550	80	180	100
+FRAME	-700	-120	1.2
+PLAYMUSIC	BATTLE
+Look out, Bill!	140	470	100	100
+It happened at that very moment -- too close to dodge! Out of a nearby bank of clouds --
+FRAME	0	-850	1.2
+Crash!
+FRAME	-700	-850	1.2
+We could have been killed outright, but we were lucky! We bailed out --
+FRAME	0	-1620	1.2
+I wasn't much use with a broken leg, but Ben Gross, my buddy, took a chance on investigating the damaged flying saucer, which had landed nearby.
+Be... careful, Ben...	100	40	100	100
+Don't worry! I've got eight shots and a marksman's medal for whoever's in there!	530	50	150	100
+FRAME	-700	-1620	1.2
+Well, I'll be ...	170	50	80	100
+What -- what is it, pal? What do you see in there?	400	70	200	100
+I can still remember how cautiously he approached it -- and my thinking they wouldn't stand a chance with a fighting demon like Ben. But then I saw the look on his face -- and felt a strange chill in my spine!
+END

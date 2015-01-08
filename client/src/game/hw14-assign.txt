@@ -1,0 +1,14 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	clearmotivation()
+In the heat of the discussion, Edwin leaned to you and spoke quietly.
+I have a plan to help us get through the ice, but... I'd rather hear the politicians argue amongst themselves for a while.	30	10	340	100
+FUNC	preparehomework()
+FRAME	0	-840	1.2
+SET	curhwid	14
+SET	hwchar	edwin
+But while they're at their argument, let me give you a new mission. It would be good entertainment for you as well, I hope.	180	10	340	100
+Your mission: $hwassign	180	10	340	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

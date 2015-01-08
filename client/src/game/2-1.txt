@@ -1,0 +1,8 @@
+2-1.jpg	0	0	0	-160	1.2
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+FRAME	0	-920	1.2
+$hwbenefits	90	50	220	100
+Good work, $getusername. I honestly didn't expect you to finish the job so quickly. You must have had a lot of help outside the screen.	430	45	220	100
+FRAME	-740	-920	1.2
+The atomic sub commandos spent days and nights training. Their methods are far from scientific, but everyone is excited in the new perspective you've brought to the team. 
+END

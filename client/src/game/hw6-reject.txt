@@ -1,0 +1,11 @@
+ind-president.jpg	0	0	-700	-100	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+Is this the soldier Bill has kept company for such a long time? I didn't expect you to say No to this honestly. Here, I'll give you a different mission.	170	20	400	100
+$hwmotivate	170	20	400	100
+Your mission: $hwassign	170	20	400	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

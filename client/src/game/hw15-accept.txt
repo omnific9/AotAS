@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+I get the feeling that we won't be talking like this for too much longer. So... good luck with it! I mean it.	220	20	320	100
+Anyway, completing your mission is very important for us. Make sure you report back tomorrow.	220	20	320	100
+END

@@ -1,0 +1,15 @@
+ind-edwin.jpg	0	0	0	-100	1.2
+Then the other atomic commandos came back, but they seemed to be struck by a sad silence. It never occurred to anyone that a horrible fate could strike one of the atomic commandos as it did Tony.
+We've used our new technologies to protect our country, ourselves and the power we have. I never thought we had to sacrifice anything, until I saw what happened to Tony. Bill, is it worth it?	120	10	350	100
+It's common in a war, Ed. Just stop thinking about it.	350	210	200	100
+FRAME	-620	-100	1.2
+However, after Bill left, Dr. Blake turned to you and confessed what he had been thinking.
+Humans survived by relying on new sources of energy, but everything we rely on can be used to kill us: fire, electricity, atomic power... But it is only when we possess atomic power have we acquired the ability to utterly destroy mankind. Is the price we're paying worth it?	30	10	340	100
+FRAME	-650	-840	1.2
+$getusername, what you did when you tried to save Tony, transferring your life to others, was amazing! 	470	10	280	100
+If I could just do the same with an atomic weapon... converting its energy to save lives...	470	10	280	100
+FRAME	0	-840	1.2
+Sorry, I got excited. I need some time to understand your power, and I wish we weren't in such a tense situation, so I can seek help from other scientists.	180	10	340	100
+Oh, and uh... don't tell Jonnie too much about yourself. I just found out that he is a relative of Dr. Oppenheimer's, who's said to have ties to the Communists. Who knows what a kid's going to say, right?	180	10	320	100
+The world is never at peace. What dangers will the atomic commandos face again tomorrow? Come back tomorrow, and the story will continue!
+END

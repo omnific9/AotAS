@@ -1,0 +1,11 @@
+3-3.jpg	0	0	-30	-80	1.2
+The locks -- they're just ahead! Come on!	160	20	220	100
+Right -- behind you, Doc --	480	70	170	100
+FRAME	-750	-140	1.2
+And just as they entered the locks --
+Funny device -- seems to be a gadget for releasing compressed oxygen under tremendous power -- probably to decrease the water pressure on the locks! -- Say, by the way -- where are Bill and Tony?	60	30	470	100
+Merciful heavens -- Look!	590	70	150	100
+FRAME	-70	-480	0.7
+There -- in the path of the juggernaut of doom --
+Pounding death moving closer -- closer! Has the end of the trail come for Bill and Tony? 
+END

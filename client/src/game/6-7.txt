@@ -1,0 +1,18 @@
+6-7.jpg	0	0	-60	-220	1.2
+Top speed, plus the electric bolt guns, won the way back to the atomic sub! The kidnapped hostages aboard, you made your way across the molten waters! And then the television screen picked up an ominous message! There was no freedom yet, nor could there ever be!
+To you aboard the atomic submarine... we know that you have rescued your country-men! But will you have a world left to take them to? I have ordered our drills to increase to maximum speed! They are nearing a break-through and momentarily, a flaming sea will sweep over the Earth's surface!	50	10	650	100
+FRAME	-750	-220	1.20
+Ominous words, true words! A mighty source of power, known only to these strange giants, motivated the gigantic drills and now they had been stepped up, up... eating through the Earth's crust at blinding speed...
+FRAME	0	-890	1.2
+Already, in the thinner spots, the heat and horror from below were becoming manifest... through the craters of long-extinct volcanoes...
+FRAME	-380	-870	1.2
+And within the atomic sub, deep in the bowels of the Earth, a grim council of war had concluded...
+Okay, then... the die's cast! It's either them or us... and that means all-out war!	180	10	170	100
+The power from those drills must stem from that big power house on the mainland! That's our top priority target!	430	10	230	100
+FRAME	-750	-890	1.20
+The preparations were quickly made! There was no thought of hiding or secrecy now! The greatest submarine surfaced... for battle!
+FRAME	-70	-1620	1.20
+Clear the road! We're coming in!	150	10	150	100
+FRAME	-670	-1620	1.20
+The giants were quick to take up the challenge! Within moments, they had opened up with a tremendous barrage.. their weird black rays probing everywhere, repeatedly homing on the tough hide of the atomic sub! Impact after impact rended the air... as the speedy atom plane, with Commander Bill Tyler at the controls, roared upwards!
+END

@@ -1,0 +1,9 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+PLAYMUSIC	REGULAR
+In the atomic submarine, weeks had passed from the Carter Island incident. The commandos received information on a potential espionage activity from China, and they were staying alert.
+We're going on a new mission soon, I hope. I'm excited! What about you? And tell me, $getusername, how did your mission go?	200	10	400	100
+SET	prehwid	12
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

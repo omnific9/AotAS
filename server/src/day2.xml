@@ -1,0 +1,35 @@
+<data>
+    <file name="hw1-check">
+    </file>
+    <file name="hw1-success">
+        <req prehw="success"/>
+    </file>
+    <file name="2-2">
+    </file>
+    <file name="2-3">
+    </file>
+    <file name="2-4">
+    </file>
+    <file name="2-5">
+        <change loc="outside" state="mission" tony="available" doc="available" bill="available" champ="available" jonnie="unavailable"/>
+        <follow>transition</follow>
+        <follow>foreshadow</follow>
+    </file>
+    <file name="tutorial2">
+    </file>
+    <file name="2-6">
+    </file>
+    <file name="2-7">
+    </file>
+    <file name="2-8">
+    </file>
+    <file name="2-9">
+    </file>
+    <file name="hw2-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="2-10">
+    </file>
+    <file name="endofday">
+    </file>
+</data>

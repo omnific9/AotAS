@@ -1,0 +1,8 @@
+6.jpg	0	0	0	-160	1.2
+INPUT	Please write a few words about why you couldn't complete the task. You are limited to 400 words. Press 'Enter' to when you are done.
+FRAME	-610	-120	1.1
+Surely you understand that your efforts will determine the outcome of our mission, the future of our country, and certainly, the life and death of us, counselor. I'm sure you will do better next time.	220	25	460	100
+Bill Tyler and the other commandos soon dive into piles of papers analyzing the UFO incidents, doing their best to get ready for the mission, in everyway they can.
+FRAME	-740	-920	1.2
+The atomic sub commandos spent days and nights drilling. With your help, no less. Soon, another sighting of the UFO is reported, and the commandos are set out on their mission.
+GOTO	0

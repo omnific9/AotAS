@@ -1,0 +1,3 @@
+white.jpg	0	0	0	0	1.0
+You have completed the game session today. Return tomorrow for the next session. Left click on the screen to exit the game now.	100	20	600	100
+END

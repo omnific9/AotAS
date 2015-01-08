@@ -1,0 +1,19 @@
+memories1.jpg	0	0	0	-100	1.2
+$connphrase a fragment of memory flashed in your head.
+Cut it off and take cover!	440	20	180	100
+July 10th, 1943, Sicily, Italy. The Allied Forces fought to bring an end to the Italian campaign. There, you and Bill Tyler, among other American soldiers, were fighting side by side.
+FRAME	0	-710	1.2
+Follow me, and we'll get behind them.	80	20	260	100
+Roger that!	440	20	200	100
+Bill was a much younger man, but he had exhibited much valor in combat.
+FRAME	-730	-40	1.20
+Look, everyone throws a grenade when I give you the signal.	40	10	400	100
+FRAME	-750	-710	1.2
+Now!	200	30	100	100
+Fire in the hole!	510	50	150	100
+FRAME	-300	-1600	1.2
+SETSOUND	success.mp3
+As such, your band brought victory to the Allied Forces again and again. You and Bill were both recognized for your bravery and skill.
+You have learned the secrets about your past. Continue to complete your missions to unlock more memory pieces.
+FUNC	memoryinc()
+END

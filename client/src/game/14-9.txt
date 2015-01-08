@@ -1,0 +1,6 @@
+14-8.jpg	0	0	-750	-1560	1.20
+Then Doc spoke, a scientist with complete confidence.
+There is a way of investigating this report without creating an incident if we can use the atomic sub wisely. If the worst proves true, there's a way to destroy the threat.	180	10	280	100
+If that is true, you can count on my full support.	540	70	120	100
+Will the threat prove true? Come back tomorrow, and the story will continue!
+END

@@ -1,0 +1,28 @@
+7-4.jpg	0	0	0	-90	1.2
+This device I've perfected may someday comprise a significant contribution to America. It uses the electronic impulses given off by brain waves to make two-way telepathy possible! I can sense your innermost thoughts, and implant mine within your minds. First I shall demonstrate my ability to receive. If you'll each kindly concentrate on something...	70	10	340	100
+This is gonna be good!	510	5	150	100
+FRAME	-750	-70	1.20
+Scientifically impossible!	30	20	180	100
+The kid's got imagination, anyway!	210	10	200	100
+He oughta concentrate on a good left hook instead!	450	5	170	100
+He's just an ornery little pest who needs a paddling!	540	100	140	100
+Thank you! Now for an example of reverse telepathy!	470	500	280	100
+FRAME	-40	-820	1.2
+Scientifically impossible? What do you think is happening?	40	10	170	100
+Thanks for complementing my imagination... but I can get things done, too!	300	10	170	100
+You could teach me a good left!	570	5	70	100
+Who's gonna paddle me, you?	700	5	90	100
+FRAME	-750	-820	1.20
+Golly, Jonathan, we didn't mean to doubt you! But don't you see... all that stuff about junior commandos was sort of publicity... It didn't mean that you could actually join us!	110	10	350	100
+Sure! Here, let me show you why we couldn't use you! Ya gotta be ready to fight off an atatck any moment like... oops!	520	10	170	100
+FRAME	0	-1520	1.20
+Gee, I'm sorry! I -- I busted your glasses!	90	10	100	100
+Forget it! I don't need 'em, anyway! You see, just the same as you atomic commandos get publicity, we Quiz Kids do too! And we have to live up to it! We have to look the part, and talk it too! That's why I wore glasses, and talked fancy! Actually I can get along without both!	240	30	190	100
+FRAME	-340	-1520	1.20
+Looks a lot more human this way, doesn't he?	170	10	100	100
+But one thing I do want you to know... If I actually were a junior atomic commando, I'd be on guard all the time... It wouldn't be so easy to take advantage of me.	320	10	350	100
+Okay, prove it. Just for the laughs!	500	170	200	100
+FRAME	-750	-1500	1.20
+Okay. Just for the laughs!	350	10	100	100
+Hey! What ...	540	10	200	100
+END

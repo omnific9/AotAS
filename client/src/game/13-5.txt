@@ -1,0 +1,26 @@
+13-5.jpg	0	0	0	-230	1.2
+And so the task of breaking down Jonnie's resistance began...
+You need have no fear of us, young man. We're your friends! Is there anything you wish?	130	10	170	100
+Yeah, why don't you all drop dead?	430	10	100	100
+FRAME	-350	-210	1.20
+Come, come, my boy -- you mustn't be angry with our little trick! You see, we purposefully let American spies get wind of an important but phoney mission. We knew the atomic submarine would be sent to find us, and we were waiting.	270	10	270	100
+Very clever! Now let's see you figure out some way to make me talk!	490	210	150	100
+FRAME	-750	-210	1.20
+At that moment...
+I'm going nuts! We've got to do something! What's going on over there?	270	10	180	100
+Holy smoke... what morons we've been! We've forgotten all about Jonnie's telepathor!	520	10	180	100
+FRAME	-50	-950	1.2
+The telepathor was the incredible invention which had first brought Quiz Kid Jonathan Flint to the attention of the atomic commandos! With it they could communicate with the boy through mental telepathy...
+Haven't you got it set up yet? C'mon start sending!	80	15	200	100
+Take it easy, Bill... The improved apparatus is delicate! Okay, she's ready now!	470	10	240	100
+FRAME	-750	-870	1.20
+Meanwhile...
+Do you read me, Jonnie? This is Doc, answer!	120	30	180	100
+Jeepers... They're using the telepathor?	470	5	180	100
+FRAME	0	-1590	1.20
+And so as effectively as by telephone, communication was established between the separated commandos...
+This is Jonnie! I'm okay! They're trying to win me over by bein' friendly!	340	50	210	100
+This is Bill!	230	130	80	100
+Play along with them!	300	180	100	100
+We'll get you out of this!	400	280	100	100
+END

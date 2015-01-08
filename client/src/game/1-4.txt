@@ -1,0 +1,24 @@
+1-4.jpg	0	0	0	-120	1.2
+Wheels spun -- gears engaged -- as the odd device relentlessly sought out its information! Within a matter of hours a thousand miles away --
+What the -- what do they want with me in Washington? And Pronto, it says! Oh, well -- maybe Ike's got somebody he wants beat up.	400	120	220	100
+America's strongest wrestler, Champ David Ruggles.
+FRAME	-700	-120	1.2
+Washington -- and in a rush! I don't get it -- I thought they had enough scientists down there to sink a battleship! But I suppose I'll have to see what gives!	110	40	220	100
+America's top scientist, chemist, physicist and weaponry mechanic, former member of the Manhattan Project, Dr. Edwin Blake.
+FRAME	0	-850	1.2
+Things must be gettin' hot in Washington when they need an escape artist on the double! There's no use guessin' -- so I'll hop a plane!	480	60	200	100
+America's most talented escape artist, the man impossible to catch, Tony Gardello, a.k.a. Gardello the Great.
+FRAME	-700	-850	1.2
+For the first time, you met -- these atomic-commandos-to-be who were to control so large a share of America's destiny --
+Wonder what they want me for? A muscle boy --	130	70	90	100
+What about me? All I'm good for is the houdini stuff -- an escape artist!	300	70	150	100
+I guess we'll find out that some little bureaucrat here had a brain storm!	540	70	200	100
+Gentlemen --	560	480	200	100
+FRAME	0	-1500	1.2
+The President of the United States!	130	50	300	100
+Ulp!	130	220	70	100
+Oh, n-no!	580	90	50	100
+FRAME	-700	-1500	1.2
+You have been called here because each of you is an outstanding expert of his type, and you can be of immeasurable aid to America at this critical moment! As to why the moment's so critical -- I'll let Bill Tyler here tell his own story!	150	40	550	100
+Let me start by asking -- has any one of you ever seen a flying saucer?	500	220	220	100
+END

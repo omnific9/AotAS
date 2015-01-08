@@ -1,0 +1,25 @@
+10-5.jpg	0	0	-80	-230	1.2
+In this moment of grave emergency ...
+That water... the whole plate will buckle under pressure from outside and finish us all unless Doc can seal it off with the inner protective shell he built! You've got to hold the plate in place until he can get it working, Champ!	70	10	340	100
+I - I don't know if I can do it -- but I'll sure give it a try!	450	100	200	100
+FRAME	-710	-230	1.20
+This was a feat of strength beyond human belief -- but this was also Champ, most powerful man in America.
+There's tons of water pushing at me, Doc! Can't you -- hurry it up?	40	10	400	100
+I think I've got it rigged! Jump aside, Champ, fast!	520	10	180	100
+FRAME	0	-890	1.2
+Champ leaped, and an inner wall clanged shut! The atomic sub was saved!
+She's closed! Now we've got to find out what hit us!	200	20	220	100
+FRAME	-650	-720	1.20
+That wasn't hard to discover -- because the strange craft was in the open now! It had come out for the kill!
+So that's what did it -- with magnetic bombs shaped like fish! Quick -- torpedo tubes 1 and 3 -- fire!	300	170	450	100
+FRAME	-610	-1060	1.20
+With unerring aim, the torpedoes struck home -- with a fearful blast which destroyed both the enemy submarine and its magnetic bombs!
+FRAME	0	-1570	1.20
+Then -- full speed for the island! But in their path they found --
+That ship -- it's coming from the island! Just in case they've got Professor Mcdougald aboard -- we've got to surface and stop her!	140	10	100	100
+FRAME	-350	-1570	1.20
+But as the atomic sub surfaced in the path of the ship ...
+She's firing on us! Quick -- man the desk gun!	300	10	210	100
+FRAME	-750	-1570	1.20
+And fire is traded!
+END

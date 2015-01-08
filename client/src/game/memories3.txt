@@ -1,0 +1,18 @@
+memories3.jpg	0	0	0	-100	1.2
+$connphrase a fragment of memory flashed in your head.
+In a peaceful day, you were walking with the man in blue suit that you had met after you recovered from a fatal injury, and a younger gentleman wearing a red suit.
+I hope we can win the war, Dr. Oppenheimer. In a way the destiny of mankind lies in our hands.	60	50	380	100
+I'm sure we will win, Dr. Blake. As soon as this fine young $manorwoman fully recovers...	530	30	220	100
+$getusername? I can't believe you choose to rely on merely a $manorwoman. Atomic energy is too powerful for a mere human.	60	60	380	100
+FRAME	0	-710	1.2
+Edwin, I hate to sound condescending, but would you look at this balloon? If you give it too much hydrogen, it will burst, but if you give it a subtle amount, it will float into the air to heights that man could not imagine.	50	50	470	100
+FRAME	-30	-1430	1.20
+You have no proof.	20	10	140	100
+That's why I had to conduct the experiment on $getusername. The fact that $heorshe survived made me more confident.	400	2	320	100
+FRAME	-750	-20	1.2
+When you were alone with the man in blue suit...
+SETSOUND	success.mp3
+$getusername, you will soon be deployed in the battlefield again, and there is something you must know. Humanity's hope lies in you now, in ways that you cannot imagine. I and my scientists have fused atomic energy in your body, but how to use that power is entirely up to you. Promise me that you will be a good $manorwoman.	150	10	600	100
+You have learned more secrets about your past. Continue to complete your missions to unlock more memory pieces.
+FUNC	memoryinc()
+END

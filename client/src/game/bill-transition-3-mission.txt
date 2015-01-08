@@ -1,0 +1,13 @@
+ind-bill.jpg	0	0	0	-100	1.2
+$connphrase Bill ran swiftly to you and put his hands on your shoulders.
+$getusername, I want you to watch my back, you hear that? It was impressive how you've been sticking to your mission schedule, and I know you'll never give up. 	140	20	500	100
+FRAME	0	-750	1.2
+You've taught me a lot, just like you did before. Through you, I've found what I'm capable of. This is my turn now. We'll protect our country together, and I won't let you disappear again.	140	20	340	100
+FRAME	-640	-800	1.2
+SETSOUND	success.mp3
+Do what you've been doing always, my good friend. Finish your missions. We'll see what that brings to us, to your memories.	120	10	150	100
+You now understand Bill better. Continue to complete your missions. A lost piece of memory may come to you next time.
+SET	bill-transition	3
+SET	bill-foreshadow	3
+FUNC	memoryinc()
+END

@@ -1,0 +1,10 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+FUNC	failhomework()
+FUNC	downgrademotivation()
+Something must have stopped you from doing it, no?	30	10	340	100
+INPUT	$hwfailure You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	fail.mp3
+$hwbenefitfailure	30	10	340	100
+Because you did not complete your mission, one of your fellow atomic commandos might reveal his dark side to you in this session. Complete future missions to help them overcome their hardship and find your lost memories.
+What kills us can also save us, just like all the energies that humans have mastered. Same goes for your missions. Turn your difficulties around as a test of your will.	30	10	340	100
+END

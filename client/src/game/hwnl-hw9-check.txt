@@ -1,0 +1,8 @@
+white.jpg	0	0	0	0	1.2
+SET	prehwid	9
+Welcome back to the personalized physical activity homework program. Left click or press Enter or Space to continue.	100	20	600	100
+$hwreport Click on one of the buttons that will appear.	100	20	600	100
+MENU	 	2
+I've done it!	You indicate you've completed your homework.	prehw	success
+I didn't do it.	You indicate you did not complete your homework.	prehw	failure
+END

@@ -1,0 +1,9 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+PLAYMUSIC	REGULAR
+On the atomic sub, Bill was listening carefully to the information that Russian officer was leaking before his death... Dr. Blake was quite eager to hear about your mission.
+Don't be shy about it. If you didn't get a chance to do it, I won't judge. So have you finished your mission?	30	10	340	100
+SET	prehwid	11
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

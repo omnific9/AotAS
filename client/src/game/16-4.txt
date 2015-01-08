@@ -1,0 +1,27 @@
+16-4.jpg	0	0	0	-180	1.2
+Before Bill could order a rescue attempt, the Antarcs sank into the frozen depths! Only one survivor remained...
+You have won... your last victory! We are ready... thousands upon thousands...	110	30	140	100
+Too bad we can't hear more, Bill... but he's just about finished!	410	10	140	100
+FRAME	-695	-170	1.20
+Was this to be the instrument of conquest... this shining sphere bobbing near the sub that brought it down? Carefully, Dr. Blake and Bill inspected the strange craft...
+It's powerful... and that thick insulation proves it was built to withstand terrific heat, Doc!	20	10	370	100
+The jet seems to be activated by Gamma G radio waves... a force our scientists know hardly a thing about! Whoever these people are, Bill... they're a century ahead of us in technical know-how!	470	10	220	100
+FRAME	0	-920	1.2
+A moment later, another flaming crater opened in the Antarctic ice... and again the shock waves hit with the sudden fury of a typhoon!
+Great guns... The sphere's going down!	110	40	130	100
+Jump! We'll just about make it!	350	20	150	100
+FRAME	-370	-900	1.20
+Now, the atomic commandos saw the meaning of the shock waves...
+Bill... it's another formation of those Antarc craft! Those shock waves are formed every time a new squadron is launched!	240	10	300	100
+Doc, take over the sub and try to locate their base... while I fly to Washington and tell 'em we're up against invasion!	370	210	280	100
+FRAME	-750	-930	1.20
+Could the nation be warned in time? Could even our most modern defenses repel raiders like these? These were the questions... as the atomic plane roared toward our imperilled shores...
+FRAME	0	-1570	1.20
+PLAYMUSIC	REGULAR
+An emergency session in the white house...
+All right, Commander Tyler... We'll assume those spheres are being launched right through the Antarctic ice! The question remains... where?	120	30	160	100
+We'd need thousands of planes to discover the launching site! Meanwhile, the Antarcs seem able to send up unlimited numbers! And so far... the atomic sub hasn't found a way to stop them!	445	10	270	100
+FRAME	-710	-1490	1.20
+Have you any idea of what can be done, Bill?	80	10	120	100
+We need an atomic shell that can devastate a huge area... something that will be used only in a show-down.	340	10	400	100
+END

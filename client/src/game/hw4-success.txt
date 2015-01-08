@@ -1,0 +1,11 @@
+ind-tony.jpg	0	0	-40	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+For real? You gotta tell me the details! Everything!	440	30	240	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+FRAME	-10	-780	1.2
+SETSOUND	success.mp3
+$hwbenefitsuccess	80	10	200	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+Nice job, and all that! Now, haven't you gotta contact the navy, Champ?	370	10	170	100
+END

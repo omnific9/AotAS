@@ -1,0 +1,4 @@
+ind-champ.jpg	0	0	-20	-120	1.2
+That's right! That's a $manorwoman I respect! Now you stick to what I told you, and you tell me what you done. That's how we do it!	390	40	280	100
+Completing your mission is very important for us. Make sure you report back tomorrow.	390	40	280	100
+END

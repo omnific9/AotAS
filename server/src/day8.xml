@@ -1,0 +1,29 @@
+<data>
+    <file name="hw7-check">
+    </file>
+	<file name="hw7-success">
+        <req prehw="success"/>
+    </file>
+    <file name="8-1">
+    </file>
+    <file name="8-2">
+    </file>
+    <file name="8-3">
+    </file>
+    <file name="8-4">
+    </file>
+    <file name="8-5">
+        <change loc="outside" state="mission" tony="available" doc="available" bill="unavailable" champ="available"/>
+        <follow>transition</follow>
+        <follow>foreshadow</follow>
+    </file>
+    <file name="8-6">
+    </file>
+    <file name="hw8-assign">
+        <follow>homework</follow>
+    </file>
+    <file name="8-7">
+    </file>
+    <file name="endofday">
+    </file>
+</data>

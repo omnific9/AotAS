@@ -1,0 +1,35 @@
+<data>
+    <file name="hw2-check">
+    </file>
+	<file name="hw2-success">
+        <req prehw="success"/>
+	</file>
+    <file name="3-1">
+    </file>
+    <file name="3-2">
+    </file>
+    <file name="3-3">
+    </file>
+    <file name="3-4">
+    </file>
+    <file name="3-5">
+    </file>
+    <file name="3-6">
+    </file>
+    <file name="3-7">
+    </file>
+    <file name="3-8">
+        <change loc="outside" state="rest" tony="available" doc="available" bill="available" champ="available" jonnie="unavailable"/>
+        <follow>transition</follow>
+        <follow>foreshadow</follow>
+    </file>
+	<file name="atommain-2">
+	</file>
+    <file name="hw3-assign">
+        <follow>homework</follow>
+    </file>
+	<file name="3-9">
+	</file>
+    <file name="endofday">
+    </file>
+</data>

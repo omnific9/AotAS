@@ -1,0 +1,14 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	clearmotivation()
+You must be eager to help us on this mission, but as the President told you, your main objective here is to train to be stronger, so that hopefully you will get your memories back in time.	140	20	500	100
+I'm going to give you your first mission today. Nothing you can't handle, but I need you to really spend your time on it and finish it strong.	140	20	500	100
+FUNC	preparehomework()
+FRAME	-700	-100	1.2
+SET	curhwid	1
+SET	hwchar	bill
+And I'm going to give this mission to the person sitting behind the screen, so whoever is there playing this game gotta do the job. Don't worry, we'll start off slow. 	220	10	330	100
+Your mission: $hwassign	220	10	330	100
+MENU	 	2
+Accept	You have accepted the mission!	curhw	ongoing
+Reject	You have rejected the mission.	curhw	rejected
+END

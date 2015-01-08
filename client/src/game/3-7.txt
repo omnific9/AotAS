@@ -1,0 +1,18 @@
+3-7.jpg	0	0	0	-180	1.2
+As the battle heats, the very fate of the world hung in the balance --
+Direct hit! But our armament's weathered it! Break out our auxiliary rapid-fire guns -- it's now or never!	130	20	500	100
+FRAME	-750	-180	1.2
+Now or never -- and the atomic sub responded in a burst of fighting fury which scattered the flying saucers in complete defeat!
+FRAME	0	-810	1.2
+Yahoo! We did it!	80	40	100	100
+I did it, you mean -- single handed!	240	50	150	100
+Hurrah for our lives!	320	180	150	100
+Easy now; that was just the first step! There will be no real victory for us until we can eliminate the menace of Atlantis as an invasion base!	500	40	220	100
+FRAME	-740	-930	1.2
+There was only one thing to do -- risk the island's terrible underwater weapons once more! You had to get within range -- even if it meant exposing all commandos to certain death!
+Now! Switch from conventional firepower to atomic weapons!	210	40	550	100
+FRAME	0	-1640	1.2
+And just as the awful undersea barrage burst about you --
+FRAME	-750	-1640	1.2
+-- The atomic sub released its full terrific broadside of atomic shells and torpedoes!
+END

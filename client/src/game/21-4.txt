@@ -1,0 +1,18 @@
+21-4.jpg	0	0	0	-210	1.2
+Meanwhile, the sub had come within sight of the dam.
+Time for me to submerge!	230	10	170	100
+FRAME	-620	-180	1.20
+And on the nearby airfield...
+All is prepared! Our units in Europe wait at this moment for our signal! You carry the fate of our cause with you! And so board your craft!	20	10	320	100
+FRAME	0	-830	1.2
+The great moment has come! By tonight America will be no more!	140	10	350	100
+FRAME	-370	-910	1.20
+At this very moment, a young American boy was making his move...
+Dead center on the dam!	320	30	170	100
+FRAME	-750	-810	1.20
+I've submerged the sub in the mud at the bottom! And now here go Torpedoes 3 and 5!	250	10	400	100
+FRAME	0	-1520	1.20
+ 
+FRAME	-650	-1550	1.20
+Directly towards the target the missiles sped, while GRU secret troops revved the motors of their flying saucers...
+END

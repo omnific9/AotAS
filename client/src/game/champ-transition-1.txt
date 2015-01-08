@@ -1,0 +1,9 @@
+ind-champ.jpg	0	0	-20	-120	1.2
+$connphrase Champ came up to you, his fist held firm, and gave you a fist bump.
+You ain't doing half bad with your missions, $boyorgirl! You sure look a lot stronger than when I first saw you. Guess them Washington wasn't messing around when they designed these assignments. 	390	40	280	100
+You were born a fighter. I can tell. Unlike me... What, you think I'm tough? I was forced this way. Gotta get strong to protect your people, ain't that right?	390	40	280	100
+SETSOUND	success.mp3
+When you get stronger, I might show you the gym I built on the sub. We'll chat then, tough $boyorgirl!	390	40	280	100
+David is starting to reveal himself to you. Complete more missions to become closer to him.
+SET	champ-transition	1
+END

@@ -1,0 +1,27 @@
+15-3.jpg	0	0	0	-130	1.2
+Yeah, that's right! The purpose was to keep the temperature of the metal constant in the intense cold of outer space!	130	10	180	100
+Exactly! And it should be able to melt ice! Here goes!	360	10	180	100
+FRAME	-710	-150	1.20
+The throw of a master switch, and within instants the outer shell of the atomic sub turned red with glowing heat...
+It's working!	150	60	100	100
+Yippeee!	340	60	100	100
+FRAME	0	-900	1.2
+The blazing temperature soon created a large pool of water around the vessel, as the surrounding ice shrunk away! Then...
+Just some minor cracks in the hull, Bill! The self-sealing inner metal will take care of that in a jiffy!	140	40	200	100
+Okay, let's button up and submerge! We've got work to do!	440	20	140	100
+FRAME	-450	-950	1.20
+This time the ship plunged deep, below the frozen level! Dr. Blake worked feverishly, calculating the exact point at which they would be under China's secret base.
+This is it, Bill! I've thrown the drill switch!	200	50	120	100
+Right! But angle the sub so we come up a little outside the base, we don't want to emerge smack in the middle of guards!	400	50	140	100
+FRAME	-750	-900	1.20
+Through solid ice the powerful drill churned in a desperate race against time...
+FRAME	0	-1540	1.20
+And within, the violent vibrations created a terrible ordeal...
+M-my t-teeth are shaking l-loose!	140	10	180	100
+It's l-like m-my b-brain-n was g-getting uning-ged!	420	10	200	100
+FRAME	-690	-1570	1.20
+But at last the surface was reached, and luck was with them! For an enormous peak of ice shielded them from view...
+Perfect! Okay, you straighten the ship out, Doc, while me and Champ scout around! Jonnie, you help assemble the collapsible jet fighter!	300	10	350	100
+Gotcha!	620	140	100	100
+SET	connphrase	And just as the commandos were readying an investigation of the Arctic base, 
+END

@@ -1,0 +1,25 @@
+21-1.jpg	0	0	0	-140	1.2
+PLAYMUSIC	REGULAR
+On the atomic plane, Bill and Dr. Blake scouted the forest thoroughly, until...
+Well, there's a big river, and it ends abruptly! What's holding it back, Doc?	140	10	150	100
+Beats me, Bill! I'd better have a look through the polaroid glasses!	420	10	200	100
+FRAME	-690	-140	1.20
+Aha! Just as I thought... The whole setup is camouflaged! But that's our target! The whole shebang!	220	10	400	100
+FRAME	0	-880	1.2
+But there were watchers below, and interception was swift...
+Great guns... Are those things real?	170	20	100	100
+Th...They're... flying saucers!	480	10	120	100
+FRAME	-680	-770	1.20
+Instantly the sky bristled with the staccato clatter of machine guns...
+Got two of 'em... but more are coming!	290	50	130	100
+Don't talk... keep firing!	570	210	100	100
+FRAME	0	-1610	1.20
+Armed with special high-powered ammunition and rapid-fire guns, the atomic plane was able to take a terrific toll of the enemy... but their numbers proved great...
+The motor's hit! Hold on... I'll try to set us down in one piece!	210	30	180	100
+FRAME	-370	-1550	1.20
+It took all of Bill Tyler's skills to avert sudden death...
+Forward! Capture them alive!	250	200	120	100
+FRAME	-750	-1570	1.20
+Though badly shaken up, the atomic commandos were in no mood to surrender lightly!
+Let's not play rough, bud!	290	15	120	100
+END

@@ -1,0 +1,14 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+$connphrase Dr. Blake approached you in a rush.
+I have to say, seeing you continue to impress us with your mission performance, I'm starting to wonder a lot... wonder if I was right...	30	10	340	100
+FRAME	0	-840	1.2
+I have been so stubborn, insisting that I was right and refusing to listen to others. And here you are, if you are who I think you are, an atomic creation that is not meant to destroy but to grow and inspire.	180	10	320	100
+In Dr. Oppenheimer's writings, he mentioned that he created an atomic shield that can grant life rather than death, and give protection rather than destruction. I think that might be you.	180	10	320	100
+At any rate, I'm glad we met.	180	10	320	100
+SETSOUND	success.mp3
+And the Doctor left quietly, looking as if he'd lived a long ... long time.
+You now understand Edwin better. Continue to complete your missions. A piece of lost memory may come to you next time.
+SET	doc-transition	4
+SET	doc-foreshadow	4
+FUNC	memoryinc()
+END

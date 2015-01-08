@@ -1,0 +1,11 @@
+ind-champ.jpg	0	0	-750	-170	1.2
+$connphrase Champ punched you in the arm.
+Feeling tired now? Told you, you should have worked out with me more. But na-ah, you wouldn't do it. Can't even keep up with your missions now, can ya? 	90	65	230	100
+FRAME	-750	-850	1.2
+The commandos shouldn't have had you at all. Now it's all on my shoulders after all. You just stand behind, and I'll do as I please. Thought you'd be different, that you'd save us from the constant killing and revenge...	150	20	370	100
+Just follow what we do tight and don't fall behind. We gonna free the world from our enemies... whoever dare stand in front of America... We gonna find them. We gonna kill them all.	150	20	370	100
+SETSOUND	fail.mp3
+And you saw Champ's back turned against you, dashing toward far away -- the back of a murderer, filled with anger and vengeance.
+David has revealed some of his dark side to you. Complete more missions to help David gain the courage and dedication that will help him battle life's hardship.
+SET	champ-foreshadow	3
+END

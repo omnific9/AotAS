@@ -1,0 +1,12 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+$connphrase Dr. Blake's face looked terribly pale.
+$getusername, we're in a serious situation here, don't you agree? In addition to everything, I'm also concerned about your mission progress. 	30	10	340	100
+You see, when I first graduated a PhD in physics, I was hired to conduct a series of experiments to create atomic bombs. My theories were solid, but my lab wasn't.	30	10	340	100
+FRAME	0	-840	1.2
+I was forced to work with a group of scientists -- research assistants may be more proper -- who couldn't get the basics done by themselves. I struggled to take care of everything, and eventually my experiment ran late.	180	10	320	100
+And what is the result? Dr. Oppenheimer proved himself right before me, and I was then assigned to work under his command. Should my lab have hired more responsible scientists, I wouldn't be where I am today, not that the atomic sub is bad.	180	10	320	100
+SETSOUND	fail.mp3
+So, if you don't plan on following your mission plan, by all means, just don't expect me to trust you with anything important to me. I'd rather count on myself than someone I'm uncertain of.	180	10	320	100
+Edwin has revealed some of his worries to you. Complete more missions to help Edwin gain the courage and dedication that will help him battle life's hardship.
+SET	doc-foreshadow	2
+END

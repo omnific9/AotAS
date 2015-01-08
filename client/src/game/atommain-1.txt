@@ -1,0 +1,17 @@
+ind-president.jpg	0	0	0	-70	1.2
+At this moment, inside the White House, the President of the United States just sent a mysterious guest away. On a chair next to the President's desk, you awakened from a long slumber.
+It is my pleasure to meet you, soldier. You must be confused where you are. This is the White House. I'm the President of the United States, and as customs dictate, I should get to know you. So tell me, what is your name?	190	10	420	100
+INPUT	Please type your name. Press 'Enter' when you are done.	username
+And I understand you have just recovered from a serious coma. I am glad you remembered your name, for you may not remember much else according to our best physicians. But if you're feeling better, tell me more about yourself.	190	10	420	100
+MENU	Please select your gender	2
+Male	You will be addressed as a male.	usergender	male
+Female	You will be addressed as a female.	usergender	female
+FRAME	-700	-100	1.2
+You must be wondering how you ended up here. For the moment, I want to just assure you that you are here for a reason. America needs your help, and its people needs your protection. I've assigned you as an atomic commando. That's a title very becoming of you.	170	20	400	100
+What is an atomic commando? You see, the Russians are piling up their warheads, and we've sensed something strange that may threaten the security of the States. So we've created an ultimate weapon, the atomic submarine.	170	20	400	100
+FRAME	0	-800	1.2
+Mr. President. We need to discuss...	190	200	100	100
+As you followed the President through the halls of the White House, he dismissed his congressmen and secretaries who attempted to interrupt him with their own affairs.
+You see, I don't have time for the mundane. At the moment, only the atomic submarine and... you... are matters of utmost importance.	180	20	360	100
+Now follow me, and let me introduce you to the atomic sub commander, Bill Tyler.	180	20	360	100
+END

@@ -1,0 +1,10 @@
+9-5.jpg	0	0	-40	-170	0.7
+Pow! Pow! Pow! Crisply, the voice of the great atomic guns rang out -- as the slim and deadly shells homed unerringly on their racing target! Then came a deafening roar as of an exploding planet -- a blinding, searing flash as of a thousand suns -- and the awful H-bomb was no more! These had been delayed-action shells, automatically directed -- and they'd given the American rocket time to speed out of range --
+FRAME	-40	-1620	1.20
+PLAYMUSIC	REGULAR
+As the atomic commandos approached the Earth, their mission completed and successful --
+We'll be home soon, and you'll get rid of your stowaway! I - I guess you won't be wanting me around - I guess...	50	10	290	100
+Why not? After all, it's not every boy who gets to be a permanent member of our group -- as a full-fledged junior atomic commando!	460	10	200	100
+FRAME	-710	-1550	1.20
+People still talk about that roaring welcome New York held for the atomic commandos. And yes, Jonnie's one of you now!
+END

@@ -1,0 +1,14 @@
+3-2.jpg	0	0	-30	-80	1.2
+That thing -- looks like a rocket flyer! Let's grab it before we're pursued -- and head for the locks we came in through!	150	30	360	100
+So what's holding you, Doc?	560	40	140	100
+FRAME	-750	-120	1.2
+Next moment --
+Now we're talking!	280	80	150	100
+FRAME	-60	-810	1.2
+But in a larger rocket -- not far behind --
+They're headed for the locks -- they're worthier foes than I'd thought! But I'll stop them by loosing one of the Dirajes we brought from Mercury!	90	50	620	100
+FRAME	-750	-850	1.2
+A thrown switch loosed a radio impulse -- which freed and directed as weird and horrible a beast as was ever seen on Earth!
+FRAME	-200	-950	0.8
+Unerringly, the monster intercepted the rocket flyer -- and sent it crashing downward with awful ferocity!
+END

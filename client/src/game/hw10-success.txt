@@ -1,0 +1,10 @@
+ind-president.jpg	0	0	-700	-100	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+We might have just the right $manorwoman to carry America to a peaceful future here! Tell me about what you did.	170	20	400	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	170	20	400	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+Now you must go and save Dr. McDougald! I'll leave it to you atomic commandos.	170	20	400	100
+END

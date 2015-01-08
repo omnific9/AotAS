@@ -1,0 +1,19 @@
+16-3.jpg	0	0	0	-80	1.2
+Sorry, bud, this doesn't happen to be visitors' day!	90	10	130	100
+Take cover, Jonnie!	420	10	120	100
+FRAME	-695	-170	1.20
+Powerful as the towering warriors were, commando tactics hurled them back foot by foot... until...
+Antarcs... fall back! We will see how they fare against our pressure guns!	250	10	350	100
+FRAME	0	-950	1.2
+The thin bluish jet from the pressure pistol was almost invisible... but it struck with a force that sent a man hurtling backward...
+FRAME	-370	-900	1.20
+Golly! Bill and the others are just about knocked out! If we're going to stop 'em... it's up to me!	210	350	200	100
+FRAME	-750	-930	1.20
+Jonnie was one against a dozen! But he was an atomic commando... trained to strike boldly whatever the odds!
+Bill... grab it!	510	10	180	100
+FRAME	-30	-1640	1.20
+Something in Bill Tyler's numbed mind responded... something that made him reach groggily up as the nearest Antarc closed in...
+Got it!	480	10	100	100
+FRAME	-700	-1620	1.20
+Massed near the bow, the Antarcs made a perfect target! Now the pressure gun was turned on them...
+END

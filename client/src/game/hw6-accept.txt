@@ -1,0 +1,4 @@
+ind-president.jpg	0	0	-700	-100	1.2
+Just the answer I expected! I look forward to seeing your report, soldier!	170	20	400	100
+Completing your mission is very important for us. Make sure you report back tomorrow.	170	20	400	100
+END

@@ -1,0 +1,23 @@
+2-5.jpg	0	0	0	-130	1.2
+Got to -- hold it -- until I can -- plant this charge! Got to -- hold it!	420	180	200	100
+As always, his rugged power had been expended for public applause! There were no crowds now -- no roaring onlookers to cheer Champ Ruggles in his great feat --
+FRAME	-680	-130	1.2
+Made it!	460	30	150	100
+FRAME	0	-880	1.2
+Tense moments later --
+Shake it up, you guys -- what's holding you? You brought down Mr. Flying Saucer like a sitting duck -- so let's call on our new neighbors!	420	130	250	100
+FRAME	-680	-880	1.2
+This was the moment they had so long awaited! Now, at last, they would solve the mystery of who piloted the flying saucers!
+The smoke seems to be dissipating. Get your weapons ready, everyone! We're going in -- and it may mean a fight!	250	70	400	100
+FRAME	0	-1650	1.2
+But within the dark interior -- a stunning surprise!
+There's -- nobody aboard! Nobody!	120	30	120	100
+But -- but how can that be?	290	40	160	100
+FRAME	-400	-1650	1.2
+Here's something else I don't get: these strange, glowing tubes -- there seem to be hundreds of 'em aboard! Wonder what --	220	10	280	100
+Never mind that now! Take a look up there!	380	150	190	100
+FRAME	-720	-1650	1.2
+Holy smoke! That hatch was blown open by the explosion champ planted... but all of a sudden it's perfect again!	320	10	240	100
+Yes, and look around you! The saucer's repairing itself!	600	10	200	100
+SET	connphrase	While the team of commandos wondered, confused, inside the weird interior of the UFO,
+END

@@ -1,0 +1,4 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+Now you go do your thing, and leave the shackles to us. I'll figure something out!	220	20	320	100
+Completing your mission is very important for us. Make sure you report back tomorrow.	220	20	320	100
+END

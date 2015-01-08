@@ -1,0 +1,11 @@
+ind-champ.jpg	0	0	-20	-120	1.2
+FUNC	clearmotivation()
+That was some running! Are you tired $boyorgirl? Heh, let me give you some advice, cus them Washington want you to get tough like me, right? While you're at taking a break, do this for me. It will guarantee you get stronger!	390	40	280	100
+FUNC	preparehomework()
+SET	curhwid	8
+SET	hwchar	champ
+Your mission: $hwassign	390	40	280	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

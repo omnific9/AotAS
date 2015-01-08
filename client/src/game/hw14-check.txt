@@ -1,0 +1,9 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+PLAYMUSIC	REGULAR
+As Dr. Blake's proposal to enter the iced water was accepted by the President, a strange device was being constructed for the atomic sub.
+Here you are, $getusername! I was wondering how your mission was going!	30	10	340	100
+SET	prehwid	14
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

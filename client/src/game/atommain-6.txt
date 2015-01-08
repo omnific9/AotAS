@@ -1,0 +1,12 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+In the atomic submarine, Jonnie was playing with the sonar systems and the periscope, as if he was coming back home from a long journey.
+It's good to be finally back, ya know? I really missed you all. How have you been, $getusername? You still doing your training with Bill, I bet!	200	10	400	100
+I feel that sometimes it makes you upset that you have to do things, but you get used to it, don't you?	200	10	400	100
+When I was trapped in China, I sensed that the base we destroyed was just part of a bigger plot. Something much worse is coming for us.	200	10	400	100
+FRAME	-750	-120	1.2
+I was told that atomic energy is the future of science, an' I really wanna become part of that future! But atomic energy can be used for so much more than destroying countries. Look at yourself for example, and what you can do! I heard on Carter Island, something strange happened to you, that a beam of light emitted from you.	120	20	480	100
+Suddenly, Jonnie stopped talking, as if a thought was holding back his tongue.
+Do you truly understand what you are, $getusername? I heard you saved Bill's life in the war, while you were both trapped in Japan, where one of the nuclear bombs struck... Can you still not remember? Most thought it a miracle, but a scientist does not believe in miracles. Think, $getusername.	120	20	480	100
+You saved Bill's life in Japan, that is what everyone has been telling you, but in the chaos of a nuclear strike? How could that be? One would be burned to ashes or killed by radiation... You thought to yourself, as you looked as confused as Jonnie.
+But you did not know: a great mystery would soon unfold, concerning you and the future of mankind. Come back tomorrow, and the story will continue!
+END

@@ -1,0 +1,25 @@
+5-6.jpg	0	0	0	-250	1.2
+Now, the atomic commandos sought a new way into the center of the earth... not the same volcano through which the invaders had made their way, for that route might be guarded! They found it in an extinct crater, far below the surface of the ocean...
+FRAME	-300	-220	1.2
+PLAYMUSIC	BATTLE
+They entered... and with a fierce, sustained roar, the huge drill took over! This was atomic power in pure and concentrated form! Mile after mile at earth-shaking speed... down, down, down!
+FRAME	-750	-150	1.20
+Vibration... tearing at the ears, jarring the backbone until you'd scream! It was more than human flesh could tolerate...
+I'll... I'll go crazy if this... keeps up... can't stand it!	190	10	330	100
+We've got to hang on just a little longer! We've got to!	180	90	100	100
+We... we've drilled 2000 miles into the Earth's crust! We've reached the limit of our endurance!	400	440	300	100
+FRAME	-40	-860	1.2
+Then, suddenly, the awful whirring ceased... the tremors vanished! They had broken through into the center of the Earth... and were floating, free, in a boiling sea!
+Hurrah! We made it!	70	30	110	100
+Those... those strange creatures coming towards us! Look!	320	30	350	100
+FRAME	-730	-860	1.2
+These were things such as the humans from the surface had never seen... beings from out of a weird dream! They seemed half human, half fish, as they swarmed towards the submarine...
+I... I never saw anything like those in all my born days! You think maybe we should give 'em a burst of our guns, Bill?	30	20	380	100
+I'd hate to do that! There is no reason to think they mean us any harm.	450	30	210	100
+FRAME	-40	-1630	1.2
+But you're wrong, Bill Tyler! Keep your eye on these odd creatures! They've swum back out of range now, but it isn't retreat! Look, they're joining hands, ringing the atomic sub! And now they're moving in, and the flames which surround their bodies have fanned out dangerously!
+Holy Hannah! They've got us hemmed in! This is an attack!	120	30	250	100
+FRAME	-750	-1630	1.2
+Closer... closer... and as the circle grew smaller, the fire grew in intensity! It was a solid wall now, through which the bodies of the attackers could be seen but dimly! The object was plain, the visitors from above were to be burned to a crisp!
+Quick... man the torpedo tubes! It's our only chance!	330	30	300	100
+END

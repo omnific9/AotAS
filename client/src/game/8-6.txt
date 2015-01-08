@@ -1,0 +1,16 @@
+8-6.jpg	0	-20	0	-240	1.2
+Yes, it was a voice... a telepathic voice! For Jonnie had at last located his strange device, and even as the weird green flames moved into destroy him, his frantic message went out, desperately seeking the atomic commandos!
+This is Jonnie -- Jonnie! I'm in the atomic sub rocket, I stowed away! It -- it's burning in green fire -- unless I can get it out of here fast! How do I do it?	220	40	400	100
+FRAME	-720	-220	1.20
+Think fast, Bill Tyler! There's not much time left for poor Jonnie! Not for Bill either! For the colossal serpent, with a fiendish intelligence, is menacing his last slim hope of protection...
+Jonnie! But...	640	230	120	100
+FRAME	-10	-900	1.2
+Bill Tyler answering! Throw main power switch, move universal gear lever full forward! Then pull back on stick with steady and even pressure...	120	10	400	100
+FRAME	-630	-910	1.20
+The hungry flames reached for their prey! But suddenly...
+FRAME	0	-1650	1.20
+Meanwhile, the serpent's strength had finally told -- and an awful danger confronted the atomic commandos --
+Run for your lives! That thing'll have us in a minute!	320	300	120	100
+FRAME	-710	-1690	1.20
+Run, commandos -- help is on its way! It's Jonnie, manning the rocket controls -- guided to the spot by the commandos' brain waves, intercepted by the telepathor! Jonnie, sending the atom sub into a screaming dive that spelled death to the pursuing monster!
+END

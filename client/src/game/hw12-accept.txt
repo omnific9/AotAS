@@ -1,0 +1,4 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+Good! So how do we do this? You log off the game, and I'll wait till you come back?	200	10	400	100
+Remember, completing your mission is very important for us. Make sure you report back tomorrow.	200	10	400	100
+END

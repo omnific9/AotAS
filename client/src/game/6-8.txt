@@ -1,0 +1,18 @@
+6-8.jpg	0	0	-40	-180	1.2
+They were over the target now, threading their way amid a screaming barrage! It didn't look as if they could make it... but Bill stuck grimly to his perilous course...
+Bomb away, Tony!	470	10	200	100
+FRAME	-730	-80	1.20
+A missile dropped from the skies covered by the mysterious black rays.
+FRAME	-40	-840	1.2
+With a roaring explosion, the power house ceased to be. The huge drills were silent now.
+FRAME	-750	-930	1.20
+Bill and Tony returned to the submarine. Quickly they submerged in a desperate effort for escape... but it was too late! From every side, the maddened giants swarmed to the attack!
+FRAME	-40	-1600	1.20
+They... they're coming from everywhere... and enough of 'em to tear us apart! And we can't get them with torpedoes!	50	10	150	100
+Are you forgetting this special little gadget I installed... the thing I said might turn out to be the saving of us all? Well, it's time to break it out now!	250	10	150	100
+FRAME	-280	-1740	1.20
+What manner of strange device could this be, this collection of dials, wires and tubes that might spell salvation for the atomic commandos? There was not time to speculate... already, the rending hands of the giant enemy tore at the submarine's hull! But now, the pounding from outside was drowned out by the rising whine of the weird machine...
+FRAME	-750	-1670	1.20
+And in the water which surrounded the sub... a strange phenomenon! Billions of tiny, swarming particles, uniting in a smoky cloud... a radioactive cloud! This was atomic energy on the loose... and before it, the giant attackers fell back, clutched at their throats... and died!
+Arggh...	360	90	100	100
+END

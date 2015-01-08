@@ -1,0 +1,26 @@
+10-4.jpg	0	0	0	-260	1.2
+SET	connphrase	Just as the commandos were in the midst of gaining balance from a mysterious metal fish attack, 
+Now, finally, the frenzied words penetrated Jonnie's dazed consciousness, brought him from his bunk in incredulous horror!
+The professor and I are the only ones left alive! But they're battering the door now! For Heaven's sake... get help to us before it's too late!	260	10	250	100
+Get up -- don't you hear? Please wake up! I - I can't make 'em even stir!	130	270	170	100
+FRAME	-370	-200	1.20
+They'll have to get me before they can lay a hand on you -- and I -- I'm hoping the atomic commandos get here before that happens!	230	10	300	100
+FRAME	-750	-230	1.20
+But it didn't look as if the commandos were in any shape for speed...
+He shouted something about the Marine guards being killed, and him and the professor being locked up in the lab with the guys crashing down the door! That -- that's the last I heard!	240	10	280	100
+We've got to head there -- full speed!	560	130	120	100
+FRAME	0	-950	1.2
+The mighty motors hummed into action -- the atomic sub turned, starting to get under way --
+The blowers are working full force now! We'll be feeling better in two shakes!	130	10	220	100
+FRAME	-660	-760	1.20
+From hiding, the strange submarine watched, and out of its interior drifted fish -- metal fish!
+FRAME	-500	-1040	1.20
+Look, Bill -- what do you make of those creatures?	40	160	110	100
+FRAME	-720	-1040	1.20
+That's funny -- usually they turn tail when they spot the sub -- but those are coming for us almost as if they had a purpose, Doc!	550	210	170	100
+FRAME	-50	-1620	1.20
+Yes, these fish had a purpose! Attracted by magnetism, they smashed into the hull of the atomic sub, exploding with all of the terrible force of the super-explosive they carried!
+FRAME	-750	-1520	1.20
+Oof!	120	10	100	100
+We're hit bad!	410	10	120	100
+END

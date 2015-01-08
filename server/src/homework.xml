@@ -1,0 +1,418 @@
+﻿<data>
+    <hw id="1">
+        <assign>Search for articles on the Internet about the pros and cons of physical exercise. Write down your key findings next time.</assign>
+        <report>Have you read through articles about the pros and cons of physical exercise?</report>
+        <success>What are the pros and cons you've found? Write down a few simple words.</success>
+		<failure>What prevented you from finding out the pros and cons of physical exercise?</failure>
+        <benefitsuccess>Exercising can help refresh your mind, make you more energetic. It can also prevent many illnesses. That's what I knew before. Good job finding that out on your own.</benefitsuccess>
+        <benefitfailure>Exercising can help refresh your mind, make you more energetic. It can also prevent many illnesses. That's what I knew before. It would be a great help if you could find that out on your own.</benefitfailure>
+    </hw>
+    <hw id="2">
+        <assign>Search for articles and videos on the Internet about how physical activity changed people's lives.</assign>
+        <report>Have you found articles or videos about how physical activity changed people's lives?</report>
+        <success>What are a few aspects of life do you think physical activity can change?</success>
+		<failure>What prevented you from finding these articles or videos?</failure>
+        <benefitsuccess>I have a friend who was injured in the war. The doctors thought he wouldn't be able to stand for the rest of his life. But, well, he started slow and exercised for five years. Now he could run. Just add that to the stories you've uncovered.</benefitsuccess>
+        <benefitfailure>Perhaps you can hear a story from me instead. I have a friend who was injured in the war. The doctors thought he wouldn't be able to stand for the rest of his life. But, well, he started slow and exercised for five years. </benefitfailure>
+    </hw>
+    <hw id="3">
+        <assign>Pay attention to movies, comics, games, or TV shows, or reflect on the movies, comics, games, and TV shows you have watched before, where a character has the habit of exercising. Think thoroughly about the qualities these characters have.</assign>
+        <report>Have you watched or remembered any movie, comic, game or TV show with a character who exercised?</report>
+        <success>What is one of these characters and qualities of the character?</success>
+		<failure>What has happened that prevented you from thinking about old movies and TV shows or watching new ones?</failure>
+        <benefitsuccess>Interesting to hear. It reminds me of Batman. Have you read the comics? I really like his character. He works out to get strong. There are some criticisms on the tone of the comic book, but I'm sure he will become a popular hero in America.</benefitsuccess>
+        <benefitfailure>If this could inspire you, I want to mention Batman. Have you read the comics? I really like his character. He works out to get strong. There are some criticisms on the tone of the comic book, but I'm sure he will become a popular hero in America.</benefitfailure>
+    </hw>
+    <hw id="4">
+        <assign>Search on the Internet for the differences between aerobic exercise (also called cardio) and strength training (also called resistance training).</assign>
+        <report>Have you found the differences between aerobic exercise (also called cardio) and strength (also called resistance training) training?</report>
+        <success>Briefly, what are some differences between aerobic exercise and strength training?</success>
+		<failure>Did you have trouble finding information on this topic?</failure>
+        <benefitsuccess>Good job. In a nutshell, cardio is generally low intensity exercise, like hiking or jogging, and strength training is the exercise where you use resistance to train your muscles, like push-ups or pull-ups.</benefitsuccess>
+        <benefitfailure>I'm not sure what people in your world would say, but from what I understand, cardio is generally low intensity exercise, like hiking or jogging, and strength training is the exercise where you use resistance to train your muscles, like push-ups or pull-ups.</benefitfailure>
+    </hw>
+    <hw id="5">
+        <assign>Look in your local area to find out the details about one particular exercise program that lasts more than three months. It can be organized by a local gym, organization, or meetup group. Understand if the program fits you.</assign>
+        <report>Have you found a local exercise program that lasts more than three months?</report>
+        <success>Why do you think the program suits your current condition?</success>
+		<failure>Was there any trouble that prevented you from finding a program that suits you?</failure>
+        <benefitsuccess>Enrolling in an exercise program and hiring a coach sometimes help make exercising a habit. Of course, make sure you can afford the service before anything.</benefitsuccess>
+        <benefitfailure>In most places of America, you can find a few gyms in your neighborhood. Take a look. Enrolling in an exercise program and hiring a coach sometimes help make exercising a habit. Of course, make sure you can afford the service before anything.</benefitfailure>
+    </hw>
+    <hw id="6">
+        <assign>Look on the Internet and find out what is moderate intensity exercise and what are its pros and cons.</assign>
+        <report>Have you found out what is moderate intensity exercise and its pros and cons?</report>
+        <success>Describe moderate intensity exercise briefly and list one pro and one con.</success>
+		<failure>Did you have trouble finding information on this topic?</failure>
+        <benefitsuccess>Indeed. From what I heard, moderate-intensity exercise noticeably increases your heart rate and sometimes makes you break a sweat, like brisk walking and dancing. It's good in the sense that you can integrate the activity in your daily life.</benefitsuccess>
+        <benefitfailure>From what I heard, moderate-intensity exercise noticeably increases your heart rate and sometimes makes you break a sweat, like brisk walking and dancing. It's good in the sense that you can integrate the activity in your daily life. Could be useful one day.</benefitfailure>
+    </hw>
+    <hw id="7">
+        <assign>Think about one of your friends and family who can benefit from exercising, and how he or she can benefit from it.</assign>
+        <report>Have you thought of a friend or family member who can benefit from exercising?</report>
+        <success>Describe how this friend or family member can benefit from exercising.</success>
+		<failure>Did you have trouble finding or talking to a friend or family member who can benefit from exercise?</failure>
+        <benefitsuccess>I really appreciate that you took the time to do it. Thinking of how exercising can help others, you might also apply the same to yourself and help you make up your mind to do it.</benefitsuccess>
+        <benefitfailure>Thinking of how exercising can help others, you might also apply the same to yourself and help you make up your mind to do it. Maybe you can find time to try it out in the future.</benefitfailure>
+    </hw>
+    <hw id="8">
+        <assign>Pay attention to movies, comics, games or TV shows, or reflect on the movies, comics, games and TV shows you have watched before, and think of a character who could benefit from exercising.</assign>
+        <report>Have you watched or remembered any movie, comic, game or TV show with a character who could have benefited from exercising?</report>
+        <success>What is one of these characters and how exactly could he or she benefit from exercising?</success>
+		<failure>What has happened that prevented you from thinking about old movies, comics, games and TV shows or watching new ones?</failure>
+        <benefitsuccess>A good one. I often think about Seven Samurai. Have you seen the movie? The villagers in the movie had to hire warriors to protect them from bandits, but there were many villagers and the bandits were few. If they worked out better, they could have defended themselves.</benefitsuccess>
+        <benefitfailure>Here's one to think about. Seven Samurai. Have you seen the movie? The villagers in the movie had to hire warriors to protect them from bandits, but there were many villagers and the bandits were few. If they worked out better, they could have defended themselves.</benefitfailure>
+    </hw>
+    <hw id="9">
+        <assign>Think about a person that you love or who is close to you. Think about and write down how exactly exercise could make him or her healthier.</assign>
+        <report>Have you thought how someone you love or close to you could become healthier by exercising?</report>
+        <success>Describe how exercising can make this person healthier, and other potential benefits he or she would gain.</success>
+		<failure>Did you have trouble finding or talking to someone close to you who could use some exercise to get healthier?</failure>
+        <benefitsuccess>Thanks for sharing. People around me nowadays don't walk around that much. If they can afford a car, they'll drive everywhere. They suffer illnesses from lack of exercise, and it's rather sad.</benefitsuccess>
+        <benefitfailure>People around me nowadays don't walk around that much. If they can afford a car, they'll drive everywhere. They suffer illnesses from lack of exercise, and it's rather sad. I hope you'll find time to think about it.</benefitfailure>
+    </hw>
+    <hw id="10">
+        <assign>Think of one thing you'd like to improve in your life. Think about and write down the benefits of exercising and how they could help you achieve your goal.</assign>
+        <report>Have you thought what aspect of your life exercising can help you improve?</report>
+        <success>Describe what you'd like to improve in your life and how exercising can help you achieve it.</success>
+		<failure>Did something prevent you from finding out one thing you'd like to improve in your life?</failure>
+        <benefitsuccess>Thanks for sharing. If you ask me, who wouldn't want to live longer, for starters? I certainly do. I want to see my grand grand children walk in a free world.</benefitsuccess>
+        <benefitfailure>If you ask me, who wouldn't want to live longer, for starters? I certainly do. I want to see my grand grand children walk in a free world. I'm sure you'll find your reasons too.</benefitfailure>
+    </hw>
+    <hw id="11">
+        <assign>If you don't exercise, imagine and write down the possible ill consequences to your health in 20 years.</assign>
+        <report>Have you thought about the ill consequences lack of exercise will have to your life in 20 years?</report>
+        <success>Describe these consequences.</success>
+		<failure>What was the reason that you couldn't think about this topic?</failure>
+        <benefitsuccess>I appreciate you sharing it with me. Honestly, I'm a bit afraid to think about it. I wouldn't know if I'd still be alive in 20 years if I don't exercise. </benefitsuccess>
+        <benefitfailure>Honestly, I'm a bit afraid to think about it. I wouldn't know if I'd still be alive in 20 years if I don't exercise. You might want to think about it seriously.</benefitfailure>
+    </hw>
+    <hw id="12">
+        <assign>Think about how people around you perceive you now. Then think about and write down how people would think of you differently if you exercise.</assign>
+        <report>Have you thought how people around you would think of you differently if you exercise?</report>
+        <success>Describe the difference you'd make in people's mind if you exercise.</success>
+		<failure>Was there something that prevented you from thinking about this?</failure>
+        <benefitsuccess>It's nice of you to share. Thinking about yourself with or without exercise. That could be a sharp contrast, wouldn't it?</benefitsuccess>
+        <benefitfailure>Thinking about yourself with or without exercise. That could be a sharp contrast. Perhaps you'll find some time to think about it soon.</benefitfailure>
+    </hw>
+    <hw id="13">
+        <assign>Think about how society would change if more people exercise regularly. Look on the Internet if you need to look up others' opinions.</assign>
+        <report>Have you thought about how society would change if more people exercise regularly?</report>
+        <success>Describe how society would be different if people exercise more.</success>
+		<failure>Was there something that prevented you from thinking about this?</failure>
+        <benefitsuccess>Glad to hear your thoughts. I hope Americans would exercise more. There are many diseases that we have no cure for. If everyone can become stronger, more people will live a good and long life.</benefitsuccess>
+        <benefitfailure>Perhaps I could share my thoughts in that case. I hope Americans would exercise more. There are many diseases that we have no cure for. If everyone can become stronger, more people will live a good and long life.</benefitfailure>
+    </hw>
+    <hw id="14">
+        <assign>Look for information on the Internet about how America's health care system compares to the other countries. Write down how you think the health care system would be different if more people exercise regularly.</assign>
+        <report>Have you thought about how the United States' health care system would be different if more people were to exercise regularly?</report>
+        <success>Describe the changes you think would occur.</success>
+		<failure>Was there something that prevented you from looking up information of or thinking about this?</failure>
+        <benefitsuccess>Interesting perspective. I just hope that we could stop arguing about the health care reform in America. I don't know the solution, but I sure wish we can find a way to give every American the health care they deserve.</benefitsuccess>
+        <benefitfailure>Perhaps I could share my perspective in that case. I just hope we could stop arguing about the health care reform in America. I don't know the solution, but I sure wish we can find a way to give every American the health care they deserve.</benefitfailure>
+    </hw>
+    <hw id="15">
+        <assign>Look at your most recent hospital bills and check-up results. Think about and write down how exercising would affect your health care bills in the future. Search on the Internet if you need to look up others' opinions.</assign>
+        <report>Have you given thoughts to the possible effects exercise would have on your future health care bills?</report>
+        <success>Describe what you think would be the impact of exercise.</success>
+		<failure>What was the reason that you could not think about or look up on this topic?</failure>
+        <benefitsuccess>Nice to hear your thoughts. I, for one, would certainly want to be stronger through exercising, so I wouldn't have to go to the hospital often.</benefitsuccess>
+        <benefitfailure>Perhaps you'll find a chance to think more, but I, for one, would certainly want to be stronger through exercising, so I wouldn't have to go to the hospital often.</benefitfailure>
+    </hw>
+    <hw id="16">
+        <assign>Ask two friends about their opinions of exercise. Record their opinions and pay attention to whether they are aware how exercise can be good for them.</assign>
+        <report>Have you talked to two of your friends about their opinions of exercise?</report>
+        <success>Describe their opinions, especially on how they think exercise can be good for them.</success>
+		<failure>Did something prevent you from speaking with your friends?</failure>
+        <benefitsuccess>You've done well. I asked my friends too, and their opinions are mixed. Listening to friends is one thing, and making your judgment about those opinions is also important.</benefitsuccess>
+        <benefitfailure>At least I can offer something on this topic. I asked my friends, and their opinions are mixed. Listening to friends is one thing, and making your judgment about those opinions is also important. </benefitfailure>
+    </hw>
+    <hw id="17">
+        <assign>Ask your co-workers, classmates or friends, and count how many of them are making exercise part of their regular life and write down how they think of it.</assign>
+        <report>Have you talked to co-workers, classmates or friends and count how many of them are making exercise part of their life?</report>
+        <success>Write down the number of people you know who have done that, and describe how they think about the lifestyle.</success>
+		<failure>Was there a reason that you couldn't speak with your co-workers, classmates or friends?</failure>
+        <benefitsuccess>Good job. I asked my friends too. Quite a few exercise, to my surprise. If I didn't ask them, I wouldn't know I'm surrounded by exercisers.</benefitsuccess>
+        <benefitfailure>I asked my friends. Quite a few exercise, to my surprise. If I didn't ask them, I wouldn't know I'm surrounded by exercisers. If you do ask around, you might be surprised too.</benefitfailure>
+    </hw>
+    <hw id="18">
+        <assign>Look in your neighborhood within 20 minutes of where you live and find out how many gyms there are. A simple way is to search for gyms on Google Maps.</assign>
+        <report>Have you looked for gyms in your neighborhood?</report>
+        <success>Write down how many gyms there are within 20 minutes of where you live.</success>
+		<failure>Did something prevent you from looking up this information?</failure>
+        <benefitsuccess>I'm glad you did it. I looked around my neighborhood and found several gyms too. I'm surprised I didn't know they existed before!</benefitsuccess>
+        <benefitfailure>I looked around my neighborhood and found several gyms. I'm surprised I didn't know they existed before! If you do the same, you might be surprised too!</benefitfailure>
+    </hw>
+    <hw id="19">
+        <assign>Pay a visit to the nearest park that you find safe. Take a walk and count roughly how many people you see running or doing sports there.</assign>
+        <report>Have you paid a visit to the nearest park and found out the number of people running or doing sports there?</report>
+        <success>Write down a rough estimate of the number of people running or doing sports in the park.</success>
+		<failure>Was there some reason that you couldn't visit the park?</failure>
+        <benefitsuccess>I'm glad you did it. I took a trip to my local park too. A lot of people there were just walking. That's exercise. You could do the same if you want to get started.</benefitsuccess>
+        <benefitfailure>Let me tell you what I did. I took a trip to my local park. A lot of people there were just walking. That's exercise. You could do the same if you want to get started.</benefitfailure>
+    </hw>
+    <hw id="20">
+        <assign>Think of three celebrities you like and look on the Internet to find out whether they advertised that they exercise.</assign>
+        <report>Have you looked on the Internet to find out whether three celebrities you like exercise or not?</report>
+        <success>Write down the names of the three celebrities and whether they exercise.</success>
+		<failure>Did something prevent you from looking up this information?</failure>
+        <benefitsuccess>Thanks for sharing. My favorite is Elvis Presley. He's new, yes, but he's a rising star. I don't know if he exercises, but I'd think he does. The guy looks fit. Perhaps you've heard of him too.</benefitsuccess>
+        <benefitfailure>Maybe you'll think of someone later. My favorite is Elvis Presley. He's new, yes, but he's a rising star. I don't know if he exercises, but I'd think he does. The guy looks fit. Perhaps you've heard of him too.</benefitfailure>
+    </hw>
+    <hw id="21">
+        <assign>Think about conditions you currently have or the doctors say you may have in the future, including things as trivial as an occasional back-pain. How will you feel differently if you exercise regularly? Ask around and search on the Internet to find your answer.</assign>
+        <report>Have you thought about what exercise can do for any of the conditions you currently have or are worried about having?</report>
+        <success>Write down what you have found.</success>
+		<failure>What was the reason that you didn't find the answer?</failure>
+        <benefitsuccess>I'm glad you told me. Often I hear my friends complain to me about these things too. Some of them managed to get better through exercising. It's an important thing to keep in mind.</benefitsuccess>
+        <benefitfailure>If you ask me, I hear my friends complain to me about their conditions sometimes. Some of them managed to get better through exercising. It's an important thing to keep in mind.</benefitfailure>
+    </hw>
+    <hw id="22">
+        <assign>Take some time to imagine that you are exercising regularly. Write down whether you think it will make you healthier and how.</assign>
+        <report>Have you given some thoughts to whether you will be healthier if you exercised regularly?</report>
+        <success>Write down what you think.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+        <benefitsuccess>Glad to hear. I'd say if you exercise you'll likely become healthier. Just don't hurt yourself.</benefitsuccess>
+        <benefitfailure>I'd say if you exercise you'll likely become healthier. Just don't hurt yourself. But that's just me. You should think for yourself.</benefitfailure>
+    </hw>
+    <hw id="23">
+        <assign>Take some time to imagine that you are exercising regularly. Write down whether you think it will make you happier and how.</assign>
+        <report>Have you given some thoughts to whether you will be happier if you exercised regularly?</report>
+        <success>Write down what you think.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+        <benefitsuccess>Good to know. Me? I think some exercise can make you happy. It makes you sleep better. It makes you motivated.</benefitsuccess>
+        <benefitfailure>I sure think some exercise can make you happy. It makes you sleep better. It makes you motivated. But you might have your own ideas. Think about it some time.</benefitfailure>
+    </hw>
+    <hw id="24">
+        <assign>Take some time to imagine that you are exercising regularly. Write down whether you think it will make you more confident and how.</assign>
+        <report>Have you given some thoughts to whether you will be more confident if you exercised regularly?</report>
+        <success>Write down what you think.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+        <benefitsuccess>That's nice. Exercise makes you more focused, and when you finish exercising, you have a sense of achievement. That's why I think it makes you more confident.</benefitsuccess>
+        <benefitfailure>From what I know, exercise makes you more focused, and when you finish exercising, you have a sense of achievement. That's why I think it makes you more confident. But you should put some thoughts into it yourself.</benefitfailure>
+    </hw>
+    <hw id="25">
+        <assign>Take some time to meditate quietly, think about and write down how you will feel differently if you exercise regularly as compared to if you don't.</assign>
+        <report>Have you taken some time to meditate and think about how you will feel differently if you exercise regularly as compared to if you don't?</report>
+        <success>Write down what you think will be different.</success>
+		<failure>Was there some reason that you couldn't think about this topic?</failure>
+        <benefitsuccess>Good to hear. I meditate sometimes too. Why, can't I meditate? It helps you concentrate and think about things. Exercise or not, the lifestyle makes a huge difference in you.</benefitsuccess>
+        <benefitfailure>Well, try it some time. I meditate when I feel like to. Why, can't I meditate? It helps you concentrate and think about things. Exercise or not, the lifestyle makes a huge difference in you.</benefitfailure>
+    </hw>
+    <hw id="26">
+        <assign>Recall how many times you have gone for a walk last week. Try to take a walk today or tomorrow for more than 30 minutes, and think about whether you can increase the number of days you walk in the next week.</assign>
+        <report>Do you think you can, in the next week, increase the number of days you walk, compared to last week?</report>
+        <success>Are there certain time spots you can use to fit in more walking? Write down a few simple words.</success>
+		<failure>What stopped you from taking a walk, or would stop you from walking more in the future?</failure>
+        <benefitsuccess>Good job! That's the way to get yourself to exercise more: increase it slightly once in a while. A lot of people think they can run a marathon on their first day, but that makes you give up quickly. Increase your goal slightly, and see how it goes.</benefitsuccess>
+        <benefitfailure>Perhaps you can try this when you get a chance: increase the amount of your exercise slightly once in a while. A lot of people think they can run a marathon on their first day, but that makes you give up quickly. </benefitfailure>
+    </hw>
+    <hw id="27">
+        <assign>Recall your feelings when you went for a walk even though you didn't want to. Write down what you did then and think about if you can use the same techniques to keep exercising in the future.</assign>
+        <report>Have you written down a few tips on how you can go out for a walk even if you don't want to?</report>
+        <success>Write down these tips that you can use in the future.</success>
+		<failure>What was the reason that you couldn't reflect on or write down this experience?</failure>
+        <benefitsuccess>Nice to hear that. Do you feel there was tension in yourself, when you struggled to do it when your body did not want to? I've certainly felt that, and that's exactly how we make progress.</benefitsuccess>
+        <benefitfailure>Well let me tell you something. There was tension in myself, when I struggled to do it when my body did not want to, but that is exactly how we grow. Try it when you have a chance.</benefitfailure>
+    </hw>
+    <hw id="28">
+        <assign>Think of one time when you struggled and succeeded throughout your life. Write down the feelings you had and how you can use the same thoughts to encourage yourself to exercise even when you don't want to.</assign>
+        <report>Have you reflected on your success experience before and written down how you could do the same with exercise?</report>
+        <success>Write down your feelings during the success experience and how they could help you succeed in exercising regularly.</success>
+		<failure>What was the reason that you couldn't reflect on or write about this?</failure>
+        <benefitsuccess>Thanks for sharing! I can recall many things that I struggled with before and succeeded. All you need was the first success in your life, and you can think about it every time you encounter a problem. You'd know success will be yours.</benefitsuccess>
+        <benefitfailure>Well, this reminds me of something though. I can recall many things that I struggled with before and succeeded. All you need was the first success in your life, and you can think about it every time you encounter a problem. You'd know success will be yours.</benefitfailure>
+    </hw>
+    <hw id="29">
+        <assign>Look on the Internet for blog posts or articles about how to overcome difficulties when exercising.</assign>
+        <report>Have you looked on the Internet for blog posts or articles about how to overcome difficulties when exercising?</report>
+        <success>Write down the barriers you think are the most difficult to deal with when exercising and the solutions these Internet articles offer.</success>
+		<failure>Did something prevent you from looking this up?</failure>
+        <benefitsuccess>I'm glad to hear you've found solutions to these problems. The one I heard most about is time. We all need time, yes, but the time spent on exercise is well spent, and we can always schedule things around so exercise becomes less time consuming.</benefitsuccess>
+        <benefitfailure>The one I heard most about is time. We all need time, yes, but the time spent on exercise is well spent, and we can always schedule things around so exercise becomes less time consuming. Look it up for yourself when you can.</benefitfailure>
+    </hw>
+    <hw id="30">
+        <assign>Think about an exercise goal you want to reach by the end of the year. Make it a New Year's resolution and write down a plan to reach your goal step by step.</assign>
+        <report>Have you thought about an exercise goal you could use as a New Year's resolution and made plans to reach the goal?</report>
+        <success>Write down the goal and how you plan to reach it step by step.</success>
+		<failure>Was there something that stopped you from setting a goal or making plans for it?</failure>
+        <benefitsuccess>Good to know. Make realistic goals. My New Year's resolution? I want world peace, but that's not quite realistic.</benefitsuccess>
+        <benefitfailure>Understandable, but it's still a long time to New Year. Think about it when you have a chance. My New Year's resolution? I want world peace, but that's not quite realistic.</benefitfailure>
+    </hw>
+    <hw id="31">
+        <assign>Recall all the research you've done about exercise. Take action now! Take a walk for 10 minutes when you can if you don't exercise currently. Walk a bit longer if you already started walking. </assign>
+        <report>Have you taken your first walk or walked a bit longer than before?</report>
+        <success>Please write down the number of minutes you walked. Give a rough estimate if you did not time the walk.</success>
+		<failure>Was there something that prevented you from walking or from walking a bit more than you already do?</failure>
+        <benefitsuccess>Good to know. Of course, this is just to get you started if you haven't already. Increase your goal gradually, and you might find yourself exercising a whole lot more in a couple of months.</benefitsuccess>
+        <benefitfailure>Try it once when you can. This is just to get you started if you haven't already. Take small steps, and quite literally. You might find exercising not much big of a deal.</benefitfailure>
+    </hw>
+    <hw id="32">
+        <assign>Recall the last time you went for a walk. Think about and write down how you can walk a bit longer next time. </assign>
+        <report>Have you given some thoughts to how you can walk or do other types of moderate intensity exercise a bit longer than you did last time?</report>
+        <success>Please write down what you plan to do next time to help yourself exercise a bit more.</success>
+		<failure>Was there something that prevented you from reflecting on your previous exercise experience and making plans for the future?</failure>
+        <benefitsuccess>Excellent! Look back and reassess your progress once in a while. When you feel comfortable, increase your amount of exercise periodically. You'll find yourself progressing very fast.</benefitsuccess>
+        <benefitfailure>If you do get a chance later, when you exercise somewhat regularly, look back and reassess your progress once in a while. When you feel comfortable, increase your amount of exercise periodically. You'll find yourself progressing very fast.</benefitfailure>
+    </hw>
+    <hw id="33">
+        <assign>Think of a friend who can help you with exercising. Tell the friend about the difficulties you've faced when trying to exercise. Write down what your friend thinks you could do to solve these difficulties.</assign>
+        <report>Have you asked a friend about what he or she thinks you could do to solve the difficulties you've faced when trying to exercise?</report>
+        <success>Please briefly write down their ideas.</success>
+		<failure>Was there some reason that you couldn't talk to a friend who could give you advice on exercising?</failure>
+        <benefitsuccess>Interesting. I know, for sure, that friends are a good source of motivation to keep you doing something you've determined to do. Nothing is better than a friend's encouragement and ideas to deal with problems in your journey. Make good use of them.</benefitsuccess>
+        <benefitfailure>Friends are a good source of motivation to keep you doing something you've determined to do. Nothing is better than a friend's encouragement and ideas to deal with problems in your journey. Take some time to consult them when you can, and make good use of them.</benefitfailure>
+    </hw>
+    <hw id="34">
+        <assign>Find a friend you can rely on to report to them your exercise progress and your exercise goals every week. Ask them to encourage you to set higher goals if you meet your previous goals, and to give you feedback and motivate you if you don't meet your goals. If you haven't started exercising yet, this is a good way to start!</assign>
+        <report>Have you asked a friend whether they could help you monitor your exercise progress and set higher goals for you?</report>
+        <success>Please briefly write down your cooperation plan.</success>
+		<failure>Was there some reason that you couldn't find a friend to monitor your exercise progress?</failure>
+        <benefitsuccess>Sounds like a plan! Friends you can rely on are very important for overcoming difficulties, and in this case, for making exercise a habit. Like in a war, you'd only count on the people you fight side by side.</benefitsuccess>
+        <benefitfailure>Friends you can rely on are very important for overcoming difficulties, and in this case, for making exercise a habit. Like in a war, you'd only count on the people you fight side by side, so take a chance to ask your friends about it.</benefitfailure>
+    </hw>
+    <hw id="35">
+        <assign>Talk to someone you know who exercises regularly. Ask them how they exercise differently from you, or how they think you should exercise, and write down what they say. </assign>
+        <report>Have you talked to someone you know who exercises regularly and listened to how they exercise differently from you?</report>
+        <success>Please briefly write down how their way of exercising differs from yours.</success>
+		<failure>Was there some reason that you couldn't talk to someone who exercises?</failure>
+        <benefitsuccess>Interesting. Even if you and your friend are doing the same thing, you might still do it slightly differently. It's always good to hear from your friends whether they have tricks to make things easier.</benefitsuccess>
+        <benefitfailure>You might want to do this some time in the future. Even if you and your friend are doing the same thing, you might still do it slightly differently. It's always good to hear from your friends whether they have tricks to make things easier.</benefitfailure>
+    </hw>
+    <hw id="36">
+        <assign>Ask your friends whether they can exercise with you. Even if it's only once a week, schedule a time to work out together with a friend and make it a habit.</assign>
+        <report>Have you asked whether some of your friends can exercise with you?</report>
+        <success>Please briefly write down your plan to exercise together with your friends.</success>
+		<failure>Was there some reason that you couldn't talk to someone who can exercise with you?</failure>
+        <benefitsuccess>Glad to hear. When I wanted to do something, anything, fun or boring, I'd always love to drag my friends along. That makes things just so much more fun.</benefitsuccess>
+        <benefitfailure>When I wanted to do something, anything, fun or boring, I'd always love to drag my friends along. That makes things just so much more fun. So maybe you could try exercising with your friend some time too.</benefitfailure>
+    </hw>
+    <hw id="37">
+        <assign>Think of how you and your exercise partner work out differently. Share a tip with them that can make the two of you exercise better together. If you don't have an exercise partner yet, talk to your friends and see if they would exercise with you once a week.</assign>
+        <report>Have you shared tips with your exercise partner or talked to friends about working out together yet?</report>
+        <success>Please briefly write down the tips you shared or the plan you've made with a potential exercise partner.</success>
+		<failure>Was there some reason that you couldn't talk to and share ideas with someone who can exercise with you?</failure>
+        <benefitsuccess>Thanks for sharing. I always find myself having different methods or opinions from my friends whatever we do. But these are good opinions to hear. The differences make us reflect on what we do and make it better.</benefitsuccess>
+        <benefitfailure>I always find myself having different methods or opinions from my friends whatever we do. But these are good opinions to hear. The differences make us reflect on what we do and make it better. Talk to your friends and find out, and you might be surprised.</benefitfailure>
+    </hw>
+    <hw id="38">
+        <assign>In the afternoon or after work, today or tomorrow, when you feel tired, instead of drinking coffee or relaxing when sitting down or lying in bed, take a walk and describe if that makes you feel better.</assign>
+        <report>Have you tried taking a walk instead of drinking coffee or taking a nap last time when you felt tired, or at least thought about it?</report>
+        <success>Please describe how you felt when you took the work when you were tired, or when you thought about going for a walk when you would be tired. Did it make you feel better or more tired?</success>
+		<failure>Was there some reason that you couldn't take a walk when you were tired last time?</failure>
+        <benefitsuccess>Thanks for sharing. Do I feel tired? Of course I do. Sometimes I just feel like grabbing a coffee. That's the easy fix. But if you could take a walk instead, I found, it makes you feel so much better.</benefitsuccess>
+        <benefitfailure>You should try this. I definitely tried. Of course I did! Sometimes I just feel like grabbing a coffee. That's the easy fix. But if you could take a walk instead, I found, it makes you feel so much better.</benefitfailure>
+    </hw>
+    <hw id="39">
+        <assign>You may feel tired before going to exercise. Today or tomorrow you feel this way, tell yourself to go exercising anyway. Find out if that would make you feel better exercising. Even if you won't feel tired, still try to rehearse it.</assign>
+        <report>Have you tried telling yourself to go exercising even when you were tired, or rehearsing the situation even if you didn't really feel tired?</report>
+        <success>Please describe how you felt when you did that.</success>
+		<failure>Did something prevent you from telling yourself to exercise when you were tired or rehearsing the situation?</failure>
+        <benefitsuccess>Nice to hear. It applies to many things, doesn't it? When I needed to work, I often felt tired, but if I just stayed awake a little bit longer, I'd get more energetic. Not saying you should do it too often for work though.</benefitsuccess>
+        <benefitfailure>You should definitely try this for yourself. It applies to many things, too. When I needed to work, I often felt tired, but if I just stayed awake a little bit longer, I'd get more energetic. Not saying you should do it too often for work though.</benefitfailure>
+    </hw>
+    <hw id="40">
+        <assign>Today or tomorrow, when you want to relax by watching TV, browsing the Internet, eating snacks, or doing something else you usually did for relaxing, take a walk instead and see if that makes you feel better.</assign>
+        <report>Have you tried taking a walk instead of doing other things for relaxing?</report>
+        <success>Please describe how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+        <benefitsuccess>Interesting. This is all about self-restraint all right. When you set a goal for yourself, you just have to overcome all the obstacles and do it.</benefitsuccess>
+        <benefitfailure>Changing habits is no easy task. This is all about self-restraint all right. When you set a goal for yourself, you just have to overcome all the obstacles and do it. Try it some time.</benefitfailure>
+    </hw>
+    <hw id="41">
+        <assign>Next time when you are stressed or don't know what to do with your work or study, go for a walk. If this hasn't happened lately, think about the last time you were stressed out and how taking a walk would have helped.</assign>
+        <report>Have you tried taking a walk when you were stressed or thinking about how walking would have helped when you were stressed out last time?</report>
+        <success>Please describe how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+        <benefitsuccess>I appreciate your sharing. Sometimes I like to take a walk, because things can get pretty stressful around here. Don't think I don't get stressed. All right? Your mind gets refreshed too.</benefitsuccess>
+        <benefitfailure>Try it whenever you have a chance. Sometimes I like to take a walk, because things can get pretty stressful around here. Don't think I don't get stressed. All right? Your mind gets refreshed too.</benefitfailure>
+    </hw>
+    <hw id="42">
+        <assign>Today or tomorrow, when you need to take a bus or drive somewhere, plan some extra time and get off the bus or park your car further away from your destination. Walk an extra block or two. Remember how you feel when you do that.</assign>
+        <report>Have you tried walking an extra mile or two when you took a bus or drove somewhere?</report>
+        <success>Please describe briefly how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+        <benefitsuccess>I'm glad you did. Come to think about it, maybe my being fit has something to do with the fact that I always walk home. It wasn't a short trip, but I do it everyday. It's a nice walk anyway.</benefitsuccess>
+        <benefitfailure>Come to think about it, maybe my being fit has something to do with the fact that I always walk home. It wasn't a short trip, but I do it everyday. It's a nice walk anyway. Try it out for yourself. Stay safe.</benefitfailure>
+    </hw>
+    <hw id="43">
+        <assign>After you take a walk next time, today or tomorrow, tell yourself that you've done a good job. Remember how you feel when you do that.</assign>
+        <report>Have you told yourself you did a good job when you took a walk?</report>
+        <success>Please describe briefly how you felt when you did that.</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+        <benefitsuccess>It's nice that you did. Whenever I accomplish something hard, I tell myself that I could do anything. ANYTHING! That makes me feel like going up against tougher challenges next time.</benefitsuccess>
+        <benefitfailure>You got to try this some time. Whenever I accomplish something hard, I tell myself that I could do anything. ANYTHING! That makes me feel like going up against tougher challenges next time.</benefitfailure>
+    </hw>
+    <hw id="44">
+        <assign>After you take a walk today or tomorrow, pay attention to your mood and remember how you feel.</assign>
+        <report>Have you paid attention to your mood when you walked last time?</report>
+        <success>Please describe briefly your mood. Did walking make you feel happier, sadder, more relaxed, etc.?</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+        <benefitsuccess>Thanks for sharing. Most of the time I'm joyful when I walk. Sometimes I get a bit upset, and go for a walk. In a few minutes I'll get better. That's science.</benefitsuccess>
+        <benefitfailure>You should give it a try. Most of the time I'm joyful when I walk. Sometimes I get a bit upset, and go for a walk. In a few minutes I'll get better. That's science.</benefitfailure>
+    </hw>
+    <hw id="45">
+        <assign>After you take a walk today or tomorrow, if you meet your walking goal, treat yourself with frozen yogurt, cook yourself something nice, or get yourself a gift that you wanted to have for a long time. You can do this on a weekly basis if you like it.</assign>
+        <report>Have you treated yourself with a healthy snack, cooked yourself something nice, or got yourself a gift when you met your walking goal?</report>
+        <success>What did you do for yourself and how did you feel liking doing it in the future on a weekly basis?</success>
+		<failure>Was there some reason that you couldn't try this out?</failure>
+        <benefitsuccess>That's interesting to hear! Do I reward myself? Of course, sometimes I cook myself a delicious meal after achieving something important. Makes me feel awesome!</benefitsuccess>
+        <benefitfailure>Oh, try it out for once. It makes you feel good. Do I reward myself? Of course, sometimes I cook myself a delicious meal after achieving something important.</benefitfailure>
+    </hw>
+    <hw id="46">
+        <assign>Ask your exercise partner to help each other with exercise goals today or tomorrow. If one of you don't meet your goal, this person needs to give the other person a small gift, maybe a meal, or a book.</assign>
+        <report>Have you talked to your exercise partner about helping each other with your exercise goals by giving each other gifts if you don't meet your exercise goals?</report>
+        <success>How does your exercise partner like it, and what will you give as your first gift if you don't meet your goal?</success>
+		<failure>Did something prevent you from talking to your exercise partner about this?</failure>
+        <benefitsuccess>Glad you shared it with me. I do it with my friends too. If I promise something and can't do it, I owe them something, just for fun. Even as an atomic commando, they don't pay me that much to buy expensive things.</benefitsuccess>
+        <benefitfailure>Consider it when you have a chance. I do it with my friends. If I promise something and can't do it, I owe them something, just for fun. Even as an atomic commando, they don't pay me that much to buy expensive things.</benefitfailure>
+    </hw>
+    <hw id="47">
+        <assign>Think of something you'd like to do to relax, such as watching movies, reading books or playing video games. Do these things only after you finish your exercise goal today or tomorrow.</assign>
+        <report>Have you practiced doing things you'd like to do to relax, such as watching movies, reading books or playing video games only after you've met your exercise goal?</report>
+        <success>How did you feel about it and will you continue to do it?</success>
+		<failure>Was there some reason you couldn't try this out?</failure>
+        <benefitsuccess>Glad to hear that. Me? I listen to Dean Martin when I want to relax. He is the king of cool. You should try it some time!</benefitsuccess>
+        <benefitfailure>I listen to Dean Martin when I want to relax. He is the king of cool. You should try it some time!</benefitfailure>
+    </hw>
+    <hw id="48">
+        <assign>Put on special clothes suitable for exercising when you go for a walk today or tomorrow. Find out where you can buy these clothes if you don't have them yet, and put them where you can easily see and access if you do.</assign>
+        <report>Have you looked at where you can get exercising clothes or have you started wearing these clothes and put them where you can easily see and access?</report>
+        <success>Write down briefly when and where you plan to buy these clothes, or where you've decided to put them.</success>
+		<failure>Was there something that prevented you from finding these clothes, wearing them, or finding a place to put them?</failure>
+        <benefitsuccess>I'm glad you did it. Just like a fighter needs to put on his uniform to go to battle, exercise clothes will make your workout experience so much more enjoyable.</benefitsuccess>
+        <benefitfailure>Just like a fighter needs to put on his uniform to go to battle, exercise clothes will make your workout experience so much more enjoyable. Try it when you get a chance.</benefitfailure>
+    </hw>
+    <hw id="49">
+        <assign>Put your exercise equipment, such as walking shoes, dumbbells, and gym membership cards, somewhere you can easily see, perhaps near your TV or computer.</assign>
+        <report>Have you put your exercise equipment, such as walking shoes, dumbbells, and gym membership cards, somewhere you can easily see?</report>
+        <success>Write down where you put these things and whether this made your workout more convenient.</success>
+		<failure>Was there something that prevented you from rearranging your equipment?</failure>
+        <benefitsuccess>Good to know. Sometimes I really don't want to do something, such as work. Don't be surprised, I hate work sometimes. But I'll write down a note to remind myself I have things to do. It helps keep me motivated.</benefitsuccess>
+        <benefitfailure>This method can be efficient in many ways. Sometimes I really don't want to do something, such as work. Don't be surprised, I hate work sometimes. But I'll write down a note to remind myself I have things to do. It helps keep me motivated. Try it for yourself.</benefitfailure>
+    </hw>
+    <hw id="50">
+        <assign>Keep your walking clothes clean. Schedule your laundry frequently so you always have clean clothes when you want to exercise. Write down your revised laundry schedule.</assign>
+        <report>Have you walked through your laundry schedule to make sure you always have clean walking clothes?</report>
+        <success>Write down your revised laundry schedule and how you worked it out.</success>
+		<failure>Was there something that prevented you from scheduling your laundry?</failure>
+        <benefitsuccess>Ha. Nice! Not to mention exercise, without clean clothes, I don't even want to go anywhere!</benefitsuccess>
+        <benefitfailure>See if you can make the schedule some time in the future. Not to mention exercise, without clean clothes, I don't even want to go anywhere!</benefitfailure>
+    </hw>
+    <hw id="51">
+        <assign>Mark when you plan to exercise on your calendar. If you use a calendar on your computer or your phone, set an alarm to remind yourself it is time to exercise.</assign>
+        <report>Have you marked your exercise slot on your calendar, or set up alarms to remind yourself of exercise?</report>
+        <success>Write down the time slots you marked on your calendar and how you set up these alarms.</success>
+		<failure>Was there something that prevented you from marking your calendar or setting your alarms?</failure>
+        <benefitsuccess>Glad to hear that. Our memories are highly unreliable, just like you've lost yours. Writing things down will help us remember what we might forget. It's also a promise you got to keep to yourself.</benefitsuccess>
+        <benefitfailure>Our memories are highly unreliable, just like you've lost yours. Writing things down will help us remember what we might forget. It's also a promise you got to keep to yourself, so try it out. It might help you exercise.</benefitfailure>
+    </hw>
+    <hw id="52">
+        <assign>Put your favorite music on your phone and listen to them when you take a walk next time, but be careful to walk in a safe environment and make sure you are aware of traffic when doing so.</assign>
+        <report>Have you managed to put your favorite music on your phone and listen to them when you took a walk?</report>
+        <success>Write down whether you feel it made your walk more pleasant, or whether you encountered issues when doing so.</success>
+		<failure>Was there some reason that made you decide to not do it?</failure>
+        <benefitsuccess>Thanks for sharing. Not only for walking, I put on a little music when I work or drive. If something gets a bit boring, music always helps distract you so you can finish the job.</benefitsuccess>
+        <benefitfailure>Find a chance to try this out. Not only for walking, I put on a little music when I work or drive. If something gets a bit boring, music always helps distract you so you can finish the job.</benefitfailure>
+    </hw>
+</data>

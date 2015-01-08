@@ -1,0 +1,3 @@
+ind-champ.jpg	0	0	-20	-900	1.2
+What's so difficult about it? I don't get it. Something's gonna happen to us, something bad. You better hurry up with your progress if you wanna help, $getusername!	330	10	250	100
+END

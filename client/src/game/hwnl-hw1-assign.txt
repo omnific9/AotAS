@@ -1,0 +1,11 @@
+white.jpg	0	0	0	0	1.2
+PLAYMUSIC	NONE
+Welcome to the personalized physical activity homework program. Here you will receive homework assignments tailored to your behavior change process. When you're done reading a message like this, left click your mouse or hit Enter on your keyboard to continue.	100	20	600	100
+You may choose to accept or reject a homework assignment. You may click on a menu item that will appear on the screen to make your choice. When you are ready, left click your mouse to receive your first homework assignment.	100	20	600	100
+FUNC	preparehomework()
+SET	curhwid	1
+Your homework for today: $hwassign	100	20	600	100
+MENU	 	2
+I accept.	You have accepted the homework!	curhw	ongoing
+I reject.	You have rejected the homework.	curhw	rejected
+END

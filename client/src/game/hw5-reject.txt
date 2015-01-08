@@ -1,0 +1,11 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+The $getusername I used to know would not reject a mission $heorshe could accomplish. Let me give you a different mission then.	210	10	340	100
+$hwmotivate	210	10	340	100
+Your mission: $hwassign	210	10	340	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

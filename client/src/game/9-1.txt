@@ -1,0 +1,25 @@
+9-1.jpg	0	-20	0	-260	1.2
+PLAYMUSIC	REGULAR
+The atomic commandos were safe now -- and free to proceed with their mission -- to scout out atomic activity on the Moon and do what they could to delay it! It called for an intensive search -- but finally they saw, far below them --
+Look down there! Signs of activity -- and it doesn't look like a Moonmen's city! Ten to one -- we've found it!	420	20	200	100
+FRAME	-720	-220	1.20
+Now it was time for Dr. Blake to put into operation one of his greatest inventions -- a televisor screen to which distance was no barrier --
+Look at the uniforms! It's the GRU! Something important must be going on -- I wish there were some way of picking it up!	40	10	250	100
+There is a way! Jonnie! Got a job for you and your telepathor!	440	10	300	100
+FRAME	-10	-890	1.2
+Once again, the strange device paid off --
+Our tests have been successful -- why delay any longer? On my own responsibility, I shall launch the first H-Bomb from out of space! It will be discharged automatically within 4 hours -- killing millions of Americans!	120	30	320	100
+FRAME	-430	-990	1.20
+That put it squarely up to the atomic commandos! Somehow -- they must defeat this awful menace! Silently, under cover of night, they landed near the GRU's walled city...
+But -- but I gotta go with you! Gosh, I feel like -- like I've earned it!	160	10	150	100
+No, Jonnie -- you can't come! And just so you don't get lonesome -- supposing you use your telepathor and Doc's television screen, just to keep in touch!	400	10	200	100
+FRAME	-750	-840	1.20
+Didn't it make you feel like -- well, like a heel -- making him stay behind after what he's done for us, Bill?	360	10	120	100
+I'll say it did! But I knew what I was doing! I've got a feeling we're going to need somebody on the outside -- and Jonnie's elected!	540	10	170	100
+FRAME	-30	-1630	1.20
+Cautiously, cautiously up to the gates -- careful you're not seen! Stalk the guards -- then strike! Careful -- any outcry at this stage would spoil things --
+Good work -- I don't think anyone heard --	310	10	300	100
+FRAME	-710	-1560	1.20
+I don't get it! What's the idea -- what are you buryin'?	170	10	200	100
+Just a little gadget I got Doc to fix up for me! We may need it later!	450	10	300	100
+END

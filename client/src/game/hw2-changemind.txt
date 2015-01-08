@@ -1,0 +1,9 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+FUNC	preparemotivation()
+$hwmotivate	150	20	370	100
+So will you reconsider it?. 	150	20	370	100
+Your mission: $hwassign	150	20	370	100
+MENU	 	2
+Accept	You have accepted the mission!	curhw	ongoing
+Reject	You have rejected the mission.	curhw	rejected
+END

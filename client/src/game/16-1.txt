@@ -1,0 +1,8 @@
+16-1.jpg	0	0	0	-1530	1.2
+PLAYMUSIC	BATTLE
+Somewhere in the icy wilderness of the Antarctic continent, a towering molten jet roared upward... carrying with it a fleet of strange craft!
+FRAME	-710	-1530	1.20
+Quickly, the flashing spheres gained altitude! Their red-hot surfaces cooled in the icy air... and they levelled off in an ominous formation...
+The launch of these spheres released a stream of shockwaves, but in the atomic submarine, only the slightest of these waves had been caught. 
+SET	connphrase	While the atomic sub crew was analyzing the unusual wavelength, 
+END

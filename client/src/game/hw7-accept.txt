@@ -1,0 +1,5 @@
+ind-bill.jpg	0	0	-700	-100	1.2
+Completing your mission is very important for us. Make sure you report back tomorrow.	210	10	340	100
+Now that that's settled, let's see how far away...	210	10	340	100
+As Bill looked outside the window of the atomic sub, he saw a red Moon, and also messengers of hostility!
+END

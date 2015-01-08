@@ -1,0 +1,3 @@
+white.jpg	0	0	0	0	1.2
+It is important to complete your homework. Please come back tomorrow to report your progress!	100	20	600	100
+END

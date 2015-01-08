@@ -1,0 +1,12 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	clearmotivation()
+In the atomic sub, at the same time, Bill and David were getting ready for their infiltration mission.
+We're ready to go and acquire some intelligence from the heart of enemy territory now. Before we leave, my friend $getusername, are you ready for another mission?	140	20	500	100
+FUNC	preparehomework()
+SET	curhwid	19
+SET	hwchar	bill
+Your mission: $hwassign	140	20	500	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

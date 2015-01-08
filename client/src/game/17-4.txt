@@ -1,0 +1,18 @@
+17-4.jpg	0	0	0	-190	1.2
+A hundred miles from the south pole, Champ picked up Bill's flash...
+Nothing new, Bill... but I'm out here in a jet glider scouting two hours for the sub's anchorage! Keep contact... might be another formation coming along any time now!	160	20	250	100
+FRAME	-400	-160	1.20
+That crater isn't mere accident! There's a chance it marks where a meteor hit... or it could be what I'm looking for!	220	10	350	100
+FRAME	-750	-200	1.20
+Then... with a sudden violence that came close to tearing the plane apart...
+Another shock wave... directly below!	440	70	150	100
+FRAME	-30	-920	1.2
+In the next split second, it happened... The fiery column roaring up from the ice in a molten rush... carrying a dozen Antarc spheres with it... rising red-hot from the seething crater!
+FRAME	-750	-940	1.20
+No plane ever designed could elude the velocity of the flaming spheres! There was a splintering impact of metal against metal... as two of the spheres and the atomic plane met head-on!
+FRAME	0	-1650	1.20
+As Bill plummeted clear, one soul-chilling glance told him that he was not falling alone... that something bright and pointed was spiralling with him toward the Antarctic ice...
+The atomic shell!	420	20	120	100
+FRAME	-590	-1500	1.20
+The most terrible weapon of the atomic age fell in a plunge that threatened destruction for everything within a radius of a thousand miles!
+END

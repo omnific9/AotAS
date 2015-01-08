@@ -1,0 +1,13 @@
+ind-bill.jpg	0	0	0	-100	1.2
+FUNC	clearmotivation()
+It's possible we're losing contact with Jonnie any time. Let's hope the telepathor works as well as we need. Sorry that I haven't been around a lot. 	140	20	500	100
+FRAME	-700	-100	1.2
+FUNC	preparehomework()
+SET	curhwid	13
+SET	hwchar	bill
+While we discuss what we should do about that Chinese submarine, let me give you today's mission.	220	20	340	100
+Your mission: $hwassign	220	20	340	100
+MENU	 	2
+Yes	You have accepted the mission!	curhw	ongoing
+No	You have rejected the mission.	curhw	rejected
+END

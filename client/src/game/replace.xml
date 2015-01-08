@@ -1,0 +1,13 @@
+<data>
+    <file name="hw1-fail">
+        <req prehwid="1" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="hw2-fail">
+        <req prehwid="2" prehw="failure"/>
+        <follow>foreshadowing</follow>
+    </file>
+    <file name="10-6-alt">
+        <req tonyending="injured" day="10"/>
+    </file>
+</data>

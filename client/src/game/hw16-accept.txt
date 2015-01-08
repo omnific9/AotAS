@@ -1,0 +1,4 @@
+ind-jonnie.jpg	0	0	0	-120	1.2
+I bet the person in front of the screen is learning a lot from playing this game, with all the missions you've accomplished. When this is all over, I bet you'll find yourself having learned so much.	200	2	420	100
+Anyway, completing your mission is very important for us. Make sure you report back tomorrow.	200	2	420	100
+END

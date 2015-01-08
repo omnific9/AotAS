@@ -1,0 +1,9 @@
+<data>
+    <file name="hwnl-hw20-check">
+    </file>
+    <file name="hwnl-hw20-success">
+        <req prehw="success"/>
+    </file>
+    <file name="hwnl-endofgame">
+    </file>
+</data>

@@ -1,0 +1,12 @@
+ind-bill.jpg	0	0	0	-100	1.2
+$connphrase Bill approached you and greeted you rather formally.
+I seldom checked on you since you came on board, $getusername. How's everything working out for you?	140	20	500	100
+You seem to be doing quite well with your missions lately. Looks like you're quickly becoming the $manorwoman I used to know!	140	20	500	100
+FRAME	-640	-800	1.2
+Have you recalled anything from eight years ago yet? We were at Hiroshima, and I believe to this day that you saved my life there, and I owe you mine.	120	10	150	100
+Well, I'm sure you'll remember soon, once your training here is complete, in only a few days in real life... I mean... from the perspective of the person playing this game.	120	10	150	100
+SETSOUND	success.mp3
+A special team designed these missions for you. And I'm confident that these missions will not only help you, but also help us all. I was told so anyway. But if you're ever in trouble, I'm here.	120	10	150	100
+Bill is starting to reveal himself to you. Complete more missions to become closer to him.
+SET	bill-transition	1
+END

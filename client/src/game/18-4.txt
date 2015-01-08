@@ -1,0 +1,22 @@
+18-4.jpg	0	0	0	-190	1.2
+The deadly spheres would never range the skies again... but the Antarc empire itself remained intact!
+That's their laval jet chamber, Jonnie, which uses molten rock from the center of the Earth to blast the spheres up through the ice!	200	10	380	100
+So far, the Antarcs don't seem aware that we're down here!	520	140	180	100
+FRAME	-750	-190	1.20
+Cautiously, the four pressed forward... when a muffled rumble froze them in their tracks! Then... from a camouflaged fortress...
+The world-men are here! Blast them apart with your pressure guns!	440	10	200	100
+FRAME	0	-910	1.2
+The first volley should have snuffed them out in a flash... but it never came!
+The guns are bewitched! They will not fire!	110	20	120	100
+I could have told them that, jonnie! The pressure for thsoe guns was activated by radio waves, and we've destroyed the transmitter!	350	20	140	100
+FRAME	-370	-910	1.20
+But the Antarcs had found many uses for the laval heat drawn from the center of the Earth...
+Flamethrowers! Quick... back to the sub!	220	10	200	100
+FRAME	-750	-900	1.20
+Watch out... Two of 'em got here ahead of us!	570	190	150	100
+FRAME	0	-1620	1.20
+In a headlong leap, Champ made the deck, and in the next instant, both Antarcs left it!
+FRAME	-710	-1660	1.20
+But now a howling mass of Antarcs bore down on the sub with molten streaks hissing from their flame-weapons! It was a heat drawn from the seething core of the Earth, and Bill knew that not even the secret alloy of the sub's hull could withstand it!
+Inside! If we're ever going to fire the atomic supershell, it better be now!	430	20	250	100
+END

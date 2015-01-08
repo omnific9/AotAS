@@ -1,0 +1,44 @@
+<data>
+    <char name="bill">
+        <consistency id="1">In this case, let me see...</consistency>
+        <socialproof id="1">In this case, let me see...</socialproof>
+        <liking id="1">In this case, let me see...</liking>
+        <authority id="1">In this case, let me see...</authority>
+        <scarcity id="1">In this case, let me see...</scarcity>
+    </char>
+    <char name="champ">
+        <consistency id="1">In this case, let me see...</consistency>
+        <socialproof id="1">In this case, let me see...</socialproof>
+        <liking id="1">In this case, let me see...</liking>
+        <authority id="1">In this case, let me see...</authority>
+        <scarcity id="1">In this case, let me see...</scarcity>
+    </char>
+    <char name="edwin">
+        <consistency id="1">In this case, let me see...</consistency>
+        <socialproof id="1">In this case, let me see...</socialproof>
+        <liking id="1">In this case, let me see...</liking>
+        <authority id="1">In this case, let me see...</authority>
+        <scarcity id="1">In this case, let me see...</scarcity>
+    </char>
+    <char name="tony">
+        <consistency id="1">In this case, let me see...</consistency>
+        <socialproof id="1">In this case, let me see...</socialproof>
+        <liking id="1">In this case, let me see...</liking>
+        <authority id="1">In this case, let me see...</authority>
+        <scarcity id="1">In this case, let me see...</scarcity>
+    </char>
+    <char name="president">
+        <consistency id="1">In this case, let me see...</consistency>
+        <socialproof id="1">In this case, let me see...</socialproof>
+        <liking id="1">In this case, let me see...</liking>
+        <authority id="1">In this case, let me see...</authority>
+        <scarcity id="1">In this case, let me see...</scarcity>
+    </char>
+    <char name="jonnie">
+        <consistency id="1">In this case, let me see...</consistency>
+        <socialproof id="1">In this case, let me see...</socialproof>
+        <liking id="1">In this case, let me see...</liking>
+        <authority id="1">In this case, let me see...</authority>
+        <scarcity id="1">In this case, let me see...</scarcity>
+    </char>
+</data>

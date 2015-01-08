@@ -1,0 +1,26 @@
+20-5.jpg	0	0	0	-240	1.2
+With America's great undersea craft dead center in their guns, the GRU battleship suddenly perceived the airborne menace...
+Hold fire! Get that American plane first! Elevate all guns!	200	10	150	100
+FRAME	-690	-220	1.20
+Frantically the gunners turned to the new target... but it was too late!
+Look out! Here come their bombs!	110	240	120	100
+FRAME	0	-910	1.2
+Down zoomed the bombs... towards a direct hit on the magazine!
+Good work! There's still a chance for us!	150	20	130	100
+FRAME	-410	-910	1.20
+PLAYMUSIC	REGULAR
+And so the commandos were reunited... safely! But there was no time for relaxation... not when August 15 was but two days off!
+At least we now know Phase C is located in South America! If we can spike that, Phases A and B must automatically fail! C'mon, let's check the microfilm against topographical maps aboard!	160	80	310	100
+FRAME	-750	-920	1.20
+A big dam, a powerhouse and a background of tall mountains could only mean one spot in South America... the Andes! After frantic analysis of the maps...
+Got it! The features match perfectly!	320	70	140	100
+Okay, rev the motors! There's not a moment to spare!	520	60	140	100
+FRAME	-60	-1560	1.20
+At blazing speed, the atomic sub cleaved across the seas! And on August 14, off the South American coast...
+We'll have to use the atomic plane for the last leg of the journey! Jonnie, you keep an eye on things here!	80	30	270	100
+Again? Gosh, you guys never let me do anything!	450	10	180	100
+FRAME	-720	-1530	1.20
+Their destination was pinpointed exactly, but...
+I don't see a thing down there! Better drop altitude, Bill!	160	10	200	100
+If we've made the slightest miscalculation, we'll never find it!	460	10	150	100
+END

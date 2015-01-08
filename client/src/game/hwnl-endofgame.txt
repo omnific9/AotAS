@@ -1,0 +1,3 @@
+title.jpg	0	0	0	0	1.0
+You have completed the game. Please contact the research coordinator for a final debriefing session and collect your compensation.	100	20	600	100
+END

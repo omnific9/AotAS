@@ -1,0 +1,8 @@
+3-8.jpg	0	0	-750	-1580	1.2
+Win a war, did you say, Bill Tyler? The succeeding weeks brought strange, ominous signs! Here they are, and they spell -- WAR!
+No -- don't come near me -- help!	550	60	150	100
+Beware ... they won't rest while we live ... They are coming ... coming ...	60	140	200	100
+What was the secret of this weird message -- written in the lifeblood of an innocent man?	120	300	200	100
+What was it that seaman R.D. Whittaker saw -- before terror robbed him of his life?	420	350	300	100
+Come back tomorrow, and the story will continue!
+END

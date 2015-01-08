@@ -1,0 +1,3 @@
+ind-bill.jpg	0	0	0	-100	1.2
+Look, this will be the last time I'm giving you an assignment. From now on, no one knows what lies in store for us. Cross your fingers, and don't die on me.	120	10	150	100
+END

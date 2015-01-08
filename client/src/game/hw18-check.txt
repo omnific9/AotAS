@@ -1,0 +1,9 @@
+ind-edwin.jpg	0	0	-620	-100	1.2
+PLAYMUSIC	REGULAR
+On the atomic sub, it was a morning like any other. The atomic commandos were on a patrol near the borders of America.
+I hope I did not scare you with all the talk about your braincells, $getusername. I believe you've had time to complete your mission?	30	10	340	100
+SET	prehwid	18
+MENU	$hwreport	2
+I've done it!	You indicate you've completed your mission.	prehw	success
+I didn't do it.	You indicate you did not complete your mission.	prehw	failure
+END

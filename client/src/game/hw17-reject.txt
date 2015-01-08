@@ -1,0 +1,12 @@
+ind-champ.jpg	0	0	-20	-120	1.2
+FUNC	downgrademotivation()
+FUNC	preparemotivation()
+FUNC	abandonhomework()
+FUNC	preparehomework()
+Ya know, once I was seriously injured in a fight... I was trying to catch a group of robbers in my hometown when I was a policeman. I couldn't work out for half a year. When I recovered, it felt like impossible to get back in shape.	390	40	280	100
+What did I do? I started with small things, like doing just one push-up, then two the next day. That's just the way to do it: small commitments. So let me give you a different mission. See if that makes a difference.	390	40	280	100
+$hwmotivate	390	40	280	100
+Your mission: $hwassign	390	40	280	100
+MENU	 	1
+I accept.	You have accepted the new mission!	curhw	ongoing
+END

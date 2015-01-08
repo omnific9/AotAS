@@ -1,0 +1,19 @@
+3-4.jpg	0	0	-30	-150	1.2
+It was a moment of pure horror -- as 300 tons of raging ferocity thundered towards two unconscious men! Bloody death was seconds away -- and what force was strong enough to stop it?
+FRAME	-760	-130	1.2
+But in the outer chamber of the locks, a short distance away --
+That's what I said! Turn that machine around -- fast!	150	30	200	100
+I -- I don't get your idea, Doc -- but here goes!	420	30	270	100
+FRAME	-60	-850	1.2
+Next moment, a surging blast -- as Doc bent the science of Atlantis to his own ends!
+Oxygen under tremendous pressure -- red oxygen -- and it's done the job! You can fetch Bill and Tony now, Champ!	70	100	130	100
+FRAME	-750	-810	1.2
+Hey, Doc -- a bunch of those creeps are coming up after us! How we ever gonna get out of this place?	140	30	160	100
+Hmmm... a few alterations in the output system and I can step up that oxygen jet to cyclone power. Swivel this machine around again, Champ, then hold the door against all comers while I work!	390	30	340	100
+FRAME	-60	-1550	1.2
+Don't worry -- they're not -- getting in yet! But it's lucky you two snapped out of it!	100	10	300	100
+Done! Throw the controls that open the locks!	470	20	180	100
+FRAME	-750	-1650	1.2
+This'll be the first time we've ever run under the ocean! Let's go!	210	20	370	100
+Now the locks of Atlantis yawned wide -- and from them darted a blast of supercharged oxygen -- a titanic scarlet jet that snaked along the ocean bed, pushing the water back, back!
+END

@@ -1,0 +1,9 @@
+white.jpg	0	0	0	0	1.2
+PLAYMUSIC	NONE
+FUNC	preparehomework()
+SET	curhwid	9
+Your homework for today: $hwassign	100	20	600	100
+MENU	 	2
+I accept.	You have accepted the homework!	curhw	ongoing
+I reject.	You have rejected the homework.	curhw	rejected
+END

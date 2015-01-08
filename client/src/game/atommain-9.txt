@@ -1,0 +1,9 @@
+atommain-9.jpg	0	0	-1328	-1160	1.2
+PLAYMUSIC	REGULAR
+Until one day, you will wake up again, from the lowest depths of the waters, to stare into a still and serene night.
+Will it be a better world, where humans live in peace with each other, regardless of country and race? Will it be an era where atomic weapons are no more, for mankind no longer seeks to destroy themselves?
+FRAME	-1328	-640	1.2
+If you'd wake up in thirty, fourty, fifty, or sixty years, will it finally be a world where you'll live a life that you'd never lived, meet someone you'd never met, and have those children that you'd never had?
+Will you meet your old friend Bill Tyler, who will sit with you in pride, and tell you that this is the world you've been fighting for?
+You have completed the game. Thanks for playing.
+END

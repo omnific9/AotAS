@@ -1,0 +1,10 @@
+ind-champ.jpg	0	0	-750	-850	1.2
+FUNC	succeedhomework()
+FUNC	upgrademotivation()
+You remembered what I said, right? Stop thinking about it, and start doing it! So how did it go?	150	20	370	100
+INPUT	$hwsuccess You are limited to 400 words. Press 'Enter' when you are done.
+SETSOUND	success.mp3
+$hwbenefitsuccess	150	20	370	100
+Because you completed your mission, in this session, if conditions are met, you will get to know one of your fellow atomic commandos better, or retrieve a fragment of lost memory.
+Har! You should fight me once. Don't be afraid that I'm too strong. Fighting is not about physical strength. The one with the stronger will wins, and I think you got just that.	150	20	370	100
+END

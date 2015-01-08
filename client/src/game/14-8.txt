@@ -1,0 +1,21 @@
+14-8.jpg	0	0	-80	-220	1.2
+At blinding speed the supersonic ship arrived, and Doc, thinking fast, cindered the Chinese soldiers in its tracks by opening the sub's powerful exhaust...
+FRAME	-670	-220	1.20
+yipeee! Good old Doc! I knew he'd think of something!	620	150	120	100
+FRAME	0	-830	1.2
+PLAYMUSIC	REGULAR
+Moments later...
+Well, that's that!	140	30	200	100
+That's what you think! Head the ship back for Washington... our troubles have just started!	410	10	150	100
+FRAME	-390	-900	1.20
+There was no time to admire the magnificent beauty of the outer galaxies now, for Jonnie was telling his friends a tale which made their blood run cold...
+... An' Ho-Lan showed me where that secret base is located. They might turn those rockets loose any second!	220	90	350	100
+We haven't seen it. Let's report to the joint chiefs of staff first.	390	220	140	100
+FRAME	-750	-880	1.20
+There was sharp disagreement...
+The ice-locked base is right here... an' I don't think Ho-Lan was bluffing!	270	40	140	100
+But he might have been! We don't dare send naval forces to investigate... It could touch off a third war! Besides, ordinary ships couldn't get through the ice.	480	10	180	100
+FRAME	-100	-1490	1.20
+The admiral is right, Mr. President! Such a mission would constitute an invasion of foreign territory!	40	10	270	100
+If I had worried about that, we wouldn't have had this information to begin with! Now we must finish what we started.	440	10	280	100
+END
