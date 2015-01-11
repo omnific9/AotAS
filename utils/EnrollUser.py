@@ -7,7 +7,7 @@ class Dbclass:
 
         self.conn = MySQLdb.connect (host = "127.0.0.1",
                                user = "root",
-                               passwd = "agents",
+                               passwd = "root",
                                db = "james")
         self.cursor = self.conn.cursor()
 

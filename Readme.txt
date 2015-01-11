@@ -5,7 +5,7 @@ The program runs on a MySQL database.
 Create an empty database and use ./utils/AotAS.sql to restore the basic structure of the database. SQLYog is recommended for this.
 Use ./utils/EnrollUser.py to create new users. A user name and a password will be prompted. The actual user ID is the combination of user name and password.
 When prompted for condition, type FULL. When prompted for stage of change, type any of the five options. This only concerns the homework the user receives.
-Note: the database is named "james" by default, and the enrollment program uses "root/agents" as the database credentials. Change these accordingly.
+Note: the database is named "james" by default, and the enrollment program uses "root/root" as the database credentials. Change these accordingly.
 
 Step 2: Server
 The server requires Python 2.7.
